@@ -33,6 +33,26 @@
    skos:prefLabel "Berufsfelder"@de ;
    skos:topConceptOf <> .
 
+
+<41e3a094-137a-46a3-bcd1-a307b2e8b58c> a skos:Concept ;
+   skos:prefLabel "Stufe 1"@de ;
+   skos:topConceptOf <15406533-900f-491f-a1ad-7cd27259ba0e> .
+
+
+<65221146-87f0-437f-b5da-4a4dc95833c1> a skos:Concept ;
+   skos:prefLabel "Stufe 2"@de ;
+   skos:topConceptOf <15406533-900f-491f-a1ad-7cd27259ba0e> .
+
+
+<878e10a7-87ae-4280-85db-4bed15a00983> a skos:Concept ;
+   skos:prefLabel "Stufe 3"@de ;
+   skos:topConceptOf <15406533-900f-491f-a1ad-7cd27259ba0e> .
+
+
+<b5e6e6ec-b4f3-4c23-8efe-35e60ebf1237> a skos:Concept ;
+   skos:prefLabel "Stufe 4"@de ;
+   skos:topConceptOf <15406533-900f-491f-a1ad-7cd27259ba0e> .
+
 <> a skos:ConceptScheme;
     dct:title "Integrierte Berufsausbildungs-vorbereitung (IBA)"@de ;
     dct:description "Das IBA Kompetenzraster wird im Format Simple Knowledge Organization System (SKOS) angelegt. Über den Dienst SKOHUB wird eine maschinenlesbare Version für edu-sharing bereitgestellt. Die Verwaltung des Rasters und ggf. Erweiterung kann über ein Github Repository erfolgen. Es erfolgt eine Implementierung eines Intervall-basierten Jobs im Repositorium, welcher die Daten des Kompetenzrasters zyklisch aktualisiert."@de ;
@@ -47,4 +67,11 @@
 		<9cc6520b-d02b-4255-83c0-fc7c0c94ffe4> ,
 		<e285e286-c4e7-49a3-9e95-e22f9061c2c7> ,
 		<54b3e194-687a-4f67-8d30-9568c9d98927> ,
-		<9314cb30-f73e-42e0-963e-5381844adb94> .
+
+
+
+		<9314cb30-f73e-42e0-963e-5381844adb94> ,
+		<41e3a094-137a-46a3-bcd1-a307b2e8b58c> ,
+		<65221146-87f0-437f-b5da-4a4dc95833c1> ,
+		<878e10a7-87ae-4280-85db-4bed15a00983> ,
+		<b5e6e6ec-b4f3-4c23-8efe-35e60ebf1237> .
