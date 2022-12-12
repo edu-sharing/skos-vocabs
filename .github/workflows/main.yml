@@ -31,7 +31,7 @@ jobs:
 
       - run: mkdir data
 
-      - run: git clone https://github.com/openeduhub/oeh-metadata-vocabs.git data/
+      - run: git clone https://github.com/edu-sharing/skos-vocabs.git data/
 
       - name: build public dir with docker image
         run: docker run -v $(pwd)/public:/app/public -v $(pwd)/data:/app/data laocoon667/openeduhub-skohub-vocabs:docker
@@ -41,4 +41,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          cname: vocabs.openeduhub.de
+          cname: vocabs.edu-sharing.net
