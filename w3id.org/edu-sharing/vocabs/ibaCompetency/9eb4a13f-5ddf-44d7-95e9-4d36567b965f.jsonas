@@ -1,0 +1,19 @@
+{
+  "context": {
+    "@context": [
+      "https://www.w3.org/ns/activitystreams",
+      "https://w3id.org/security/v1"
+    ]
+  },
+  "id": "https://test.skohub.iow3id.org/edu-sharing/vocabs/ibaCompetency/9eb4a13f-5ddf-44d7-95e9-4d36567b965f",
+  "type": "Service",
+  "name": "Stufe 2",
+  "preferredUsername": "773369642e6f72672f6564752d73686172696e672f766f636162732f696261436f6d706574656e63792f39656234613133662d356464662d343464372d393565392d346433363536376239363566",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2FibaCompetency%2F9eb4a13f-5ddf-44d7-95e9-4d36567b965f",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2FibaCompetency%2F9eb4a13f-5ddf-44d7-95e9-4d36567b965f",
+  "publicKey": {
+    "id": "https://test.skohub.iow3id.org/edu-sharing/vocabs/ibaCompetency/9eb4a13f-5ddf-44d7-95e9-4d36567b965f#main-key",
+    "owner": "https://test.skohub.iow3id.org/edu-sharing/vocabs/ibaCompetency/9eb4a13f-5ddf-44d7-95e9-4d36567b965f",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  }
+}
