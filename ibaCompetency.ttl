@@ -14,6 +14,7 @@
 
 <8cd1adb6-4275-4b6d-8df4-db8e6549665d> a skos:Concept ;
    skos:prefLabel "Deutsch / Kommunikation"@de ;
+   skos:topConceptOf <> ;
    skos:narrower <f9b01e9d-65a9-47e5-8cad-586534d70606>,
         <0b34957e-4fbc-4a07-b549-35a479373e38>,
         <8483ed12-e9e6-42bb-a221-bbd1990b4f93>,
@@ -22,6 +23,7 @@
 
 <9cc6520b-d02b-4255-83c0-fc7c0c94ffe4> a skos:Concept ;
    skos:prefLabel "Mathematik"@de ;
+   skos:topConceptOf <> ;
    skos:narrower <5599c132-8546-45cc-b587-7e8cbbaeeb56>,
         <9eb4a13f-5ddf-44d7-95e9-4d36567b965f>,
         <b95746b4-3be8-48fb-a468-77bb40a7f370>,
@@ -30,6 +32,7 @@
 
 <e285e286-c4e7-49a3-9e95-e22f9061c2c7> a skos:Concept ;
    skos:prefLabel "Englisch"@de ;
+   skos:topConceptOf <> ;
    skos:narrower <3db4e0e9-f574-4436-ba77-3af34563f27a>,
         <f02bba56-a9fe-430d-bf38-96e8fb383011>,
         <95b8966e-0a05-4158-9cc9-2be9f2a830a3>,
@@ -37,6 +40,7 @@
 
 <54b3e194-687a-4f67-8d30-9568c9d98927> a skos:Concept ;
    skos:prefLabel "Planung des beruflichen Abschlusses"@de ;
+   skos:topConceptOf <> ;
    skos:narrower <b1bd4e38-54e3-41dd-8224-7db091c7eae6>,
         <da6169ee-3a90-4dca-a577-4ccfc14ce7d4>,
         <3dbc35f5-74cd-4e4c-b5d6-edb9c6d3747d>,
@@ -45,6 +49,7 @@
 
 <9314cb30-f73e-42e0-963e-5381844adb94> a skos:Concept ;
    skos:prefLabel "Berufsfelder"@de ;
+   skos:topConceptOf <> ;
    skos:narrower <6914db1b-168e-4a2c-8218-5fb7c9cb8f4a>,
         <0737d1d8-10e4-4655-a7b8-af72ee4f5452>,
         <dace9b88-2162-44bf-a287-3caa0097125c>,
