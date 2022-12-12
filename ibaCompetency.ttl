@@ -14,22 +14,33 @@
 
 <8cd1adb6-4275-4b6d-8df4-db8e6549665d> a skos:Concept ;
    skos:prefLabel "Deutsch / Kommunikation"@de ;
-   skos:topConceptOf <> .
+   skos:narrower <f9b01e9d-65a9-47e5-8cad-586534d70606>,
+        <0b34957e-4fbc-4a07-b549-35a479373e38>,
+        <8483ed12-e9e6-42bb-a221-bbd1990b4f93>,
+        <d5ecfb61-3c1f-4af4-a1d2-8da79eac94ed>.
 
 
 <9cc6520b-d02b-4255-83c0-fc7c0c94ffe4> a skos:Concept ;
    skos:prefLabel "Mathematik"@de ;
-   skos:topConceptOf <> .
+   skos:narrower <5599c132-8546-45cc-b587-7e8cbbaeeb56>,
+        <9eb4a13f-5ddf-44d7-95e9-4d36567b965f>,
+        <b95746b4-3be8-48fb-a468-77bb40a7f370>,
+        <3c802486-854a-4b9a-ad2d-c16d96927376>.
 
 
 <e285e286-c4e7-49a3-9e95-e22f9061c2c7> a skos:Concept ;
    skos:prefLabel "Englisch"@de ;
-   skos:topConceptOf <> .
-
+   skos:narrower <3db4e0e9-f574-4436-ba77-3af34563f27a>,
+        <f02bba56-a9fe-430d-bf38-96e8fb383011>,
+        <95b8966e-0a05-4158-9cc9-2be9f2a830a3>,
+        <be4873c8-1b3c-499f-a2fc-79af4fe8ecc9>.
 
 <54b3e194-687a-4f67-8d30-9568c9d98927> a skos:Concept ;
    skos:prefLabel "Planung des beruflichen Abschlusses"@de ;
-   skos:topConceptOf <> .
+   skos:narrower <3db4e0e9-f574-4436-ba77-3af34563f27a>,
+        <f02bba56-a9fe-430d-bf38-96e8fb383011>,
+        <95b8966e-0a05-4158-9cc9-2be9f2a830a3>,
+        <be4873c8-1b3c-499f-a2fc-79af4fe8ecc9>..
 
 
 <9314cb30-f73e-42e0-963e-5381844adb94> a skos:Concept ;
@@ -56,6 +67,66 @@
    skos:prefLabel "Stufe 4"@de ;
    skos:topConceptOf <> .
 
+
+<f9b01e9d-65a9-47e5-8cad-586534d70606> a skos:Concept ;
+   skos:prefLabel "Stufe 1"@de ;
+   skos:topConceptOf <> .
+
+
+<0b34957e-4fbc-4a07-b549-35a479373e38> a skos:Concept ;
+   skos:prefLabel "Stufe 2"@de ;
+   skos:topConceptOf <> .
+
+
+<8483ed12-e9e6-42bb-a221-bbd1990b4f93> a skos:Concept ;
+   skos:prefLabel "Stufe 3"@de ;
+   skos:topConceptOf <> .
+
+
+<d5ecfb61-3c1f-4af4-a1d2-8da79eac94ed> a skos:Concept ;
+   skos:prefLabel "Stufe 4"@de ;
+   skos:topConceptOf <> .
+
+
+<5599c132-8546-45cc-b587-7e8cbbaeeb56> a skos:Concept ;
+   skos:prefLabel "Stufe 1"@de ;
+   skos:topConceptOf <> .
+
+
+<9eb4a13f-5ddf-44d7-95e9-4d36567b965f> a skos:Concept ;
+   skos:prefLabel "Stufe 2"@de ;
+   skos:topConceptOf <> .
+
+
+<b95746b4-3be8-48fb-a468-77bb40a7f370> a skos:Concept ;
+   skos:prefLabel "Stufe 3"@de ;
+   skos:topConceptOf <> .
+
+
+<3c802486-854a-4b9a-ad2d-c16d96927376> a skos:Concept ;
+   skos:prefLabel "Stufe 4"@de ;
+   skos:topConceptOf <> .
+
+
+<3db4e0e9-f574-4436-ba77-3af34563f27a> a skos:Concept ;
+   skos:prefLabel "Stufe 1"@de ;
+   skos:topConceptOf <> .
+
+
+<f02bba56-a9fe-430d-bf38-96e8fb383011> a skos:Concept ;
+   skos:prefLabel "Stufe 2"@de ;
+   skos:topConceptOf <> .
+
+
+<95b8966e-0a05-4158-9cc9-2be9f2a830a3> a skos:Concept ;
+   skos:prefLabel "Stufe 3"@de ;
+   skos:topConceptOf <> .
+
+
+<be4873c8-1b3c-499f-a2fc-79af4fe8ecc9> a skos:Concept ;
+   skos:prefLabel "Stufe 4"@de ;
+   skos:topConceptOf <> .
+
 <> a skos:ConceptScheme;
     dct:title "Integrierte Berufsausbildungs-vorbereitung (IBA)"@de ;
     dct:description "Das IBA Kompetenzraster wird im Format Simple Knowledge Organization System (SKOS) angelegt. Über den Dienst SKOHUB wird eine maschinenlesbare Version für edu-sharing bereitgestellt. Die Verwaltung des Rasters und ggf. Erweiterung kann über ein Github Repository erfolgen. Es erfolgt eine Implementierung eines Intervall-basierten Jobs im Repositorium, welcher die Daten des Kompetenzrasters zyklisch aktualisiert."@de ;
@@ -74,7 +145,15 @@
 
 
 		<9314cb30-f73e-42e0-963e-5381844adb94> ,
-		<41e3a094-137a-46a3-bcd1-a307b2e8b58c> ,
-		<65221146-87f0-437f-b5da-4a4dc95833c1> ,
-		<878e10a7-87ae-4280-85db-4bed15a00983> ,
-		<b5e6e6ec-b4f3-4c23-8efe-35e60ebf1237> .
+		<f9b01e9d-65a9-47e5-8cad-586534d70606> ,
+		<0b34957e-4fbc-4a07-b549-35a479373e38> ,
+		<8483ed12-e9e6-42bb-a221-bbd1990b4f93> ,
+		<d5ecfb61-3c1f-4af4-a1d2-8da79eac94ed> ,
+		<5599c132-8546-45cc-b587-7e8cbbaeeb56> ,
+		<9eb4a13f-5ddf-44d7-95e9-4d36567b965f> ,
+		<b95746b4-3be8-48fb-a468-77bb40a7f370> ,
+		<3c802486-854a-4b9a-ad2d-c16d96927376> ,
+		<3db4e0e9-f574-4436-ba77-3af34563f27a> ,
+		<f02bba56-a9fe-430d-bf38-96e8fb383011> ,
+		<95b8966e-0a05-4158-9cc9-2be9f2a830a3> ,
+		<be4873c8-1b3c-499f-a2fc-79af4fe8ecc9> .
