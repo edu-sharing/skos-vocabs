@@ -1,0 +1,50 @@
+@base <http://w3id.org/edu-sharing/vocabs/ibaCompetency/> .
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+
+<15406533-900f-491f-a1ad-7cd27259ba0e> a skos:Concept ;
+   skos:prefLabel "Wirtschafts- und Sozialkunde"@de ;
+   skos:topConceptOf <> .
+
+
+<8cd1adb6-4275-4b6d-8df4-db8e6549665d> a skos:Concept ;
+   skos:prefLabel "Deutsch / Kommunikation"@de ;
+   skos:topConceptOf <> .
+
+
+<9cc6520b-d02b-4255-83c0-fc7c0c94ffe4> a skos:Concept ;
+   skos:prefLabel "Mathematik"@de ;
+   skos:topConceptOf <> .
+
+
+<e285e286-c4e7-49a3-9e95-e22f9061c2c7> a skos:Concept ;
+   skos:prefLabel "Englisch"@de ;
+   skos:topConceptOf <> .
+
+
+<54b3e194-687a-4f67-8d30-9568c9d98927> a skos:Concept ;
+   skos:prefLabel "Planung des beruflichen Abschlusses"@de ;
+   skos:topConceptOf <> .
+
+
+<9314cb30-f73e-42e0-963e-5381844adb94> a skos:Concept ;
+   skos:prefLabel "Berufsfelder"@de ;
+   skos:topConceptOf <> .
+
+<> a skos:ConceptScheme;
+    dct:title "Integrierte Berufsausbildungs-vorbereitung (IBA)"@de ;
+    dct:description "Das IBA Kompetenzraster wird im Format Simple Knowledge Organization System (SKOS) angelegt. Über den Dienst SKOHUB wird eine maschinenlesbare Version für edu-sharing bereitgestellt. Die Verwaltung des Rasters und ggf. Erweiterung kann über ein Github Repository erfolgen. Es erfolgt eine Implementierung eines Intervall-basierten Jobs im Repositorium, welcher die Daten des Kompetenzrasters zyklisch aktualisiert."@de ;
+    dct:creator "<https://bildungsserver.berlin-brandenburg.de/fileadmin/bbb/unterricht/rahmenlehrplaene/berufliche_bildung/be/IBA-Rahmenlehrplan_Teil_B_Berusfelduebergreifende_Faecher_01.pdf>" ;
+    dct:created "2022-12-12"^^xsd:date ;
+    dct:modified "2022-12-12"^^xsd:date ; 
+    dct:issued "2022-12-12"^^xsd:date ;
+    dct:license <https://creativecommons.org/licenses/by-nd/4.0/> ;
+    skos:hasTopConcept 
+    <15406533-900f-491f-a1ad-7cd27259ba0e> ,
+		<8cd1adb6-4275-4b6d-8df4-db8e6549665d> ,
+		<9cc6520b-d02b-4255-83c0-fc7c0c94ffe4> ,
+		<e285e286-c4e7-49a3-9e95-e22f9061c2c7> ,
+		<54b3e194-687a-4f67-8d30-9568c9d98927> ,
+		<9314cb30-f73e-42e0-963e-5381844adb94> .
