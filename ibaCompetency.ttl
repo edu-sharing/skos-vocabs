@@ -6,8 +6,11 @@
 
 <15406533-900f-491f-a1ad-7cd27259ba0e> a skos:Concept ;
    skos:prefLabel "Wirtschafts- und Sozialkunde"@de ;
-   skos:topConceptOf <> .
-
+   skos:topConceptOf <> ;
+   skos:narrower <41e3a094-137a-46a3-bcd1-a307b2e8b58c>,
+        <65221146-87f0-437f-b5da-4a4dc95833c1>,
+        <878e10a7-87ae-4280-85db-4bed15a00983>,
+        <b5e6e6ec-b4f3-4c23-8efe-35e60ebf1237>.
 
 <8cd1adb6-4275-4b6d-8df4-db8e6549665d> a skos:Concept ;
    skos:prefLabel "Deutsch / Kommunikation"@de ;
@@ -36,22 +39,22 @@
 
 <41e3a094-137a-46a3-bcd1-a307b2e8b58c> a skos:Concept ;
    skos:prefLabel "Stufe 1"@de ;
-   skos:topConceptOf <15406533-900f-491f-a1ad-7cd27259ba0e> .
+   skos:topConceptOf <> .
 
 
 <65221146-87f0-437f-b5da-4a4dc95833c1> a skos:Concept ;
    skos:prefLabel "Stufe 2"@de ;
-   skos:topConceptOf <15406533-900f-491f-a1ad-7cd27259ba0e> .
+   skos:topConceptOf <> .
 
 
 <878e10a7-87ae-4280-85db-4bed15a00983> a skos:Concept ;
    skos:prefLabel "Stufe 3"@de ;
-   skos:topConceptOf <15406533-900f-491f-a1ad-7cd27259ba0e> .
+   skos:topConceptOf <> .
 
 
 <b5e6e6ec-b4f3-4c23-8efe-35e60ebf1237> a skos:Concept ;
    skos:prefLabel "Stufe 4"@de ;
-   skos:topConceptOf <15406533-900f-491f-a1ad-7cd27259ba0e> .
+   skos:topConceptOf <> .
 
 <> a skos:ConceptScheme;
     dct:title "Integrierte Berufsausbildungs-vorbereitung (IBA)"@de ;
