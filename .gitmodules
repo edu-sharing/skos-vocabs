@@ -1,0 +1,6 @@
+[submodule "hcrt"]
+	path = hcrt
+	url = https://github.com/dini-ag-kim/hcrt
+[submodule "hochschulfaechersystematik"]
+	path = hochschulfaechersystematik
+	url = https://github.com/dini-ag-kim/hochschulfaechersystematik

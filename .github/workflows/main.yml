@@ -32,6 +32,8 @@ jobs:
       - run: mkdir data
 
       - run: git clone https://github.com/edu-sharing/skos-vocabs.git data/
+      # move ttl files from git submodules into the parent location
+      - run: cd data/ && git submodule init && git submodule update && mv ./**/*.ttl .
 
       - name: make .env.production file
         run: echo "PATH_PREFIX=skobs-vocabs/" > .env.production
