@@ -240,12 +240,6 @@ Beispiele: geographische Karte, Wissenslandkarte"""@de ;
     skos:broadMatch agg:2e678af3-1026-4171-b88e-3b3a915d1673 ;
     skos:prefLabel "Suchmaschine"@de .
 
-<d31a5b68-611f-4015-8be9-56bd5eb44c64> a skos:Concept ;
-    skos:broader <cd625d33-5d7b-4a86-a54a-9a897ded729f> ;
-    skos:inScheme <> ;
-    skos:broadMatch agg:02bfd0fe-96ab-4dd6-a306-ec362ec25ea0 ;
-    skos:prefLabel "Fragebogen und Umfragen"@de .
-
 <e3ca3de5-faf2-4584-bc25-d5f9e784b2b4> a skos:Concept ;
     skos:broader <ec2682af-08a9-4ab1-a324-9dca5151e99f> ;
     skos:definition "Eine Audioaufzeichnung von Unterricht oder Vortragenden, die i.d.R. mehr als einen bestimmten Sachverhalt erläutert (ansonsten wäre es ein Erklär-Audio)."@de ;
@@ -295,9 +289,8 @@ Beispiele: geographische Karte, Wissenslandkarte"""@de ;
 <cd625d33-5d7b-4a86-a54a-9a897ded729f> a skos:Concept ;
     skos:broader <1846d876-d8fd-476a-b540-b8ffd713fedb> ;
     skos:inScheme <> ;
-    skos:narrower <d31a5b68-611f-4015-8be9-56bd5eb44c64> ;
     skos:relatedMatch agg:02bfd0fe-96ab-4dd6-a306-ec362ec25ea0 ;
-    skos:prefLabel "Fragebogen"@de .
+    skos:prefLabel "Fragebogen und Umfragen"@de .
 
 <7a6e9608-2554-4981-95dc-47ab9ba924de> a skos:Concept ;
     skos:broader <1846d876-d8fd-476a-b540-b8ffd713fedb> ;
