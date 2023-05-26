@@ -92,7 +92,7 @@ Beispiele:, Motivbild, Muster, Ornament, Icon, Muster"""@de ;
     skos:definition """Größere Einheit - eher über Wochen, die i.d.R. mit einem Zertifikat/Abschluss endet
 (z.B. Physik ein Schuljahr oder ein Fachsemester im Studium)"""@de ;
     skos:inScheme <> ;
-    skos:exactMatch lrt:course,
+    skos:exactMatch lrt:course ;
     skos:relatedMatch agg:e10e9add-700e-4b57-a9c5-8f1088bb0545 ;
     skos:prefLabel "Kurs"@de ;
     skos:scopeNote "Monate"@de .
@@ -149,7 +149,7 @@ Beispiele:, Motivbild, Muster, Ornament, Icon, Muster"""@de ;
     skos:definition "Ein Audiomedium, das Klänge, Geräusche enthält, die nicht explizit ein Hörbeispiel im Sinne eines Lern-Audios sind."@de ;
     skos:inScheme <> ;
     skos:broadMatch lrt:audio,
-        agg:39197d6f-dfb1-4e82-92e5-79f906e9d2a9 ; ;
+        agg:39197d6f-dfb1-4e82-92e5-79f906e9d2a9 ;
     skos:prefLabel "Klang und Tonaufnahme"@de .
 
 <92c7a50c-6243-45d9-8b11-e79cbbda6305> a skos:Concept ;
