@@ -4,16 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Fifp_lrt%2Fcd625d33-5d7b-4a86-a54a-9a897ded729f",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Fifp_lrt%2Fcd625d33-5d7b-4a86-a54a-9a897ded729f",
   "prefLabel": {
-    "de": "Fragebogen"
+    "de": "Fragebogen und Umfragen"
   },
-  "narrower": [
-    {
-      "id": "http://w3id.org/edu-sharing/vocabs/ifp_lrt/d31a5b68-611f-4015-8be9-56bd5eb44c64",
-      "prefLabel": {
-        "de": "Fragebogen und Umfragen"
-      }
-    }
-  ],
   "broader": {
     "id": "http://w3id.org/edu-sharing/vocabs/ifp_lrt/1846d876-d8fd-476a-b540-b8ffd713fedb",
     "prefLabel": {
