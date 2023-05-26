@@ -56,7 +56,7 @@
 <36e68792-6159-481d-a97b-2c00901f4f78> a skos:Concept ;
     skos:broader <588efe4f-976f-48eb-84aa-8bcb45679f85> ;
     skos:inScheme <> ;
-    skos:exactMatch lrt:worksheet,
+    skos:exactMatch lrt:worksheet ;
     skos:relatedMatch agg:c8e52242-361b-4a2a-b95d-25e516b28b45 ;
     skos:prefLabel "Arbeitsblatt"@de ;
     skos:scopeNote "eine Stunde oder kleiner"@de .
@@ -82,7 +82,7 @@ Beispiele:, Motivbild, Muster, Ornament, Icon, Muster"""@de ;
 <4735c61a-429b-4909-9f3c-cbf975e2aa0e> a skos:Concept ;
     skos:broader <588efe4f-976f-48eb-84aa-8bcb45679f85> ;
     skos:inScheme <> ;
-    skos:exactMatch lrt:experiment,
+    skos:exactMatch lrt:experiment ;
     skos:relatedMatch agg:ffe4d8e8-3cfd-4e9a-b025-83f129eb5c9d ;
     skos:prefLabel "Experiment"@de ;
     skos:scopeNote "Stunde(n)"@de .
