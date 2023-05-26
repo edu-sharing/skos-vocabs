@@ -2,8 +2,6 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix lrt: <http://w3id.org/openeduhub/vocabs/learningResourceType/> .
-@prefix sct: <http://w3id.org/openeduhub/vocabs/sourceContentType/> .
-@prefix tool: <http://w3id.org/openeduhub/vocabs/toolCategory/> .
 @prefix agg: <http://w3id.org/openeduhub/vocabs/new_lrt_aggregated/> .
 
 
@@ -103,7 +101,6 @@ Beispiele:, Motivbild, Muster, Ornament, Icon, Muster"""@de ;
     skos:broader <3869b453-d3c1-4b34-8f25-9127e9d68766> ;
     skos:definition "Ein Internetportal das zu einem Thema informiert und Inhalte anbietet."@de ;
     skos:inScheme <> ;
-    skos:relatedMatch sct:007 ;
     skos:broadMatch agg:2e678af3-1026-4171-b88e-3b3a915d1673 ;
     skos:prefLabel "Webseite und Portal"@de .
 
@@ -174,7 +171,6 @@ Beispiele:, Motivbild, Muster, Ornament, Icon, Muster"""@de ;
     skos:broader <3869b453-d3c1-4b34-8f25-9127e9d68766> ;
     skos:definition "Ein Nachschlagewerk für Inhalte, z.B. die Wikipedia"@de ;
     skos:inScheme <> ;
-    skos:relatedMatch sct:006 ;
     skos:broadMatch agg:2e678af3-1026-4171-b88e-3b3a915d1673 ;
     skos:prefLabel "Lexikon, Enzyklopädie und Wiki"@de .
 
@@ -313,7 +309,6 @@ Beispiele: geographische Karte, Wissenslandkarte"""@de ;
         <facc2239-a827-462a-b2d2-bbab6cfb1178> ;
     skos:exactMatch lrt:video,
         agg:38774279-af36-4ec2-8e70-811d5a51a6a1 ;
-    skos:relatedMatch sct:002 ;
     skos:prefLabel "Video"@de .
 
 <ec2682af-08a9-4ab1-a324-9dca5151e99f> a skos:Concept ;
@@ -329,7 +324,6 @@ Beispiele: geographische Karte, Wissenslandkarte"""@de ;
     skos:exactMatch lrt:audio,
         agg:39197d6f-dfb1-4e82-92e5-79f906e9d2a9 ;
     skos:closeMatch lrt:audiovisual_medium ;
-    skos:relatedMatch sct:003 ;
     skos:prefLabel "Audio"@de .
 
 <a6d1ac52-c557-4151-bc6f-0d99b0b96fb9> a skos:Concept ;
@@ -346,7 +340,6 @@ Beispiele: geographische Karte, Wissenslandkarte"""@de ;
         <f9630e1c-2247-42ed-87b0-b1e18e4ec02b> ;
     skos:exactMatch lrt:image,
         agg:b8fb5fb2-d8bf-4bbe-ab68-358b65a26bed ;
-    skos:relatedMatch sct:001 ;
     skos:prefLabel "Bild"@de .
 
 <1846d876-d8fd-476a-b540-b8ffd713fedb> a skos:Concept ;
@@ -370,15 +363,7 @@ Beispiele: geographische Karte, Wissenslandkarte"""@de ;
         <b84255b1-f760-4420-a8f5-b0b608a53cd9>,
         <ce6c29f7-7bfd-4b84-a676-ac51e8601969>,
         <e0496c2f-0ce0-4c1d-8381-796ea4d7a98a> ;
-    skos:relatedMatch sct:001,
-        sct:002,
-        sct:003,
-        sct:004,
-        sct:005,
-        sct:006,
-        sct:008,
-        sct:010,
-        agg:2e678af3-1026-4171-b88e-3b3a915d1673 ;
+    skos:relatedMatch agg:2e678af3-1026-4171-b88e-3b3a915d1673 ;
     skos:prefLabel "Quelle"@de ;
     skos:topConceptOf <> .
 
@@ -404,7 +389,6 @@ Beispiele: geographische Karte, Wissenslandkarte"""@de ;
         <92c7a50c-6243-45d9-8b11-e79cbbda6305>,
         <a33ef73d-9210-4305-97f9-7357bbf43486>,
         <b0495f44-b05d-4bde-9dc5-34d7b5234d76> ;
-    skos:relatedMatch sct:004 ;
     skos:prefLabel "Lehr- und Lernmaterial"@de .
 
 <> a skos:ConceptScheme ;
