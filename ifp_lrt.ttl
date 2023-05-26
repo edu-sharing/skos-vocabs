@@ -201,7 +201,6 @@ Beispiele:, Motivbild, Muster, Ornament, Icon, Muster"""@de ;
 
 <b0495f44-b05d-4bde-9dc5-34d7b5234d76> a skos:Concept ;
     skos:broader <588efe4f-976f-48eb-84aa-8bcb45679f85> ;
-    skos:narrower <7005a7b7-7b67-4797-960e-894ded60283a> ;
     skos:definition "Ein Spiel oder spielerischer Zugang zu einem Lerngegenstand, der analog eingesetzt wird."@de ;
     skos:inScheme <> ;
     skos:exactMatch lrt:educational_game ;
@@ -319,8 +318,7 @@ Beispiele: geographische Karte, Wissenslandkarte"""@de ;
         <6e821748-ad12-4ac1-bb14-9b54493e2c50>,
         <78cc5a71-5ae2-4fa3-be5f-5cef40c23328>,
         <9c23511c-73d0-407b-b443-c93e36364de2>,
-        <e3ca3de5-faf2-4584-bc25-d5f9e784b2b4>,
-        <ed4f4834-c098-4b05-b27d-a9d9fbd31307> ;
+        <e3ca3de5-faf2-4584-bc25-d5f9e784b2b4> ;
     skos:exactMatch lrt:audio,
         agg:39197d6f-dfb1-4e82-92e5-79f906e9d2a9 ;
     skos:closeMatch lrt:audiovisual_medium ;
@@ -336,7 +334,6 @@ Beispiele: geographische Karte, Wissenslandkarte"""@de ;
         <b6ceade0-58d3-4179-af71-d53ebc6e49d4>,
         <c382a478-74e0-42f1-96dd-fcfb5c27f746>,
         <e3ddae8a-d94c-40d8-b7f7-9bdaf0cb8325>,
-        <f7228fb5-105d-4313-afea-66dd59b1b6f8>,
         <f9630e1c-2247-42ed-87b0-b1e18e4ec02b> ;
     skos:exactMatch lrt:image,
         agg:b8fb5fb2-d8bf-4bbe-ab68-358b65a26bed ;
@@ -354,15 +351,8 @@ Beispiele: geographische Karte, Wissenslandkarte"""@de ;
 
 <3869b453-d3c1-4b34-8f25-9127e9d68766> a skos:Concept ;
     skos:definition "Eine Sammlung mehrerer Inhalte, Tools u.a. Dinge"@de ;
-    skos:narrower <04693b11-8b39-42aa-964f-578be063a851>,
-        <5176beb5-147b-446a-8baf-a2ae693431ec>,
-        <5bc29626-4b74-47d3-9428-f3baff9fc9ee>,
-        <834969d7-c70d-4685-94a4-17cebf0dec7d>,
-        <9f40cd56-8def-46cc-a21b-63d9557dc93d>,
-        <ac0ad1e8-d1a2-42f2-961e-5aa9b8157fa5>,
-        <b84255b1-f760-4420-a8f5-b0b608a53cd9>,
-        <ce6c29f7-7bfd-4b84-a676-ac51e8601969>,
-        <e0496c2f-0ce0-4c1d-8381-796ea4d7a98a> ;
+    skos:narrower <5bc29626-4b74-47d3-9428-f3baff9fc9ee>,
+        <ce6c29f7-7bfd-4b84-a676-ac51e8601969> ;
     skos:relatedMatch agg:2e678af3-1026-4171-b88e-3b3a915d1673 ;
     skos:prefLabel "Quelle"@de ;
     skos:topConceptOf <> .
