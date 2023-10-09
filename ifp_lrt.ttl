@@ -35,7 +35,7 @@
     skos:exactMatch lrt:demonstration ;
     skos:broadMatch lrt:image,
         agg:b8fb5fb2-d8bf-4bbe-ab68-358b65a26bed ;
-    skos:prefLabel "Schaubild"@de .
+    skos:prefLabel "Veranschaulichung, Schaubild"@de .
 
 <22823ca9-7175-4b24-892e-19ebbf5fe0e7> a skos:Concept ;
     skos:broader <588efe4f-976f-48eb-84aa-8bcb45679f85> ;
@@ -68,16 +68,7 @@ Beispiele: Bild zum Ausmalen und Ergänzen."""@de ;
     skos:inScheme <> ;
     skos:broadMatch lrt:image,
         agg:b8fb5fb2-d8bf-4bbe-ab68-358b65a26bed ;
-    skos:prefLabel "Mal- und Bastelanleitungen"@de .
-
-<3b8045af-8fc6-45b5-a352-db46893f7918> a skos:Concept ;
-    skos:broader <a6d1ac52-c557-4151-bc6f-0d99b0b96fb9> ;
-    skos:definition """Ein Bildmedium, das zu Gestaltungszwecken genutzt wird.
-Beispiele:, Motivbild, Muster, Ornament, Icon, Muster"""@de ;
-    skos:inScheme <> ;
-    skos:broadMatch lrt:image,
-        agg:b8fb5fb2-d8bf-4bbe-ab68-358b65a26bed ;
-    skos:prefLabel "Cliparts, Pictogramme und Icons"@de .
+    skos:prefLabel "Mal- und Bastelvorlage"@de .
 
 <4735c61a-429b-4909-9f3c-cbf975e2aa0e> a skos:Concept ;
     skos:broader <588efe4f-976f-48eb-84aa-8bcb45679f85> ;
@@ -119,14 +110,6 @@ Beispiele:, Motivbild, Muster, Ornament, Icon, Muster"""@de ;
     skos:broadMatch lrt:video,
         agg:38774279-af36-4ec2-8e70-811d5a51a6a1 ;
     skos:prefLabel "Lern- und Übungsvideo"@de .
-
-<667f5063-70b9-400c-b1f7-7702ec9487f1> a skos:Concept ;
-    skos:broader <a6d1ac52-c557-4151-bc6f-0d99b0b96fb9> ;
-    skos:definition "Eine Karikatur"@de ;
-    skos:inScheme <> ;
-    skos:broadMatch lrt:image,
-        agg:b8fb5fb2-d8bf-4bbe-ab68-358b65a26bed ;
-    skos:prefLabel "Cartoon, Comic"@de .
 
 <6a15628c-0e59-43e3-9fc5-9a7f7fa261c4> a skos:Concept ;
     skos:broader <0cef3ce9-e106-47ae-836a-48f9ed04384e> ;
@@ -248,12 +231,11 @@ Beispiele: geographische Karte, Wissenslandkarte"""@de ;
         agg:39197d6f-dfb1-4e82-92e5-79f906e9d2a9 ;
     skos:prefLabel "Vortrag"@de .
 
-<e3ddae8a-d94c-40d8-b7f7-9bdaf0cb8325> a skos:Concept ;
+<fc49ea82-5e62-400a-b84f-dbd4d2de1480> a skos:Concept ;
     skos:broader <a6d1ac52-c557-4151-bc6f-0d99b0b96fb9> ;
     skos:inScheme <> ;
-    skos:broadMatch lrt:image,
-        agg:b8fb5fb2-d8bf-4bbe-ab68-358b65a26bed ;
-    skos:prefLabel "Zeichnungen"@de .
+    skos:broadMatch lrt:image ;
+    skos:prefLabel "Grafik und Illustration"@de .
 
 
 <f7e92628-4132-4985-bcf5-93c285e300a8> a skos:Concept ;
@@ -321,12 +303,10 @@ Beispiele: geographische Karte, Wissenslandkarte"""@de ;
     skos:broader <1846d876-d8fd-476a-b540-b8ffd713fedb> ;
     skos:inScheme <> ;
     skos:narrower <1dc4ed81-718c-4b76-86cb-947a86875973>,
+        <fc49ea82-5e62-400a-b84f-dbd4d2de1480>,
         <39db0dbd-cb6f-4153-910f-9f11177b48f2>,
-        <3b8045af-8fc6-45b5-a352-db46893f7918>,
-        <667f5063-70b9-400c-b1f7-7702ec9487f1>,
         <b6ceade0-58d3-4179-af71-d53ebc6e49d4>,
         <c382a478-74e0-42f1-96dd-fcfb5c27f746>,
-        <e3ddae8a-d94c-40d8-b7f7-9bdaf0cb8325>,
         <f9630e1c-2247-42ed-87b0-b1e18e4ec02b> ;
     skos:exactMatch lrt:image,
         agg:b8fb5fb2-d8bf-4bbe-ab68-358b65a26bed ;
