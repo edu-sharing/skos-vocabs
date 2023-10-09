@@ -338,6 +338,7 @@ Beispiele: geographische Karte, Wissenslandkarte"""@de ;
         <588efe4f-976f-48eb-84aa-8bcb45679f85>,
         <7a6e9608-2554-4981-95dc-47ab9ba924de>,
         <cd625d33-5d7b-4a86-a54a-9a897ded729f>,
+        <a6d1ac52-c557-4151-bc6f-0d99b0b96fb9>,
         <ec2682af-08a9-4ab1-a324-9dca5151e99f> ;
     skos:prefLabel "Material"@de ;
     skos:topConceptOf <> .
