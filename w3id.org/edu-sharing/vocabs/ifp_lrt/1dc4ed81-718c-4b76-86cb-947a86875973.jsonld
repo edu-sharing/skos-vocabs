@@ -4,7 +4,7 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Fifp_lrt%2F1dc4ed81-718c-4b76-86cb-947a86875973",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Fifp_lrt%2F1dc4ed81-718c-4b76-86cb-947a86875973",
   "prefLabel": {
-    "de": "Schaubild"
+    "de": "Veranschaulichung, Schaubild"
   },
   "definition": {
     "de": "Konzepte darstellender Abbildung, z.B. Organigramme, Prozessdarstellungen, Concept Maps"

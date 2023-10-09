@@ -7,7 +7,7 @@
   },
   "id": "https://test.skohub.iow3id.org/edu-sharing/vocabs/ifp_lrt/1dc4ed81-718c-4b76-86cb-947a86875973",
   "type": "Service",
-  "name": "Schaubild",
+  "name": "Veranschaulichung, Schaubild",
   "preferredUsername": "773369642e6f72672f6564752d73686172696e672f766f636162732f6966705f6c72742f31646334656438312d373138632d346237362d383663622d393437613836383735393733",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Fifp_lrt%2F1dc4ed81-718c-4b76-86cb-947a86875973",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Fifp_lrt%2F1dc4ed81-718c-4b76-86cb-947a86875973",

@@ -10,25 +10,19 @@
     {
       "id": "http://w3id.org/edu-sharing/vocabs/ifp_lrt/1dc4ed81-718c-4b76-86cb-947a86875973",
       "prefLabel": {
-        "de": "Schaubild"
+        "de": "Veranschaulichung, Schaubild"
+      }
+    },
+    {
+      "id": "http://w3id.org/edu-sharing/vocabs/ifp_lrt/fc49ea82-5e62-400a-b84f-dbd4d2de1480",
+      "prefLabel": {
+        "de": "Grafik und Illustration"
       }
     },
     {
       "id": "http://w3id.org/edu-sharing/vocabs/ifp_lrt/39db0dbd-cb6f-4153-910f-9f11177b48f2",
       "prefLabel": {
-        "de": "Mal- und Bastelanleitungen"
-      }
-    },
-    {
-      "id": "http://w3id.org/edu-sharing/vocabs/ifp_lrt/3b8045af-8fc6-45b5-a352-db46893f7918",
-      "prefLabel": {
-        "de": "Cliparts, Pictogramme und Icons"
-      }
-    },
-    {
-      "id": "http://w3id.org/edu-sharing/vocabs/ifp_lrt/667f5063-70b9-400c-b1f7-7702ec9487f1",
-      "prefLabel": {
-        "de": "Cartoon, Comic"
+        "de": "Mal- und Bastelvorlage"
       }
     },
     {
@@ -41,12 +35,6 @@
       "id": "http://w3id.org/edu-sharing/vocabs/ifp_lrt/c382a478-74e0-42f1-96dd-fcfb5c27f746",
       "prefLabel": {
         "de": "Poster und Plakat"
-      }
-    },
-    {
-      "id": "http://w3id.org/edu-sharing/vocabs/ifp_lrt/e3ddae8a-d94c-40d8-b7f7-9bdaf0cb8325",
-      "prefLabel": {
-        "de": "Zeichnungen"
       }
     },
     {
