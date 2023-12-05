@@ -11,22 +11,6 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<> a skos:ConceptScheme ;
-    dc:title "LRMI Interact Type Vocabulary"@en-US, "LRMI Vokabular der Interaktivitätstypen"@de ;
-    dc:creator "LRMI Task Group (DCMI)"@en-US, "LRMI Task Group (DCMI)"@de ;
-    dct:description "A concept scheme that defines the predominate interact mode of the learning resource being described."@en-US ;
-    dct:description "Ein kontrolliertes Vokabular, das die vorherrschende Lehr-/Lernform der zu beschreibenden Lernressource definiert."@de ;
-    dct:source "Based on the IEEE Learning Object Metadata standard (IEEE/LOM - IEEE 1484.12.1-202)."@en-US ;
-    dct:source "Basierend auf dem IEEE Learning Object Metadata Standard (IEEE/LOM - IEEE 1484.12.1-202)."@de ;
-    dct:created "2017-03-01"^^xsd:date ;
-    dct:modified "2022-10-18"^^xsd:date ;
-    vann:changes "https://www.dublincore.org/specifications/lrmi/concept_schemes/release-history/" ;
-    dct:license <http://creativecommons.org/licenses/by/4.0/> ;
-    skos:hasTopConcept 
-        <active>,
-        <expositive>,
-        <mixed> .
-
 <active> a skos:Concept ;
     skos:prefLabel "active"@en-US, "aktiv (eher selbstgesteuert)"@de ;
     skos:definition "Learning that engages and challenges the learner's thinking using real-life and/or imaginary situations taking advantage of the opportunities for learning presented by investigating, exploring, events, and life experiences."@en-US ;
@@ -51,3 +35,19 @@
     dct:source "Based on IEEE Learning Object Metadata standard (IEEE 1484.12.1-202 (LOMv1.0))."@en-US ;
     dct:source "Basierend auf dem IEEE Learning Object Metadata Standard (IEEE 1484.12.1-202 (LOMv1.0))."@de ;
     skos:inScheme interact: .
+
+<> a skos:ConceptScheme ;
+    dc:title "LRMI Interact Type Vocabulary"@en-US, "LRMI Vokabular der Interaktivitätstypen"@de ;
+    dc:creator "LRMI Task Group (DCMI)"@en-US, "LRMI Task Group (DCMI)"@de ;
+    dct:description "A concept scheme that defines the predominate interact mode of the learning resource being described."@en-US ;
+    dct:description "Ein kontrolliertes Vokabular, das die vorherrschende Lehr-/Lernform der zu beschreibenden Lernressource definiert."@de ;
+    dct:source "Based on the IEEE Learning Object Metadata standard (IEEE/LOM - IEEE 1484.12.1-202)."@en-US ;
+    dct:source "Basierend auf dem IEEE Learning Object Metadata Standard (IEEE/LOM - IEEE 1484.12.1-202)."@de ;
+    dct:created "2017-03-01"^^xsd:date ;
+    dct:modified "2022-10-18"^^xsd:date ;
+    vann:changes "https://www.dublincore.org/specifications/lrmi/concept_schemes/release-history/" ;
+    dct:license <http://creativecommons.org/licenses/by/4.0/> ;
+    skos:hasTopConcept 
+        <active>,
+        <expositive>,
+        <mixed> .
