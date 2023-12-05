@@ -14,16 +14,16 @@
 <active> a skos:Concept ;
     skos:prefLabel "active"@en-US, "aktiv (eher selbstgesteuert)"@de ;
     skos:definition "Learning that engages and challenges the learner's thinking using real-life and/or imaginary situations taking advantage of the opportunities for learning presented by investigating, exploring, events, and life experiences."@en-US ;
-    skos:definition "Lernen, welches das Denken des Lernenden in realen und/oder imaginÃ¤ren Situationen anregt und herausfordert und dabei die Lernmöglichkeiten nutzt, die sich durch Untersuchungen, Erkundungen, Ereignisse und Erfahrungen ergeben."@de ;
+    skos:definition "Lernen, welches das Denken des Lernenden in realen und/oder imaginären Situationen anregt und herausfordert und dabei die Lernmöglichkeiten nutzt, die sich durch Untersuchungen, Erkundungen, Ereignisse und Erfahrungen ergeben."@de ;
     skos:example "Selbstlernmodul"@de, "self-learning module"@en-US ;
     dct:source "Based on the IEEE Learning Object Metadata standard (IEEE 1484.12.1-202 (LOMv1.0))."@en-US ;
     dct:source "Basierend auf dem IEEE Learning Object Metadata Standard (IEEE 1484.12.1-202 (LOMv1.0))."@de ;
     skos:inScheme <> .
 
 <expositive> a skos:Concept ;
-    skos:prefLabel "expositive"@en-US, "erklÃ¤rend (eher fremdgesteuert)"@de ;
+    skos:prefLabel "expositive"@en-US, "erklärend (eher fremdgesteuert)"@de ;
     skos:definition "Use of a subject-matter expert to explain a concept or give clear and concise information in a purposeful way to the passive learner."@en-US ;
-    skos:definition "Einsatz eines Lehrenden zur Erklärung eines Konzepts oder zur zielgerichteten Vermittlung klarer und prÃ¤gnanter Informationen an den Lernenden."@de ;
+    skos:definition "Einsatz eines Lehrenden zur Erklärung eines Konzepts oder zur zielgerichteten Vermittlung klarer und prägnanter Informationen an den Lernenden."@de ;
     dct:source "Based on the IEEE Learning Object Metadata standard (IEEE 1484.12.1-202 (LOMv1.0))."@en-US ;
     dct:source "Basierend auf dem IEEE Learning Object Metadata Standard (IEEE 1484.12.1-202 (LOMv1.0))."@de ;
     skos:inScheme <> .
@@ -31,7 +31,7 @@
 <mixed> a skos:Concept ;
     skos:prefLabel "mixed"@en-US, "gemischt"@de ;
     skos:definition "Instructional interactions comprised of a mix of active learning and expositive approaches."@en-US ;
-    skos:definition "Unterrichtliche Interaktionen, die eine Mischung aus aktivem Lernen (eher selbstgesteuert) und erklÃ¤renden AnsÃ¤tzen (eher fremdgesteuert) beinhalten."@de ;
+    skos:definition "Unterrichtliche Interaktionen, die eine Mischung aus aktivem Lernen (eher selbstgesteuert) und erklärenden Ansätzen (eher fremdgesteuert) beinhalten."@de ;
     dct:source "Based on IEEE Learning Object Metadata standard (IEEE 1484.12.1-202 (LOMv1.0))."@en-US ;
     dct:source "Basierend auf dem IEEE Learning Object Metadata Standard (IEEE 1484.12.1-202 (LOMv1.0))."@de ;
     skos:inScheme <> .
