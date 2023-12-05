@@ -5,11 +5,11 @@
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Fdublin%2Finteractivitytype%2Fexpositive",
   "prefLabel": {
     "en_us": "expositive",
-    "de": "erklÃ¤rend (eher fremdgesteuert)"
+    "de": "erklärend (eher fremdgesteuert)"
   },
   "definition": {
     "en_us": "Use of a subject-matter expert to explain a concept or give clear and concise information in a purposeful way to the passive learner.",
-    "de": "Einsatz eines Lehrenden zur Erklärung eines Konzepts oder zur zielgerichteten Vermittlung klarer und prÃ¤gnanter Informationen an den Lernenden."
+    "de": "Einsatz eines Lehrenden zur Erklärung eines Konzepts oder zur zielgerichteten Vermittlung klarer und prägnanter Informationen an den Lernenden."
   },
   "inScheme": {
     "id": "http://w3id.org/edu-sharing/vocabs/dublin/interactivitytype/",
