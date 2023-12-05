@@ -1,4 +1,4 @@
-@base <http://w3id.org/edu-sharing/vocabs/zoerr_interactivitytype/> .
+@base <http://w3id.org/edu-sharing/vocabs/dublin_interactivitytype/> .
 @prefix dc: <http://dublincore.org/elements/1.1/> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix interact: <http://purl.org/dcx/lrmi-vocabs/interactivityType/> .
