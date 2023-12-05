@@ -33,7 +33,7 @@
 <peerTutor> a skos:Concept;
   skos:prefLabel "peer tutor"@en-US, "Peer-Tutor*in"@de;
   skos:definition "The peer learner serving as tutor of another learner."@en-US, "Eine lernende Person gleichen Rangs, die als Tutor einer anderen Person agiert"@de;
-  skos:broader <student>;
+  # skos:broader <student>;
   skos:inScheme <> .
 
 <professional> a skos:Concept;
@@ -44,7 +44,7 @@
 <student> a skos:Concept;
   skos:prefLabel "student"@en-US, "Lernende"@de;
   skos:definition "The learner or trainee."@en-US, "Lerner*in oder Trainee"@de;
-  skos:narrower <peerTutor>;
+  # skos:narrower <peerTutor>;
   skos:inScheme <> .
 
 <teacher> a skos:Concept;
@@ -53,8 +53,8 @@
   skos:inScheme <> .
 
 <> a skos:ConceptScheme;
-  dc:title "LRMI Educational Audience Role Vocabulary"@en-US, "LRMI Vokabular für pädagogische Zielgruppen"@de ;
-  dc:creator "LRMI Task Group (DCMI)"@en-US ;
+  dct:title "LRMI Educational Audience Role Vocabulary"@en-US, "LRMI Vokabular für pädagogische Zielgruppen"@de ;
+  dct:creator "LRMI Task Group (DCMI)"@en-US ;
   dct:description "A concept scheme that defines the primary or intended roles of the audience (beneficiary) of the resource being described."@en-US, "Ein kontrolliertes Vokabular, das die primÃ¤ren oder zugedachten Rollen der Zielgruppe einer Lehr-/Lernressource definiert."@de ;
   dct:created "2017-03-01"^^xsd:date ;
   dct:modified "2022-10-18"^^xsd:date ;
