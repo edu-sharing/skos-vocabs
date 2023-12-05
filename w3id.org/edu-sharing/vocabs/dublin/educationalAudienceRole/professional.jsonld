@@ -12,7 +12,11 @@
     "de": "Eine Person mit Erfahrung in einem Fach; Branchenpartner*in oder Trainer*in fÃ¼r berufliche Weiterbildung"
   },
   "inScheme": {
-    "id": "http://w3id.org/edu-sharing/vocabs/dublin/educationalAudienceRole/"
+    "id": "http://w3id.org/edu-sharing/vocabs/dublin/educationalAudienceRole/",
+    "title": {
+      "en_us": "LRMI Educational Audience Role Vocabulary",
+      "de": "LRMI Vokabular für pädagogische Zielgruppen"
+    }
   },
   "@context": {
     "id": "@id",

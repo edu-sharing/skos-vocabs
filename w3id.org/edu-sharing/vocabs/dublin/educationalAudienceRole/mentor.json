@@ -12,7 +12,11 @@
     "de": "Jemand der berÃ¤t, trainiert, unterstÃ¼tzt und/oder anleitet."
   },
   "inScheme": {
-    "id": "http://w3id.org/edu-sharing/vocabs/dublin/educationalAudienceRole/"
+    "id": "http://w3id.org/edu-sharing/vocabs/dublin/educationalAudienceRole/",
+    "title": {
+      "en_us": "LRMI Educational Audience Role Vocabulary",
+      "de": "LRMI Vokabular für pädagogische Zielgruppen"
+    }
   },
   "@context": {
     "id": "@id",

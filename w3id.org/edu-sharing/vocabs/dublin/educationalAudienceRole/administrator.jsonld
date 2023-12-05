@@ -12,7 +12,11 @@
     "de": "Trainer*innen oder Lehrpersonen mit Verwaltungsverantwortung"
   },
   "inScheme": {
-    "id": "http://w3id.org/edu-sharing/vocabs/dublin/educationalAudienceRole/"
+    "id": "http://w3id.org/edu-sharing/vocabs/dublin/educationalAudienceRole/",
+    "title": {
+      "en_us": "LRMI Educational Audience Role Vocabulary",
+      "de": "LRMI Vokabular für pädagogische Zielgruppen"
+    }
   },
   "@context": {
     "id": "@id",

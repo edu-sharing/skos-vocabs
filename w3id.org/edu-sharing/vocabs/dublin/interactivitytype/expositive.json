@@ -12,7 +12,11 @@
     "de": "Einsatz eines Lehrenden zur Erklärung eines Konzepts oder zur zielgerichteten Vermittlung klarer und prÃ¤gnanter Informationen an den Lernenden."
   },
   "inScheme": {
-    "id": "http://w3id.org/edu-sharing/vocabs/dublin/interactivitytype/"
+    "id": "http://w3id.org/edu-sharing/vocabs/dublin/interactivitytype/",
+    "title": {
+      "en_us": "LRMI Interact Type Vocabulary",
+      "de": "LRMI Vokabular der Interaktivitätstypen"
+    }
   },
   "@context": {
     "id": "@id",

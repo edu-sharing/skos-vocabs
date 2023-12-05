@@ -11,17 +11,12 @@
     "en_us": "The learner or trainee.",
     "de": "Lerner*in oder Trainee"
   },
-  "narrower": [
-    {
-      "id": "http://w3id.org/edu-sharing/vocabs/dublin/educationalAudienceRole/peerTutor",
-      "prefLabel": {
-        "en_us": "peer tutor",
-        "de": "Peer-Tutor*in"
-      }
-    }
-  ],
   "inScheme": {
-    "id": "http://w3id.org/edu-sharing/vocabs/dublin/educationalAudienceRole/"
+    "id": "http://w3id.org/edu-sharing/vocabs/dublin/educationalAudienceRole/",
+    "title": {
+      "en_us": "LRMI Educational Audience Role Vocabulary",
+      "de": "LRMI Vokabular für pädagogische Zielgruppen"
+    }
   },
   "@context": {
     "id": "@id",

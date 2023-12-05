@@ -12,7 +12,11 @@
     "de": "Lernen, welches das Denken des Lernenden in realen und/oder imaginÃ¤ren Situationen anregt und herausfordert und dabei die Lernmöglichkeiten nutzt, die sich durch Untersuchungen, Erkundungen, Ereignisse und Erfahrungen ergeben."
   },
   "inScheme": {
-    "id": "http://w3id.org/edu-sharing/vocabs/dublin/interactivitytype/"
+    "id": "http://w3id.org/edu-sharing/vocabs/dublin/interactivitytype/",
+    "title": {
+      "en_us": "LRMI Interact Type Vocabulary",
+      "de": "LRMI Vokabular der Interaktivitätstypen"
+    }
   },
   "@context": {
     "id": "@id",

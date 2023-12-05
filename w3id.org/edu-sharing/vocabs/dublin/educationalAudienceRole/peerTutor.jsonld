@@ -11,15 +11,12 @@
     "en_us": "The peer learner serving as tutor of another learner.",
     "de": "Eine lernende Person gleichen Rangs, die als Tutor einer anderen Person agiert"
   },
-  "broader": {
-    "id": "http://w3id.org/edu-sharing/vocabs/dublin/educationalAudienceRole/student",
-    "prefLabel": {
-      "en_us": "student",
-      "de": "Lernende"
-    }
-  },
   "inScheme": {
-    "id": "http://w3id.org/edu-sharing/vocabs/dublin/educationalAudienceRole/"
+    "id": "http://w3id.org/edu-sharing/vocabs/dublin/educationalAudienceRole/",
+    "title": {
+      "en_us": "LRMI Educational Audience Role Vocabulary",
+      "de": "LRMI Vokabular für pädagogische Zielgruppen"
+    }
   },
   "@context": {
     "id": "@id",

@@ -12,7 +12,11 @@
     "de": "Unterrichtliche Interaktionen, die eine Mischung aus aktivem Lernen (eher selbstgesteuert) und erklÃ¤renden AnsÃ¤tzen (eher fremdgesteuert) beinhalten."
   },
   "inScheme": {
-    "id": "http://w3id.org/edu-sharing/vocabs/dublin/interactivitytype/"
+    "id": "http://w3id.org/edu-sharing/vocabs/dublin/interactivitytype/",
+    "title": {
+      "en_us": "LRMI Interact Type Vocabulary",
+      "de": "LRMI Vokabular der Interaktivitätstypen"
+    }
   },
   "@context": {
     "id": "@id",
