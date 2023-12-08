@@ -7,7 +7,7 @@
   },
   "id": "https://test.skohub.iow3id.org/kim/hcrt/drill_and_practice",
   "type": "Service",
-  "name": "Übung",
+  "name": "Drill and Practice",
   "preferredUsername": "773369642e6f72672f6b696d2f686372742f6472696c6c5f616e645f7072616374696365",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhcrt%2Fdrill_and_practice",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhcrt%2Fdrill_and_practice",

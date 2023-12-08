@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn63",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn63",
   "prefLabel": {
-    "de": "Maschinenbau/Verfahrenstechnik",
     "en": "Mechanical Engineering / Process Engineering",
+    "de": "Maschinenbau/Verfahrenstechnik",
     "uk": "Машинобудування/Технологія"
   },
   "notation": [
@@ -15,168 +15,168 @@
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n141",
       "prefLabel": {
-        "de": "Abfallwirtschaft",
         "en": "Waste Management",
+        "de": "Abfallwirtschaft",
         "uk": "Управління відходами"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n143",
       "prefLabel": {
-        "de": "Augenoptik",
         "en": "Ophthalmic Optics",
+        "de": "Augenoptik",
         "uk": "Офтальмологічна оптика"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n033",
       "prefLabel": {
-        "de": "Chemie-Ingenieurwesen/Chemietechnik",
         "en": "Chemical Engineering/Chemical Process Engineering",
+        "de": "Chemie-Ingenieurwesen/Chemietechnik",
         "uk": "Хімічна інженерія/Інженерія хімічних процесів"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n231",
       "prefLabel": {
-        "de": "Druck- und Reproduktionstechnik",
         "en": "Printing and Reproduction Technology",
+        "de": "Druck- und Reproduktionstechnik",
         "uk": "Технологія друку та розмноження"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n211",
       "prefLabel": {
-        "de": "Energietechnik (ohne Elektrotechnik)",
         "en": "Energy Process Engineering",
+        "de": "Energietechnik (ohne Elektrotechnik)",
         "uk": "Енергетичні технології (без електротехніки)"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n212",
       "prefLabel": {
-        "de": "Feinwerktechnik",
         "en": "Precision Engineering",
+        "de": "Feinwerktechnik",
         "uk": "Точна інженерія"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n202",
       "prefLabel": {
-        "de": "Fertigungs-/Produktionstechnik",
         "en": "Manufacturing Technology/Production Engineering",
+        "de": "Fertigungs-/Produktionstechnik",
         "uk": "Технологія виробництва/Виробнича інженерія"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n215",
       "prefLabel": {
-        "de": "Gesundheitstechnik",
         "en": "Health Technology",
+        "de": "Gesundheitstechnik",
         "uk": "Технологія охорони здоров'я"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n216",
       "prefLabel": {
-        "de": "Glastechnik/Keramik",
         "en": "Glass Technology/Ceramics",
+        "de": "Glastechnik/Keramik",
         "uk": "Технологія скла/Кераміка"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n082",
       "prefLabel": {
-        "de": "Holz-/Fasertechnik",
         "en": "Wood and Fibre Technology",
+        "de": "Holz-/Fasertechnik",
         "uk": "Технологія деревини та волокна"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n241",
       "prefLabel": {
-        "de": "Kerntechnik/Kernverfahrenstechnik",
         "en": "Nuclear technology/nuclear process engineering",
+        "de": "Kerntechnik/Kernverfahrenstechnik",
         "uk": "Атомна інженерія/Інженерія ядерних процесів"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n219",
       "prefLabel": {
-        "de": "Kunststofftechnik",
         "en": "Plastics Technology",
+        "de": "Kunststofftechnik",
         "uk": "Технологія пластмас"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n104",
       "prefLabel": {
-        "de": "Maschinenbau/-wesen",
         "en": "Mechanical Engineering",
+        "de": "Maschinenbau/-wesen",
         "uk": "Машинобудування"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n108",
       "prefLabel": {
-        "de": "Metalltechnik",
         "en": "Metals Technology",
+        "de": "Metalltechnik",
         "uk": "Технологія металів"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n224",
       "prefLabel": {
-        "de": "Physikalische Technik",
         "en": "Engineering Physics/Mechanical Process Engineering",
+        "de": "Physikalische Technik",
         "uk": "Інженерна фізика"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n144",
       "prefLabel": {
-        "de": "Technische Kybernetik",
         "en": "Technical Cybernetics",
+        "de": "Technische Kybernetik",
         "uk": "Технічна кібернетика"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n225",
       "prefLabel": {
-        "de": "Textil- und Bekleidungstechnik/-gewerbe",
         "en": "Textile and Clothing Technology/Industry",
+        "de": "Textil- und Bekleidungstechnik/-gewerbe",
         "uk": "Текстильне виробництво/Легка промисловість"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n074",
       "prefLabel": {
-        "de": "Transport-/Fördertechnik",
         "en": "Transport and Conveying Technology",
+        "de": "Transport-/Fördertechnik",
         "uk": "Транспорт/Конвеєрна техніка"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n457",
       "prefLabel": {
-        "de": "Umwelttechnik (einschl. Recycling)",
         "en": "Environmental Technology (including Recycling)",
+        "de": "Umwelttechnik (einschl. Recycling)",
         "uk": "Екологічні технології (включно з переробкою)"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n226",
       "prefLabel": {
-        "de": "Verfahrenstechnik",
         "en": "Process Engineering",
+        "de": "Verfahrenstechnik",
         "uk": "Технологія процесів"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n213",
       "prefLabel": {
-        "de": "Versorgungstechnik",
         "en": "Supply Technology",
+        "de": "Versorgungstechnik",
         "uk": "Технології постачання"
       }
     }
@@ -184,16 +184,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n8",
     "prefLabel": {
-      "de": "Ingenieurwissenschaften",
       "en": "Engineering Sciences",
+      "de": "Ingenieurwissenschaften",
       "uk": "Інженерія"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "en": "Destatis classification for subject groups, study areas and study subjects",
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn42",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn42",
   "prefLabel": {
-    "de": "Studienbereich Biologie",
     "en": "Biology",
+    "de": "Studienbereich Biologie",
     "uk": "Біологія"
   },
   "notation": [
@@ -15,32 +15,32 @@
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n009",
       "prefLabel": {
-        "de": "Anthropologie (Humanbiologie)",
         "en": "Anthropology (Human Biology)",
+        "de": "Anthropologie (Humanbiologie)",
         "uk": "Антропологія (Біологія людини)"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n026",
       "prefLabel": {
-        "de": "Biologie",
         "en": "Biology",
+        "de": "Biologie",
         "uk": "Біологія"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n300",
       "prefLabel": {
-        "de": "Biomedizin",
         "en": "Biomedicine",
+        "de": "Biomedizin",
         "uk": "Біомедицина"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n282",
       "prefLabel": {
-        "de": "Biotechnologie",
         "en": "Biotechnology",
+        "de": "Biotechnologie",
         "uk": "Біотехнологія"
       }
     }
@@ -48,16 +48,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n4",
     "prefLabel": {
-      "de": "Mathematik, Naturwissenschaften",
       "en": "Mathematics, Natural Sciences",
+      "de": "Mathematik, Naturwissenschaften",
       "uk": "Математика, природничі науки"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "en": "Destatis classification for subject groups, study areas and study subjects",
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

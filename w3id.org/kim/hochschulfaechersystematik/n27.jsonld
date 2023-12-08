@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn27",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn27",
   "prefLabel": {
-    "de": "Studienbereich Sozialwesen",
     "en": "Applied Social Science",
+    "de": "Studienbereich Sozialwesen",
     "uk": "Прикладні суспільні науки"
   },
   "notation": [
@@ -15,24 +15,24 @@
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n208",
       "prefLabel": {
-        "de": "Soziale Arbeit",
         "en": "Social Work",
+        "de": "Soziale Arbeit",
         "uk": "Соціальна робота"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n245",
       "prefLabel": {
-        "de": "Sozialpädagogik",
         "en": "Social Pedagogy",
+        "de": "Sozialpädagogik",
         "uk": "Соціальна педагогіка"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n253",
       "prefLabel": {
-        "de": "Sozialwesen",
         "en": "Applied Social Science",
+        "de": "Sozialwesen",
         "uk": "Прикладні суспільні науки"
       }
     }
@@ -40,16 +40,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n3",
     "prefLabel": {
-      "de": "Rechts-, Wirtschafts- und Sozialwissenschaften",
       "en": "Law, Economics and Social Sciences",
+      "de": "Rechts-, Wirtschafts- und Sozialwissenschaften",
       "uk": "Право, економіка та суспільні науки"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "en": "Destatis classification for subject groups, study areas and study subjects",
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

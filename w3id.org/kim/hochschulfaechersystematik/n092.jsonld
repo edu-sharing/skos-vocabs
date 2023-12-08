@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn092",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn092",
   "prefLabel": {
-    "de": "Kunstgeschichte, Kunstwissenschaft",
     "en": "Art History, Art Theory",
+    "de": "Kunstgeschichte, Kunstwissenschaft",
     "uk": "Історія та теорія образотворчого мистецтва"
   },
   "notation": [
@@ -14,16 +14,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n74",
     "prefLabel": {
-      "de": "Kunst, Kunstwissenschaft allgemein",
       "en": "Art, Art Theory (general)",
+      "de": "Kunst, Kunstwissenschaft allgemein",
       "uk": "Культура і мистецтво, теорія мистецтв (загальні)"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "en": "Destatis classification for subject groups, study areas and study subjects",
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn7",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn7",
   "prefLabel": {
-    "de": "Agrar-, Forst- und Ernährungswissenschaften, Veterinärmedizin",
     "en": "Agricultural, Forest and Nutritional Sciences, Veterinary medicine",
+    "de": "Agrar-, Forst- und Ernährungswissenschaften, Veterinärmedizin",
     "uk": "Сільськогосподарські, лісові та харчові науки, ветеринарія"
   },
   "notation": [
@@ -15,40 +15,40 @@
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n51",
       "prefLabel": {
-        "de": "Veterinärmedizin",
         "en": "Veterinary Medicine",
+        "de": "Veterinärmedizin",
         "uk": "Ветеринарна медицина"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n57",
       "prefLabel": {
-        "de": "Landespflege, Umweltgestaltung",
         "en": "Land Management Engineering, Environmental Design",
+        "de": "Landespflege, Umweltgestaltung",
         "uk": "Землеустрій, екологічний дизайн"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n58",
       "prefLabel": {
-        "de": "Agrarwissenschaften, Lebensmittel- und Getränketechnologie",
         "en": "Agricultural Science, Food- and Beverage Technology",
+        "de": "Agrarwissenschaften, Lebensmittel- und Getränketechnologie",
         "uk": "Сільськогосподарська наука, харчові технології"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n59",
       "prefLabel": {
-        "de": "Forstwissenschaft, Holzwirtschaft",
         "en": "Forestry, Wood Science",
+        "de": "Forstwissenschaft, Holzwirtschaft",
         "uk": "Лісівництво, деревообробна промисловість"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n60",
       "prefLabel": {
-        "de": "Ernährungs- und Haushaltswissenschaften",
         "en": "Nutritional and Domestic Science",
+        "de": "Ernährungs- und Haushaltswissenschaften",
         "uk": "Харчові та побутові науки"
       }
     }
@@ -56,8 +56,8 @@
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "en": "Destatis classification for subject groups, study areas and study subjects",
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

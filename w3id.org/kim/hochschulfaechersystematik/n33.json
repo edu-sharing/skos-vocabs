@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn33",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn33",
   "prefLabel": {
-    "de": "Erziehungswissenschaften",
     "en": "Educational Sciences",
+    "de": "Erziehungswissenschaften",
     "uk": "Педагогічні науки"
   },
   "notation": [
@@ -15,72 +15,72 @@
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n117",
       "prefLabel": {
-        "de": "Ausländerpädagogik",
         "en": "Immigrant Education",
+        "de": "Ausländerpädagogik",
         "uk": "Освіта мігрантів"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n270",
       "prefLabel": {
-        "de": "Berufs- und Wirtschaftspädagogik",
         "en": "Vocational, Business and Economics Education",
+        "de": "Berufs- und Wirtschaftspädagogik",
         "uk": "Професійна, бізнес та економічна освіта"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n321",
       "prefLabel": {
-        "de": "Erwachsenenbildung und außerschulische Jugendbildung",
         "en": "Adult Education and Extracurricular Youth Educat.",
+        "de": "Erwachsenenbildung und außerschulische Jugendbildung",
         "uk": "Освіта дорослих та позашкільна освіта"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n052",
       "prefLabel": {
-        "de": "Erziehungswissenschaft (Pädagogik)",
         "en": "Educational Science (Pedagogy)",
+        "de": "Erziehungswissenschaft (Pädagogik)",
         "uk": "Педагогіка"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n115",
       "prefLabel": {
-        "de": "Grundschul-/Primarstufenpädagogik",
         "en": "Primary School Education/Primary Level Education",
+        "de": "Grundschul-/Primarstufenpädagogik",
         "uk": "Початкова освіта"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n365",
       "prefLabel": {
-        "de": "Pädagogik der frühen Kindheit",
         "en": "Early Childhood Education",
+        "de": "Pädagogik der frühen Kindheit",
         "uk": "Дошкільна освіта"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n254",
       "prefLabel": {
-        "de": "Sachunterricht (einschl. Schulgarten)",
         "en": "General Studies (including School Garden)",
+        "de": "Sachunterricht (einschl. Schulgarten)",
         "uk": "Загальна педагогіка(включно з дошкільною освітою)"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n361",
       "prefLabel": {
-        "de": "Schulpädagogik",
         "en": "School Pedagogy",
+        "de": "Schulpädagogik",
         "uk": "Середня освіта"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n190",
       "prefLabel": {
-        "de": "Sonderpädagogik",
         "en": "Special Needs Education",
+        "de": "Sonderpädagogik",
         "uk": "Спеціальна освіта"
       }
     }
@@ -88,16 +88,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n3",
     "prefLabel": {
-      "de": "Rechts-, Wirtschafts- und Sozialwissenschaften",
       "en": "Law, Economics and Social Sciences",
+      "de": "Rechts-, Wirtschafts- und Sozialwissenschaften",
       "uk": "Право, економіка та суспільні науки"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "en": "Destatis classification for subject groups, study areas and study subjects",
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

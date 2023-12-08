@@ -4,17 +4,17 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Fdublin%2Finteractivitytype%2Factive",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Fdublin%2Finteractivitytype%2Factive",
   "prefLabel": {
-    "en_us": "active",
+    "en": "active",
     "de": "aktiv (eher selbstgesteuert)"
   },
   "definition": {
-    "en_us": "Learning that engages and challenges the learner's thinking using real-life and/or imaginary situations taking advantage of the opportunities for learning presented by investigating, exploring, events, and life experiences.",
+    "en": "Learning that engages and challenges the learner's thinking using real-life and/or imaginary situations taking advantage of the opportunities for learning presented by investigating, exploring, events, and life experiences.",
     "de": "Lernen, welches das Denken des Lernenden in realen und/oder imaginären Situationen anregt und herausfordert und dabei die Lernmöglichkeiten nutzt, die sich durch Untersuchungen, Erkundungen, Ereignisse und Erfahrungen ergeben."
   },
   "inScheme": {
     "id": "http://w3id.org/edu-sharing/vocabs/dublin/interactivitytype/",
     "title": {
-      "en_us": "LRMI Interact Type Vocabulary",
+      "en": "LRMI Interact Type Vocabulary",
       "de": "LRMI Vokabular der Interaktivitätstypen"
     }
   },

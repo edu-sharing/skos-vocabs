@@ -4,17 +4,17 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Fdublin%2FeducationalAudienceRole%2Fadministrator",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Fdublin%2FeducationalAudienceRole%2Fadministrator",
   "prefLabel": {
-    "en_us": "administrator",
+    "en": "administrator",
     "de": "Verwaltung"
   },
   "definition": {
-    "en_us": "A trainer or educator with administrative authority and responsibility.",
+    "en": "A trainer or educator with administrative authority and responsibility.",
     "de": "Trainer*innen oder Lehrpersonen mit Verwaltungsverantwortung"
   },
   "inScheme": {
     "id": "http://w3id.org/edu-sharing/vocabs/dublin/educationalAudienceRole/",
     "title": {
-      "en_us": "LRMI Educational Audience Role Vocabulary",
+      "en": "LRMI Educational Audience Role Vocabulary",
       "de": "LRMI Vokabular für pädagogische Zielgruppen"
     }
   },

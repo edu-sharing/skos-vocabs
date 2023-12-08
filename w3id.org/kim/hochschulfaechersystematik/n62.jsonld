@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn62",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn62",
   "prefLabel": {
-    "de": "Bergbau, Hüttenwesen",
     "en": "Mining, Metallurgy",
+    "de": "Bergbau, Hüttenwesen",
     "uk": "Гірнича справа, металургія"
   },
   "notation": [
@@ -15,32 +15,32 @@
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n390",
       "prefLabel": {
-        "de": "Archäometrie (Ingenieurarchäologie)",
         "en": "Archaeometry (Archaeological Engineering)",
+        "de": "Archäometrie (Ingenieurarchäologie)",
         "uk": "Археометрія (Археологічна інженерія)"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n020",
       "prefLabel": {
-        "de": "Bergbau/Bergtechnik",
         "en": "Mining/Mine Engineering",
+        "de": "Bergbau/Bergtechnik",
         "uk": "Гірнича справа/Гірнича технологія"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n076",
       "prefLabel": {
-        "de": "Hütten- und Gießereiwesen",
         "en": "Metallurgy and Foundry",
+        "de": "Hütten- und Gießereiwesen",
         "uk": "Металургія та ливарна промисловість"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n103",
       "prefLabel": {
-        "de": "Markscheidewesen",
         "en": "Mine Surveying",
+        "de": "Markscheidewesen",
         "uk": "Маркшейдерія"
       }
     }
@@ -48,16 +48,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n8",
     "prefLabel": {
-      "de": "Ingenieurwissenschaften",
       "en": "Engineering Sciences",
+      "de": "Ingenieurwissenschaften",
       "uk": "Інженерія"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "en": "Destatis classification for subject groups, study areas and study subjects",
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

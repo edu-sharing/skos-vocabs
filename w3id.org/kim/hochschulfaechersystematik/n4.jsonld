@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn4",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn4",
   "prefLabel": {
-    "de": "Mathematik, Naturwissenschaften",
     "en": "Mathematics, Natural Sciences",
+    "de": "Mathematik, Naturwissenschaften",
     "uk": "Математика, природничі науки"
   },
   "notation": [
@@ -15,64 +15,64 @@
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n36",
       "prefLabel": {
-        "de": "Mathematik, Naturwissenschaften allgemein",
         "en": "Mathematics, Natural Sciences (general)",
+        "de": "Mathematik, Naturwissenschaften allgemein",
         "uk": "Математика, Природничі науки (загальні)"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n37",
       "prefLabel": {
-        "de": "Studienbereich Mathematik",
         "en": "Mathematics",
+        "de": "Studienbereich Mathematik",
         "uk": "Математика"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n39",
       "prefLabel": {
-        "de": "Physik, Astronomie",
         "en": "Physics, Astronomy",
+        "de": "Physik, Astronomie",
         "uk": "Фізика, Астрономія"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n40",
       "prefLabel": {
-        "de": "Studienbereich Chemie",
         "en": "Chemistry",
+        "de": "Studienbereich Chemie",
         "uk": "Хімія"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n41",
       "prefLabel": {
-        "de": "Studienbereich Pharmazie",
         "en": "Pharmacy",
+        "de": "Studienbereich Pharmazie",
         "uk": "Фармація"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n42",
       "prefLabel": {
-        "de": "Studienbereich Biologie",
         "en": "Biology",
+        "de": "Studienbereich Biologie",
         "uk": "Біологія"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n43",
       "prefLabel": {
-        "de": "Geowissenschaften (ohne Geographie)",
         "en": "Geosciences (excl. Geography)",
+        "de": "Geowissenschaften (ohne Geographie)",
         "uk": "Науки про Землю(крім географії)"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n44",
       "prefLabel": {
-        "de": "Geographie",
         "en": "Geography",
+        "de": "Geographie",
         "uk": "Географія"
       }
     }
@@ -80,8 +80,8 @@
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "en": "Destatis classification for subject groups, study areas and study subjects",
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

@@ -4,17 +4,17 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Fdublin%2FeducationalAudienceRole%2Fteacher",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Fdublin%2FeducationalAudienceRole%2Fteacher",
   "prefLabel": {
-    "en_us": "teacher",
+    "en": "teacher",
     "de": "Lehrperson"
   },
   "definition": {
-    "en_us": "A person who has been trained to implement educational methods and practices.",
+    "en": "A person who has been trained to implement educational methods and practices.",
     "de": "Eine Person, die ausgebildet wurde, pädagogische Methoden und Praktiken umzusetzen."
   },
   "inScheme": {
     "id": "http://w3id.org/edu-sharing/vocabs/dublin/educationalAudienceRole/",
     "title": {
-      "en_us": "LRMI Educational Audience Role Vocabulary",
+      "en": "LRMI Educational Audience Role Vocabulary",
       "de": "LRMI Vokabular für pädagogische Zielgruppen"
     }
   },

@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn70",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn70",
   "prefLabel": {
-    "de": "Studienbereich Wirtschaftsingenieurwesen mit ingenieurwissenschaftlichem Schwerpunkt",
     "en": "Business Engineering specialising in Engineering Sciences",
+    "de": "Studienbereich Wirtschaftsingenieurwesen mit ingenieurwissenschaftlichem Schwerpunkt",
     "uk": "Промислова інженерія у галузі технічних наук"
   },
   "notation": [
@@ -15,8 +15,8 @@
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n370",
       "prefLabel": {
-        "de": "Wirtschaftsingenieurwesen mit ingenieurwissenschaftlichem Schwerpunkt",
         "en": "Business Engineering specialising in Engineering Sciences",
+        "de": "Wirtschaftsingenieurwesen mit ingenieurwissenschaftlichem Schwerpunkt",
         "uk": "Промислова інженерія у галузі технічних наук"
       }
     }
@@ -24,16 +24,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n8",
     "prefLabel": {
-      "de": "Ingenieurwissenschaften",
       "en": "Engineering Sciences",
+      "de": "Ingenieurwissenschaften",
       "uk": "Інженерія"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "en": "Destatis classification for subject groups, study areas and study subjects",
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn137",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn137",
   "prefLabel": {
-    "de": "Romanistik (Roman. Philologie, Einzelsprachen a.n.g.)",
     "en": "Romance Studies (Rom. Phil., indiv. lang. n.e.c.)",
+    "de": "Romanistik (Roman. Philologie, Einzelsprachen a.n.g.)",
     "uk": "Романістика"
   },
   "notation": [
@@ -14,16 +14,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n11",
     "prefLabel": {
-      "de": "Romanistik",
       "en": "Romance Studies",
+      "de": "Romanistik",
       "uk": "Романістика"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "en": "Destatis classification for subject groups, study areas and study subjects",
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

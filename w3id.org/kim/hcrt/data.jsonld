@@ -4,20 +4,20 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhcrt%2Fdata",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhcrt%2Fdata",
   "prefLabel": {
-    "de": "Daten",
     "en": "Data",
+    "de": "Daten",
     "uk": "Дані"
   },
   "scopeNote": {
-    "de": "unter anderem Roh- oder Beispieldaten",
     "en": "amongst others raw and example data",
+    "de": "unter anderem Roh- oder Beispieldaten",
     "uk": "включно з необробленими даними та зразками"
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hcrt/scheme",
     "title": {
-      "de": "Hochschulcampus Ressourcentypen",
       "en": "Higher Education Resource Types",
+      "de": "Hochschulcampus Ressourcentypen",
       "uk": "Типи ресурсів вищої освіти"
     }
   },

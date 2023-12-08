@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn37",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn37",
   "prefLabel": {
-    "de": "Studienbereich Mathematik",
     "en": "Mathematics",
+    "de": "Studienbereich Mathematik",
     "uk": "Математика"
   },
   "notation": [
@@ -15,32 +15,32 @@
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n105",
       "prefLabel": {
-        "de": "Mathematik",
         "en": "Mathematics",
+        "de": "Mathematik",
         "uk": "Математика"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n237",
       "prefLabel": {
-        "de": "Mathematische Statistik/Wahrscheinlichkeitsrechnung",
         "en": "Mathematical statistics/probability calculation",
+        "de": "Mathematische Statistik/Wahrscheinlichkeitsrechnung",
         "uk": "Математична статистика/Теорія ймовірності"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n118",
       "prefLabel": {
-        "de": "Technomathematik",
         "en": "Technomathematics",
+        "de": "Technomathematik",
         "uk": "Технічна математика"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n276",
       "prefLabel": {
-        "de": "Wirtschaftsmathematik",
         "en": "Business Mathematics",
+        "de": "Wirtschaftsmathematik",
         "uk": "Бізнес математика"
       }
     }
@@ -48,16 +48,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n4",
     "prefLabel": {
-      "de": "Mathematik, Naturwissenschaften",
       "en": "Mathematics, Natural Sciences",
+      "de": "Mathematik, Naturwissenschaften",
       "uk": "Математика, природничі науки"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "en": "Destatis classification for subject groups, study areas and study subjects",
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

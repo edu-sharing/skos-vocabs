@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn78",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn78",
   "prefLabel": {
-    "de": "Musik, Musikwissenschaft",
     "en": "Music, Musicology",
+    "de": "Musik, Musikwissenschaft",
     "uk": "Музика, музикознавство"
   },
   "notation": [
@@ -15,88 +15,88 @@
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n192",
       "prefLabel": {
-        "de": "Dirigieren",
         "en": "Conducting",
+        "de": "Dirigieren",
         "uk": "Хорове диригування"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n230",
       "prefLabel": {
-        "de": "Gesang",
         "en": "Singing",
+        "de": "Gesang",
         "uk": "Вокальне мистецтво"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n080",
       "prefLabel": {
-        "de": "Instrumentalmusik",
         "en": "Instrumental Music",
+        "de": "Instrumentalmusik",
         "uk": "Інструментальна музика"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n164",
       "prefLabel": {
-        "de": "Jazz und Popularmusik",
         "en": "Jazz and Popular Music",
+        "de": "Jazz und Popularmusik",
         "uk": "Джаз та популярна музика"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n193",
       "prefLabel": {
-        "de": "Kirchenmusik",
         "en": "Church Music",
+        "de": "Kirchenmusik",
         "uk": "Церковна музика"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n191",
       "prefLabel": {
-        "de": "Komposition",
         "en": "Composition",
+        "de": "Komposition",
         "uk": "Композиція"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n113",
       "prefLabel": {
-        "de": "Musikerziehung",
         "en": "Music Education",
+        "de": "Musikerziehung",
         "uk": "Музична освіта"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n114",
       "prefLabel": {
-        "de": "Musikwissenschaft/-geschichte",
         "en": "Musicology/History of Music",
+        "de": "Musikwissenschaft/-geschichte",
         "uk": "Музикознавство/Історія музики"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n165",
       "prefLabel": {
-        "de": "Orchestermusik",
         "en": "Orchestral Music",
+        "de": "Orchestermusik",
         "uk": "Оркестрова музика"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n163",
       "prefLabel": {
-        "de": "Rhythmik",
         "en": "Rhythmics",
+        "de": "Rhythmik",
         "uk": "Ритміка"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n194",
       "prefLabel": {
-        "de": "Tonmeister",
         "en": "Sound Engineering",
+        "de": "Tonmeister",
         "uk": "Звукова інженерія"
       }
     }
@@ -104,16 +104,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n9",
     "prefLabel": {
-      "de": "Kunst, Kunstwissenschaft",
       "en": "Art, Art Theory",
+      "de": "Kunst, Kunstwissenschaft",
       "uk": "Мистецтво, мистецтвознавство"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "en": "Destatis classification for subject groups, study areas and study subjects",
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

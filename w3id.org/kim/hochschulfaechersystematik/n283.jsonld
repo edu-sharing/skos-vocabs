@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn283",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn283",
   "prefLabel": {
-    "de": "Biogeographie",
     "en": "Landscape Ecology/Biogeography",
+    "de": "Biogeographie",
     "uk": "Ландшафтна екологія/Біогеографія"
   },
   "notation": [
@@ -14,16 +14,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n44",
     "prefLabel": {
-      "de": "Geographie",
       "en": "Geography",
+      "de": "Geographie",
       "uk": "Географія"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "en": "Destatis classification for subject groups, study areas and study subjects",
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

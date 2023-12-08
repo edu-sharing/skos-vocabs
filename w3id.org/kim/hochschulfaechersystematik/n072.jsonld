@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn072",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn072",
   "prefLabel": {
-    "de": "Interdisziplinäre Studien (Schwerpunkt Ingenieurwissenschaften)",
     "en": "Interdisc. Studies (specialising in Engineering)",
+    "de": "Interdisziplinäre Studien (Schwerpunkt Ingenieurwissenschaften)",
     "uk": "Міждисциплінарні дослідження (фокус на інженерії)"
   },
   "notation": [
@@ -14,16 +14,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n61",
     "prefLabel": {
-      "de": "Ingenieurwesen allgemein",
       "en": "Engineering (general)",
+      "de": "Ingenieurwesen allgemein",
       "uk": "Інженерія (в цілому)"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "en": "Destatis classification for subject groups, study areas and study subjects",
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

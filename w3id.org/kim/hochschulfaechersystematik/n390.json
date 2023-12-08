@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn390",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn390",
   "prefLabel": {
-    "de": "Archäometrie (Ingenieurarchäologie)",
     "en": "Archaeometry (Archaeological Engineering)",
+    "de": "Archäometrie (Ingenieurarchäologie)",
     "uk": "Археометрія (Археологічна інженерія)"
   },
   "notation": [
@@ -14,16 +14,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n62",
     "prefLabel": {
-      "de": "Bergbau, Hüttenwesen",
       "en": "Mining, Metallurgy",
+      "de": "Bergbau, Hüttenwesen",
       "uk": "Гірнича справа, металургія"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "en": "Destatis classification for subject groups, study areas and study subjects",
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

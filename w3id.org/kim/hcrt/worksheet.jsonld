@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhcrt%2Fworksheet",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhcrt%2Fworksheet",
   "prefLabel": {
-    "de": "Arbeitsmaterial",
     "en": "Worksheet",
+    "de": "Arbeitsmaterial",
     "uk": "Робочий матеріал"
   },
   "scopeNote": {
@@ -15,8 +15,8 @@
   "inScheme": {
     "id": "https://w3id.org/kim/hcrt/scheme",
     "title": {
-      "de": "Hochschulcampus Ressourcentypen",
       "en": "Higher Education Resource Types",
+      "de": "Hochschulcampus Ressourcentypen",
       "uk": "Типи ресурсів вищої освіти"
     }
   },

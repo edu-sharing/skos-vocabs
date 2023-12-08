@@ -7,7 +7,7 @@
   },
   "id": "https://test.skohub.iow3id.org/kim/hochschulfaechersystematik/n67",
   "type": "Service",
-  "name": "Studienbereich Raumplanung",
+  "name": "Spatial Planning",
   "preferredUsername": "773369642e6f72672f6b696d2f686f6368736368756c6661656368657273797374656d6174696b2f6e3637",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn67",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn67",

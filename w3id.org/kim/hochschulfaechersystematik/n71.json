@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn71",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn71",
   "prefLabel": {
-    "de": "Studienbereich Informatik",
     "en": "Computer Science",
+    "de": "Studienbereich Informatik",
     "uk": "Комп'ютерні науки"
   },
   "notation": [
@@ -15,56 +15,56 @@
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n221",
       "prefLabel": {
-        "de": "Bioinformatik",
         "en": "Bioinformatics",
+        "de": "Bioinformatik",
         "uk": "Біоінформатика"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n200",
       "prefLabel": {
-        "de": "Computer- und Kommunikationstechniken",
         "en": "Computer and Communication Technology",
+        "de": "Computer- und Kommunikationstechniken",
         "uk": "Інформаційно-комунікаційні технології"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n079",
       "prefLabel": {
-        "de": "Informatik",
         "en": "Computer Science",
+        "de": "Informatik",
         "uk": "Комп'ютерні науки"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n123",
       "prefLabel": {
-        "de": "Ingenieurinformatik/Technische Informatik",
         "en": "Computational Engineering/Technical Computer Science",
+        "de": "Ingenieurinformatik/Technische Informatik",
         "uk": "Обчислювальна техніка/Технічна інформатика"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n121",
       "prefLabel": {
-        "de": "Medieninformatik",
         "en": "Media Informatics",
+        "de": "Medieninformatik",
         "uk": "Медіаінформатика"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n247",
       "prefLabel": {
-        "de": "Medizinische Informatik",
         "en": "Medical Informatics",
+        "de": "Medizinische Informatik",
         "uk": "Медична інформатика"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n277",
       "prefLabel": {
-        "de": "Wirtschaftsinformatik",
         "en": "Business Informatics",
+        "de": "Wirtschaftsinformatik",
         "uk": "Бізнес-інформатика"
       }
     }
@@ -72,16 +72,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n8",
     "prefLabel": {
-      "de": "Ingenieurwissenschaften",
       "en": "Engineering Sciences",
+      "de": "Ingenieurwissenschaften",
       "uk": "Інженерія"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "en": "Destatis classification for subject groups, study areas and study subjects",
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

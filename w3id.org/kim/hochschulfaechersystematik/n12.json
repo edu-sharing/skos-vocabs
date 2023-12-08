@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn12",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn12",
   "prefLabel": {
-    "de": "Slawistik, Baltistik, Finno-Ugristik",
     "en": "Slavic, Baltic, Finno-Ugrian Studies",
+    "de": "Slawistik, Baltistik, Finno-Ugristik",
     "uk": "Слов'янознавство, балтистика, фіно-угрознавство"
   },
   "notation": [
@@ -15,72 +15,72 @@
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n016",
       "prefLabel": {
-        "de": "Baltistik",
         "en": "Baltic Studies",
+        "de": "Baltistik",
         "uk": "Балтійські студії"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n056",
       "prefLabel": {
-        "de": "Finno-Ugristik",
         "en": "Finno-Ugrian Studies",
+        "de": "Finno-Ugristik",
         "uk": "Фіно-угрознавство"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n206",
       "prefLabel": {
-        "de": "Polnisch",
         "en": "Polish",
+        "de": "Polnisch",
         "uk": "Польська мова"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n139",
       "prefLabel": {
-        "de": "Russisch",
         "en": "Russian",
+        "de": "Russisch",
         "uk": "Російська мова"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n146",
       "prefLabel": {
-        "de": "Slawistik (Slaw. Philologie)",
         "en": "Slavic Studies (Slavic Philology)",
+        "de": "Slawistik (Slaw. Philologie)",
         "uk": "Славістика (слов'янська філологія)"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n207",
       "prefLabel": {
-        "de": "Sorbisch",
         "en": "Sorbian Studies",
+        "de": "Sorbisch",
         "uk": "Лужицькі студії"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n153",
       "prefLabel": {
-        "de": "Südslawisch (Bulgarisch, Serbokroatisch Slowenisch usw.)",
         "en": "South Slavic (Bulgar., Serbo-Croat., Slovene etc.)",
+        "de": "Südslawisch (Bulgarisch, Serbokroatisch Slowenisch usw.)",
         "uk": "Південнослов'янські мови (болгарська, сербохорватська, словенська та ін.)"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n209",
       "prefLabel": {
-        "de": "Tschechisch",
         "en": "Czech",
+        "de": "Tschechisch",
         "uk": "Чеська мова"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n130",
       "prefLabel": {
-        "de": "Westslawisch (allgemein und a.n.g.)",
         "en": "Western Slavic (general and n.e.c.)",
+        "de": "Westslawisch (allgemein und a.n.g.)",
         "uk": "Західнослов'янські мови"
       }
     }
@@ -88,16 +88,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n1",
     "prefLabel": {
-      "de": "Geisteswissenschaften",
       "en": "Humanities",
+      "de": "Geisteswissenschaften",
       "uk": "Гуманітарні науки"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "en": "Destatis classification for subject groups, study areas and study subjects",
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

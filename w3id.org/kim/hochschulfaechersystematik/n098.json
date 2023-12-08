@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn098",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn098",
   "prefLabel": {
-    "de": "Sportpädagogik/Sportpsychologie",
     "en": "Sports Education/Sports Psychology",
+    "de": "Sportpädagogik/Sportpsychologie",
     "uk": "Спортивне виховання/Психологія спорту"
   },
   "notation": [
@@ -14,16 +14,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n22",
     "prefLabel": {
-      "de": "Sport, Sportwissenschaft",
       "en": "Sports, Sports Science",
+      "de": "Sport, Sportwissenschaft",
       "uk": "Фізична культура та спорт"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "en": "Destatis classification for subject groups, study areas and study subjects",
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

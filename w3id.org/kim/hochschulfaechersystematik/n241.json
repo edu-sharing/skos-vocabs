@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn241",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn241",
   "prefLabel": {
-    "de": "Kerntechnik/Kernverfahrenstechnik",
     "en": "Nuclear technology/nuclear process engineering",
+    "de": "Kerntechnik/Kernverfahrenstechnik",
     "uk": "Атомна інженерія/Інженерія ядерних процесів"
   },
   "notation": [
@@ -14,16 +14,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n63",
     "prefLabel": {
-      "de": "Maschinenbau/Verfahrenstechnik",
       "en": "Mechanical Engineering / Process Engineering",
+      "de": "Maschinenbau/Verfahrenstechnik",
       "uk": "Машинобудування/Технологія"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "en": "Destatis classification for subject groups, study areas and study subjects",
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

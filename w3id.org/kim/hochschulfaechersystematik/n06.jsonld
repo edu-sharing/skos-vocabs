@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn06",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn06",
   "prefLabel": {
-    "de": "Bibliothekswissenschaft, Dokumentation",
     "en": "Information and Library Sciences",
+    "de": "Bibliothekswissenschaft, Dokumentation",
     "uk": "Бібліотекознавство, документознавство"
   },
   "notation": [
@@ -15,16 +15,16 @@
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n022",
       "prefLabel": {
-        "de": "Bibliothekswissenschaft/-wesen (nicht an Verwaltungsfachhochschulen)",
         "en": "Information and Library Sciences",
+        "de": "Bibliothekswissenschaft/-wesen (nicht an Verwaltungsfachhochschulen)",
         "uk": "Бібліотекознавство"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n037",
       "prefLabel": {
-        "de": "Dokumentationswissenschaft",
         "en": "Archival and Documentation Science",
+        "de": "Dokumentationswissenschaft",
         "uk": "Документознавство"
       }
     }
@@ -32,16 +32,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n1",
     "prefLabel": {
-      "de": "Geisteswissenschaften",
       "en": "Humanities",
+      "de": "Geisteswissenschaften",
       "uk": "Гуманітарні науки"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "en": "Destatis classification for subject groups, study areas and study subjects",
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

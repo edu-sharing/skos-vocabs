@@ -4,15 +4,15 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhcrt%2Fcase_study",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhcrt%2Fcase_study",
   "prefLabel": {
-    "de": "Fallstudie",
     "en": "Case Study",
+    "de": "Fallstudie",
     "uk": "Приклад"
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hcrt/scheme",
     "title": {
-      "de": "Hochschulcampus Ressourcentypen",
       "en": "Higher Education Resource Types",
+      "de": "Hochschulcampus Ressourcentypen",
       "uk": "Типи ресурсів вищої освіти"
     }
   },

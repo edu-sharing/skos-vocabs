@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn61",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn61",
   "prefLabel": {
-    "de": "Ingenieurwesen allgemein",
     "en": "Engineering (general)",
+    "de": "Ingenieurwesen allgemein",
     "uk": "Інженерія (в цілому)"
   },
   "notation": [
@@ -15,56 +15,56 @@
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n140",
       "prefLabel": {
-        "de": "Angewandte Systemwissenschaften",
         "en": "Applied Systems Science",
+        "de": "Angewandte Systemwissenschaften",
         "uk": "Прикладні системні науки"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n072",
       "prefLabel": {
-        "de": "Interdisziplinäre Studien (Schwerpunkt Ingenieurwissenschaften)",
         "en": "Interdisc. Studies (specialising in Engineering)",
+        "de": "Interdisziplinäre Studien (Schwerpunkt Ingenieurwissenschaften)",
         "uk": "Міждисциплінарні дослідження (фокус на інженерії)"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n199",
       "prefLabel": {
-        "de": "Lernbereich Technik",
         "en": "Area of study: Technology",
+        "de": "Lernbereich Technik",
         "uk": "Галузь знань: Технологія"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n380",
       "prefLabel": {
-        "de": "Mechatronik",
         "en": "Mechatronics",
+        "de": "Mechatronik",
         "uk": "Мехатроніка"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n305",
       "prefLabel": {
-        "de": "Medientechnik",
         "en": "Media Technology",
+        "de": "Medientechnik",
         "uk": "Медіатехнології"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n310",
       "prefLabel": {
-        "de": "Regenerative Energien",
         "en": "Renewable Energy",
+        "de": "Regenerative Energien",
         "uk": "Відновлювальна енергія"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n201",
       "prefLabel": {
-        "de": "Werken (technisch)/Technologie",
         "en": "Handicrafts (technical)/Technology",
+        "de": "Werken (technisch)/Technologie",
         "uk": "Ремесла (технічні)/Технологія"
       }
     }
@@ -72,16 +72,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n8",
     "prefLabel": {
-      "de": "Ingenieurwissenschaften",
       "en": "Engineering Sciences",
+      "de": "Ingenieurwissenschaften",
       "uk": "Інженерія"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "en": "Destatis classification for subject groups, study areas and study subjects",
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

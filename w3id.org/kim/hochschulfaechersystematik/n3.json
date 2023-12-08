@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn3",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn3",
   "prefLabel": {
-    "de": "Rechts-, Wirtschafts- und Sozialwissenschaften",
     "en": "Law, Economics and Social Sciences",
+    "de": "Rechts-, Wirtschafts- und Sozialwissenschaften",
     "uk": "Право, економіка та суспільні науки"
   },
   "notation": [
@@ -15,88 +15,88 @@
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n23",
       "prefLabel": {
-        "de": "Rechts-, Wirtschafts- und Sozialwissenschaften allgemein",
         "en": "Law, Economics and Social Sciences (general)",
+        "de": "Rechts-, Wirtschafts- und Sozialwissenschaften allgemein",
         "uk": "Право, економіка та суспільні науки"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n24",
       "prefLabel": {
-        "de": "Regionalwissenschaften",
         "en": "Regional Studies",
+        "de": "Regionalwissenschaften",
         "uk": "Регіональні студії"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n25",
       "prefLabel": {
-        "de": "Politikwissenschaften",
         "en": "Political Science",
+        "de": "Politikwissenschaften",
         "uk": "Політологія"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n26",
       "prefLabel": {
-        "de": "Sozialwissenschaften",
         "en": "Social Sciences/Sociology",
+        "de": "Sozialwissenschaften",
         "uk": "Суспільні науки та соціологія"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n27",
       "prefLabel": {
-        "de": "Studienbereich Sozialwesen",
         "en": "Applied Social Science",
+        "de": "Studienbereich Sozialwesen",
         "uk": "Прикладні суспільні науки"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n28",
       "prefLabel": {
-        "de": "Rechtswissenschaften",
         "en": "Law",
+        "de": "Rechtswissenschaften",
         "uk": "Правознавство"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n29",
       "prefLabel": {
-        "de": "Verwaltungswissenschaften",
         "en": "Administrative Sciences",
+        "de": "Verwaltungswissenschaften",
         "uk": "Управління та адміністрування"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n30",
       "prefLabel": {
-        "de": "Studienbereich Wirtschaftswissenschaften",
         "en": "Business and Economics",
+        "de": "Studienbereich Wirtschaftswissenschaften",
         "uk": "Бізнес та економіка"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n31",
       "prefLabel": {
-        "de": "Studienbereich Wirtschaftsingenieurwesen mit wirtschaftswissenschaftlichem Schwerpunkt",
         "en": "Business Engineering specialising in Economics",
+        "de": "Studienbereich Wirtschaftsingenieurwesen mit wirtschaftswissenschaftlichem Schwerpunkt",
         "uk": "Бізнес інженерія у галузі економіки"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n32",
       "prefLabel": {
-        "de": "Studienbereich Psychologie",
         "en": "Psychology",
+        "de": "Studienbereich Psychologie",
         "uk": "Психологія"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n33",
       "prefLabel": {
-        "de": "Erziehungswissenschaften",
         "en": "Educational Sciences",
+        "de": "Erziehungswissenschaften",
         "uk": "Педагогічні науки"
       }
     }
@@ -104,8 +104,8 @@
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "en": "Destatis classification for subject groups, study areas and study subjects",
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

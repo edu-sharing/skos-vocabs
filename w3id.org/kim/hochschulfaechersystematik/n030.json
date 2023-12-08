@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn030",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn030",
   "prefLabel": {
-    "de": "Interdisziplinäre Studien (Schwerpunkt Rechts-, Wirtschafts- und Sozialwissenschaften)",
     "en": "Interdisc. St. (spec. in Law, Econ. and Soc. Sci.)",
+    "de": "Interdisziplinäre Studien (Schwerpunkt Rechts-, Wirtschafts- und Sozialwissenschaften)",
     "uk": "Міждисциплінарні дослідження(у галізях юрид., екон. та сусп. наук)"
   },
   "notation": [
@@ -14,16 +14,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n23",
     "prefLabel": {
-      "de": "Rechts-, Wirtschafts- und Sozialwissenschaften allgemein",
       "en": "Law, Economics and Social Sciences (general)",
+      "de": "Rechts-, Wirtschafts- und Sozialwissenschaften allgemein",
       "uk": "Право, економіка та суспільні науки"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "en": "Destatis classification for subject groups, study areas and study subjects",
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

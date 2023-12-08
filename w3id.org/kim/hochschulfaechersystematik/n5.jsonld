@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn5",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn5",
   "prefLabel": {
-    "de": "Humanmedizin/Gesundheitswissenschaften",
     "en": "Human Medicine / Health Sciences",
+    "de": "Humanmedizin/Gesundheitswissenschaften",
     "uk": "Медицина / Науки про здоров'я"
   },
   "notation": [
@@ -15,24 +15,24 @@
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n48",
       "prefLabel": {
-        "de": "Gesundheitswissenschaften allgemein",
         "en": "Health Sciences (general)",
+        "de": "Gesundheitswissenschaften allgemein",
         "uk": "Науки про здоров'я (в цілому)"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n49",
       "prefLabel": {
-        "de": "Humanmedizin (ohne Zahnmedizin)",
         "en": "Human Medicine (excl. Dentistry)",
+        "de": "Humanmedizin (ohne Zahnmedizin)",
         "uk": "Медицина людини (крім стоматології)"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n50",
       "prefLabel": {
-        "de": "Studienbereich Zahnmedizin",
         "en": "Dentistry",
+        "de": "Studienbereich Zahnmedizin",
         "uk": "Стоматологія"
       }
     }
@@ -40,8 +40,8 @@
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "en": "Destatis classification for subject groups, study areas and study subjects",
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

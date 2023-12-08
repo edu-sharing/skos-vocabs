@@ -4,20 +4,20 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhcrt%2Fquestionnaire",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhcrt%2Fquestionnaire",
   "prefLabel": {
-    "de": "Fragebogen",
     "en": "Questionnaire",
+    "de": "Fragebogen",
     "uk": "Анкета"
   },
   "scopeNote": {
-    "de": "auch Rechercheauftrag und WebQuest",
     "en": "also research assignment and WebQuest",
+    "de": "auch Rechercheauftrag und WebQuest",
     "uk": "також дослідницьке завдання та веб-квест"
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hcrt/scheme",
     "title": {
-      "de": "Hochschulcampus Ressourcentypen",
       "en": "Higher Education Resource Types",
+      "de": "Hochschulcampus Ressourcentypen",
       "uk": "Типи ресурсів вищої освіти"
     }
   },

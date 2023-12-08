@@ -4,17 +4,17 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Fdublin%2FeducationalAudienceRole%2FpeerTutor",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Fdublin%2FeducationalAudienceRole%2FpeerTutor",
   "prefLabel": {
-    "en_us": "peer tutor",
+    "en": "peer tutor",
     "de": "Peer-Tutor*in"
   },
   "definition": {
-    "en_us": "The peer learner serving as tutor of another learner.",
+    "en": "The peer learner serving as tutor of another learner.",
     "de": "Eine lernende Person gleichen Rangs, die als Tutor einer anderen Person agiert"
   },
   "inScheme": {
     "id": "http://w3id.org/edu-sharing/vocabs/dublin/educationalAudienceRole/",
     "title": {
-      "en_us": "LRMI Educational Audience Role Vocabulary",
+      "en": "LRMI Educational Audience Role Vocabulary",
       "de": "LRMI Vokabular für pädagogische Zielgruppen"
     }
   },

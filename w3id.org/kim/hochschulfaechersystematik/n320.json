@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn320",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn320",
   "prefLabel": {
-    "de": "Ernährungswissenschaft",
     "en": "Nutritional Science",
+    "de": "Ernährungswissenschaft",
     "uk": "Наука про харчування"
   },
   "notation": [
@@ -14,16 +14,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n60",
     "prefLabel": {
-      "de": "Ernährungs- und Haushaltswissenschaften",
       "en": "Nutritional and Domestic Science",
+      "de": "Ernährungs- und Haushaltswissenschaften",
       "uk": "Харчові та побутові науки"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "en": "Destatis classification for subject groups, study areas and study subjects",
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

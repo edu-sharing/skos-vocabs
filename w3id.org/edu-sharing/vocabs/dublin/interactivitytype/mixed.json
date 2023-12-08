@@ -4,17 +4,17 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Fdublin%2Finteractivitytype%2Fmixed",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Fdublin%2Finteractivitytype%2Fmixed",
   "prefLabel": {
-    "en_us": "mixed",
+    "en": "mixed",
     "de": "gemischt"
   },
   "definition": {
-    "en_us": "Instructional interactions comprised of a mix of active learning and expositive approaches.",
+    "en": "Instructional interactions comprised of a mix of active learning and expositive approaches.",
     "de": "Unterrichtliche Interaktionen, die eine Mischung aus aktivem Lernen (eher selbstgesteuert) und erklärenden Ansätzen (eher fremdgesteuert) beinhalten."
   },
   "inScheme": {
     "id": "http://w3id.org/edu-sharing/vocabs/dublin/interactivitytype/",
     "title": {
-      "en_us": "LRMI Interact Type Vocabulary",
+      "en": "LRMI Interact Type Vocabulary",
       "de": "LRMI Vokabular der Interaktivitätstypen"
     }
   },

@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn035",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn035",
   "prefLabel": {
-    "de": "Darstellende Kunst/Bühnenkunst/Regie",
     "en": "Performing Arts/Stagecraft/Directing",
+    "de": "Darstellende Kunst/Bühnenkunst/Regie",
     "uk": "Акторська гра/Сценічне мистецтво/Режисерська діяльність"
   },
   "notation": [
@@ -14,16 +14,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n77",
     "prefLabel": {
-      "de": "Darstellende Kunst, Film und Fernsehen, Theaterwissenschaft",
       "en": "Performing Arts, Film and Television Studies, Theatre Studies",
+      "de": "Darstellende Kunst, Film und Fernsehen, Theaterwissenschaft",
       "uk": "Акторська гра/Телемистецтво/Театральне мистецтво"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "en": "Destatis classification for subject groups, study areas and study subjects",
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

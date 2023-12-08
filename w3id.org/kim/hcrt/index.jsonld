@@ -4,20 +4,20 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhcrt%2Findex",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhcrt%2Findex",
   "prefLabel": {
-    "de": "Nachschlagewerk",
     "en": "Reference Work",
+    "de": "Nachschlagewerk",
     "uk": "Довідник"
   },
   "scopeNote": {
-    "de": "zum Beispiel Glossar, Enzyklopädie, Lexikon",
     "en": "e.g.glossary, encyclopedia, dictionary",
+    "de": "zum Beispiel Glossar, Enzyklopädie, Lexikon",
     "uk": "наприклад, глосарій, енциклопедія, словник"
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hcrt/scheme",
     "title": {
-      "de": "Hochschulcampus Ressourcentypen",
       "en": "Higher Education Resource Types",
+      "de": "Hochschulcampus Ressourcentypen",
       "uk": "Типи ресурсів вищої освіти"
     }
   },

@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn60",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn60",
   "prefLabel": {
-    "de": "Ernährungs- und Haushaltswissenschaften",
     "en": "Nutritional and Domestic Science",
+    "de": "Ernährungs- und Haushaltswissenschaften",
     "uk": "Харчові та побутові науки"
   },
   "notation": [
@@ -15,24 +15,24 @@
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n320",
       "prefLabel": {
-        "de": "Ernährungswissenschaft",
         "en": "Nutritional Science",
+        "de": "Ernährungswissenschaft",
         "uk": "Наука про харчування"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n071",
       "prefLabel": {
-        "de": "Haushalts- und Ernährungswissenschaft",
         "en": "Domestic and Nutritional Sciences",
+        "de": "Haushalts- und Ernährungswissenschaft",
         "uk": "Побутові та харчові науки"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n333",
       "prefLabel": {
-        "de": "Haushaltswissenschaft",
         "en": "Domestic Science",
+        "de": "Haushaltswissenschaft",
         "uk": "Житлова економіка"
       }
     }
@@ -40,16 +40,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n7",
     "prefLabel": {
-      "de": "Agrar-, Forst- und Ernährungswissenschaften, Veterinärmedizin",
       "en": "Agricultural, Forest and Nutritional Sciences, Veterinary medicine",
+      "de": "Agrar-, Forst- und Ernährungswissenschaften, Veterinärmedizin",
       "uk": "Сільськогосподарські, лісові та харчові науки, ветеринарія"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "en": "Destatis classification for subject groups, study areas and study subjects",
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

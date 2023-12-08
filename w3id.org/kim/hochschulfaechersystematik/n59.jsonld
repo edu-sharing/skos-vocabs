@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn59",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn59",
   "prefLabel": {
-    "de": "Forstwissenschaft, Holzwirtschaft",
     "en": "Forestry, Wood Science",
+    "de": "Forstwissenschaft, Holzwirtschaft",
     "uk": "Лісівництво, деревообробна промисловість"
   },
   "notation": [
@@ -15,16 +15,16 @@
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n058",
       "prefLabel": {
-        "de": "Forstwissenschaft, -wirtschaft",
         "en": "Forest Science, Forestry",
+        "de": "Forstwissenschaft, -wirtschaft",
         "uk": "Лісівництво"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n075",
       "prefLabel": {
-        "de": "Holzwirtschaft",
         "en": "Wood Science",
+        "de": "Holzwirtschaft",
         "uk": "Деревообробна промисловість"
       }
     }
@@ -32,16 +32,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n7",
     "prefLabel": {
-      "de": "Agrar-, Forst- und Ernährungswissenschaften, Veterinärmedizin",
       "en": "Agricultural, Forest and Nutritional Sciences, Veterinary medicine",
+      "de": "Agrar-, Forst- und Ernährungswissenschaften, Veterinärmedizin",
       "uk": "Сільськогосподарські, лісові та харчові науки, ветеринарія"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "en": "Destatis classification for subject groups, study areas and study subjects",
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

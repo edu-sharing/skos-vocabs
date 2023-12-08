@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn179",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn179",
   "prefLabel": {
-    "de": "Wirtschaftsingenieurwesen mit wirtschaftswissenschaftlichem Schwerpunkt",
     "en": "Business Engineering specialising in Economics",
+    "de": "Wirtschaftsingenieurwesen mit wirtschaftswissenschaftlichem Schwerpunkt",
     "uk": "Бізнес інженерія у галузі економіки"
   },
   "notation": [
@@ -14,16 +14,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n31",
     "prefLabel": {
-      "de": "Studienbereich Wirtschaftsingenieurwesen mit wirtschaftswissenschaftlichem Schwerpunkt",
       "en": "Business Engineering specialising in Economics",
+      "de": "Studienbereich Wirtschaftsingenieurwesen mit wirtschaftswissenschaftlichem Schwerpunkt",
       "uk": "Бізнес інженерія у галузі економіки"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "en": "Destatis classification for subject groups, study areas and study subjects",
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },
