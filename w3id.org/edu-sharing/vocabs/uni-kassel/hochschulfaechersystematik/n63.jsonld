@@ -1,0 +1,285 @@
+{
+  "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n63",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn63",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn63",
+  "prefLabel": {
+    "en": "Mechanical Engineering / Process Engineering",
+    "de": "Maschinenbau/Verfahrenstechnik",
+    "uk": "Машинобудування/Технологія"
+  },
+  "notation": [
+    "63"
+  ],
+  "narrower": [
+    {
+      "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n141",
+      "prefLabel": {
+        "en": "Waste Management",
+        "de": "Abfallwirtschaft",
+        "uk": "Управління відходами"
+      }
+    },
+    {
+      "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n143",
+      "prefLabel": {
+        "en": "Ophthalmic Optics",
+        "de": "Augenoptik",
+        "uk": "Офтальмологічна оптика"
+      }
+    },
+    {
+      "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n033",
+      "prefLabel": {
+        "en": "Chemical Engineering/Chemical Process Engineering",
+        "de": "Chemie-Ingenieurwesen/Chemietechnik",
+        "uk": "Хімічна інженерія/Інженерія хімічних процесів"
+      }
+    },
+    {
+      "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n231",
+      "prefLabel": {
+        "en": "Printing and Reproduction Technology",
+        "de": "Druck- und Reproduktionstechnik",
+        "uk": "Технологія друку та розмноження"
+      }
+    },
+    {
+      "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n211",
+      "prefLabel": {
+        "en": "Energy Process Engineering",
+        "de": "Energietechnik (ohne Elektrotechnik)",
+        "uk": "Енергетичні технології (без електротехніки)"
+      }
+    },
+    {
+      "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n212",
+      "prefLabel": {
+        "en": "Precision Engineering",
+        "de": "Feinwerktechnik",
+        "uk": "Точна інженерія"
+      }
+    },
+    {
+      "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n202",
+      "prefLabel": {
+        "en": "Manufacturing Technology/Production Engineering",
+        "de": "Fertigungs-/Produktionstechnik",
+        "uk": "Технологія виробництва/Виробнича інженерія"
+      }
+    },
+    {
+      "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n215",
+      "prefLabel": {
+        "en": "Health Technology",
+        "de": "Gesundheitstechnik",
+        "uk": "Технологія охорони здоров'я"
+      }
+    },
+    {
+      "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n216",
+      "prefLabel": {
+        "en": "Glass Technology/Ceramics",
+        "de": "Glastechnik/Keramik",
+        "uk": "Технологія скла/Кераміка"
+      }
+    },
+    {
+      "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n082",
+      "prefLabel": {
+        "en": "Wood and Fibre Technology",
+        "de": "Holz-/Fasertechnik",
+        "uk": "Технологія деревини та волокна"
+      }
+    },
+    {
+      "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n241",
+      "prefLabel": {
+        "en": "Nuclear technology/nuclear process engineering",
+        "de": "Kerntechnik/Kernverfahrenstechnik",
+        "uk": "Атомна інженерія/Інженерія ядерних процесів"
+      }
+    },
+    {
+      "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n219",
+      "prefLabel": {
+        "en": "Plastics Technology",
+        "de": "Kunststofftechnik",
+        "uk": "Технологія пластмас"
+      }
+    },
+    {
+      "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n104",
+      "prefLabel": {
+        "en": "Mechanical Engineering",
+        "de": "Maschinenbau/-wesen",
+        "uk": "Машинобудування"
+      }
+    },
+    {
+      "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n108",
+      "prefLabel": {
+        "en": "Metals Technology",
+        "de": "Metalltechnik",
+        "uk": "Технологія металів"
+      }
+    },
+    {
+      "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n224",
+      "prefLabel": {
+        "en": "Engineering Physics/Mechanical Process Engineering",
+        "de": "Physikalische Technik",
+        "uk": "Інженерна фізика"
+      }
+    },
+    {
+      "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n144",
+      "prefLabel": {
+        "en": "Technical Cybernetics",
+        "de": "Technische Kybernetik",
+        "uk": "Технічна кібернетика"
+      }
+    },
+    {
+      "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n225",
+      "prefLabel": {
+        "en": "Textile and Clothing Technology/Industry",
+        "de": "Textil- und Bekleidungstechnik/-gewerbe",
+        "uk": "Текстильне виробництво/Легка промисловість"
+      }
+    },
+    {
+      "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n074",
+      "prefLabel": {
+        "en": "Transport and Conveying Technology",
+        "de": "Transport-/Fördertechnik",
+        "uk": "Транспорт/Конвеєрна техніка"
+      }
+    },
+    {
+      "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n457",
+      "prefLabel": {
+        "en": "Environmental Technology (including Recycling)",
+        "de": "Umwelttechnik (einschl. Recycling)",
+        "uk": "Екологічні технології (включно з переробкою)"
+      }
+    },
+    {
+      "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n226",
+      "prefLabel": {
+        "en": "Process Engineering",
+        "de": "Verfahrenstechnik",
+        "uk": "Технологія процесів"
+      }
+    },
+    {
+      "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n213",
+      "prefLabel": {
+        "en": "Supply Technology",
+        "de": "Versorgungstechnik",
+        "uk": "Технології постачання"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n8",
+    "prefLabel": {
+      "en": "Engineering Sciences",
+      "de": "Ingenieurwissenschaften",
+      "uk": "Інженерія"
+    }
+  },
+  "inScheme": {
+    "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/scheme",
+    "title": {
+      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)",
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)"
+    }
+  },
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": "@language"
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "url": "schema:url",
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
+  }
+}
