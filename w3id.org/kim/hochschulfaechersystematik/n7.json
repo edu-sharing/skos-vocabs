@@ -56,8 +56,6 @@
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects",
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },
