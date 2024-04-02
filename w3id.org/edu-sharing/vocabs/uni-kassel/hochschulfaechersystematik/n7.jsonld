@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn7",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn7",
   "prefLabel": {
-    "en": "Agricultural, Forest and Nutritional Sciences, Veterinary medicine",
     "de": "Agrar-, Forst- und Ernährungswissenschaften, Veterinärmedizin",
+    "en": "Agricultural, Forest and Nutritional Sciences, Veterinary medicine",
     "uk": "Сільськогосподарські, лісові та харчові науки, ветеринарія"
   },
   "notation": [
@@ -15,40 +15,40 @@
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n51",
       "prefLabel": {
-        "en": "Veterinary Medicine",
         "de": "Veterinärmedizin",
+        "en": "Veterinary Medicine",
         "uk": "Ветеринарна медицина"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n57",
       "prefLabel": {
-        "en": "Land Management Engineering, Environmental Design",
         "de": "Landespflege, Umweltgestaltung",
+        "en": "Land Management Engineering, Environmental Design",
         "uk": "Землеустрій, екологічний дизайн"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n58",
       "prefLabel": {
-        "en": "Agricultural Science, Food- and Beverage Technology",
         "de": "Agrarwissenschaften, Lebensmittel- und Getränketechnologie",
+        "en": "Agricultural Science, Food- and Beverage Technology",
         "uk": "Сільськогосподарська наука, харчові технології"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n59",
       "prefLabel": {
-        "en": "Forestry, Wood Science",
         "de": "Forstwissenschaft, Holzwirtschaft",
+        "en": "Forestry, Wood Science",
         "uk": "Лісівництво, деревообробна промисловість"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n60",
       "prefLabel": {
-        "en": "Nutritional and Domestic Science",
         "de": "Ernährungs- und Haushaltswissenschaften",
+        "en": "Nutritional and Domestic Science",
         "uk": "Харчові та побутові науки"
       }
     }
@@ -56,8 +56,8 @@
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)",
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)"
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)",
+      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)"
     }
   },
   "topConceptOf": {

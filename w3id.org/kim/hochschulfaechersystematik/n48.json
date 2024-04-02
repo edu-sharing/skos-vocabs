@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn48",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn48",
   "prefLabel": {
-    "en": "Health Sciences (general)",
     "de": "Gesundheitswissenschaften allgemein",
+    "en": "Health Sciences (general)",
     "uk": "Науки про здоров'я (в цілому)"
   },
   "notation": [
@@ -15,32 +15,32 @@
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n195",
       "prefLabel": {
-        "en": "Health Education",
         "de": "Gesundheitspädagogik",
+        "en": "Health Education",
         "uk": "Санітарна освіта"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n232",
       "prefLabel": {
-        "en": "Health Science/Health Management",
         "de": "Gesundheitswissenschaft/-management",
+        "en": "Health Science/Health Management",
         "uk": "Науки про здоров'я/Управління охороною здоров'я"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n233",
       "prefLabel": {
-        "en": "Non-medical Healthcare Professions/Therapies",
         "de": "Nichtärztliche Heilberufe/Therapien",
+        "en": "Non-medical Healthcare Professions/Therapies",
         "uk": "Немедичні професії охорони здоров’я/Терапії"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n234",
       "prefLabel": {
-        "en": "Nursing Science/Nursing Management",
         "de": "Pflegewissenschaft/-management",
+        "en": "Nursing Science/Nursing Management",
         "uk": "Медсестринство"
       }
     }
@@ -48,16 +48,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n5",
     "prefLabel": {
-      "en": "Human Medicine / Health Sciences",
       "de": "Humanmedizin/Gesundheitswissenschaften",
+      "en": "Human Medicine / Health Sciences",
       "uk": "Медицина / Науки про здоров'я"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects",
       "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
+      "en": "Destatis classification for subject groups, study areas and study subjects",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

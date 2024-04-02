@@ -4,18 +4,18 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Fdublin%2Finteractivitytype%2Fexpositive",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Fdublin%2Finteractivitytype%2Fexpositive",
   "prefLabel": {
-    "en": "expositive",
-    "de": "erklärend (eher fremdgesteuert)"
+    "de": "erklärend (eher fremdgesteuert)",
+    "en": "expositive"
   },
   "definition": {
-    "en": "Use of a subject-matter expert to explain a concept or give clear and concise information in a purposeful way to the passive learner.",
-    "de": "Einsatz eines Lehrenden zur Erklärung eines Konzepts oder zur zielgerichteten Vermittlung klarer und prägnanter Informationen an den Lernenden."
+    "de": "Einsatz eines Lehrenden zur Erklärung eines Konzepts oder zur zielgerichteten Vermittlung klarer und prägnanter Informationen an den Lernenden.",
+    "en": "Use of a subject-matter expert to explain a concept or give clear and concise information in a purposeful way to the passive learner."
   },
   "inScheme": {
     "id": "http://w3id.org/edu-sharing/vocabs/dublin/interactivitytype/",
     "title": {
-      "en": "LRMI Interact Type Vocabulary",
-      "de": "LRMI Vokabular der Interaktivitätstypen"
+      "de": "LRMI Vokabular der Interaktivitätstypen",
+      "en": "LRMI Interact Type Vocabulary"
     }
   },
   "@context": {

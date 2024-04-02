@@ -7,7 +7,7 @@
   },
   "id": "https://test.skohub.iow3id.org/edu-sharing/vocabs/switch/hcrt/documentation_mediaset",
   "type": "Service",
-  "name": "Documentation media set",
+  "name": "Dokumentation Medienset",
   "preferredUsername": "773369642e6f72672f6564752d73686172696e672f766f636162732f7377697463682f686372742f646f63756d656e746174696f6e5f6d65646961736574",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Fswitch%2Fhcrt%2Fdocumentation_mediaset",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Fswitch%2Fhcrt%2Fdocumentation_mediaset",

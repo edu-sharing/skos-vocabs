@@ -4,16 +4,16 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Fswitch%2Fhcrt%2Fsheet_music",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Fswitch%2Fhcrt%2Fsheet_music",
   "prefLabel": {
-    "en": "Sheet Music",
     "de": "Musiknoten",
+    "en": "Sheet Music",
     "nl": "Bladmuziek",
     "uk": "Ноти"
   },
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/switch/hcrt/scheme",
     "title": {
-      "en": "Higher Education Resource Types (SWITCH)",
-      "de": "Hochschulcampus Ressourcentypen (SWITCH)"
+      "de": "Hochschulcampus Ressourcentypen (SWITCH)",
+      "en": "Higher Education Resource Types (SWITCH)"
     }
   },
   "topConceptOf": {

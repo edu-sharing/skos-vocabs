@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn275",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn275",
   "prefLabel": {
-    "en": "History of Science/History of Technology",
     "de": "Geschichte der Mathematik und Naturwissenschaften",
+    "en": "History of Science/History of Technology",
     "uk": "Історія науки і техніки"
   },
   "notation": [
@@ -14,16 +14,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n36",
     "prefLabel": {
-      "en": "Mathematics, Natural Sciences (general)",
       "de": "Mathematik, Naturwissenschaften allgemein",
+      "en": "Mathematics, Natural Sciences (general)",
       "uk": "Математика, Природничі науки (загальні)"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects",
       "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
+      "en": "Destatis classification for subject groups, study areas and study subjects",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

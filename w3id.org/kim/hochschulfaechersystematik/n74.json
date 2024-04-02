@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn74",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn74",
   "prefLabel": {
-    "en": "Art, Art Theory (general)",
     "de": "Kunst, Kunstwissenschaft allgemein",
+    "en": "Art, Art Theory (general)",
     "uk": "Культура і мистецтво, теорія мистецтв (загальні)"
   },
   "notation": [
@@ -15,32 +15,32 @@
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n040",
       "prefLabel": {
-        "en": "Interdisc. Studies (special. in Art, Art Theory)",
         "de": "Interdisziplinäre Studien (Schwerpunkt Kunst, Kunstwissenschaft)",
+        "en": "Interdisc. Studies (special. in Art, Art Theory)",
         "uk": "Мультидисциплінарні науки (Мистецтво, Теорія мистецтв)"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n091",
       "prefLabel": {
-        "en": "Arts Education",
         "de": "Kunsterziehung",
+        "en": "Arts Education",
         "uk": "Художня освіта"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n092",
       "prefLabel": {
-        "en": "Art History, Art Theory",
         "de": "Kunstgeschichte, Kunstwissenschaft",
+        "en": "Art History, Art Theory",
         "uk": "Історія та теорія образотворчого мистецтва"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n101",
       "prefLabel": {
-        "en": "Restoration Studies",
         "de": "Restaurierungskunde",
+        "en": "Restoration Studies",
         "uk": "Музейна реставрація"
       }
     }
@@ -48,16 +48,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n9",
     "prefLabel": {
-      "en": "Art, Art Theory",
       "de": "Kunst, Kunstwissenschaft",
+      "en": "Art, Art Theory",
       "uk": "Мистецтво, мистецтвознавство"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects",
       "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
+      "en": "Destatis classification for subject groups, study areas and study subjects",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

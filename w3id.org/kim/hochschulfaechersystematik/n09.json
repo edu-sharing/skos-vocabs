@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn09",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn09",
   "prefLabel": {
-    "en": "German Studies (German, Germanic Languages excl. English)",
     "de": "Germanistik (Deutsch, germanische Sprachen ohne Anglistik)",
+    "en": "German Studies (German, Germanic Languages excl. English)",
     "uk": "Німецькі студії (німецька мова, германські мови без англійської мови)"
   },
   "notation": [
@@ -15,48 +15,48 @@
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n034",
       "prefLabel": {
-        "en": "Danish",
         "de": "Dänisch",
+        "en": "Danish",
         "uk": "Данська мова"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n271",
       "prefLabel": {
-        "en": "German as a Foreign or Second Language",
         "de": "Deutsch als Fremdsprache oder als Zweitsprache",
+        "en": "German as a Foreign or Second Language",
         "uk": "Німецька як іноземна або друга мова"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n067",
       "prefLabel": {
-        "en": "German Studies/German",
         "de": "Germanistik/Deutsch",
+        "en": "German Studies/German",
         "uk": "Германістика"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n189",
       "prefLabel": {
-        "en": "Low German",
         "de": "Niederdeutsch",
+        "en": "Low German",
         "uk": "Нижньонімецька мова"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n119",
       "prefLabel": {
-        "en": "Dutch",
         "de": "Niederländisch",
+        "en": "Dutch",
         "uk": "Голландська мова"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n120",
       "prefLabel": {
-        "en": "Nordic/Scand. St. (Nord. Phil., ind. lang. n.e.c.)",
         "de": "Nordistik/Skandinavistik (Nordische Philologie, Einzelsprachen a.n.g.)",
+        "en": "Nordic/Scand. St. (Nord. Phil., ind. lang. n.e.c.)",
         "uk": "Скандинавські студії"
       }
     }
@@ -64,16 +64,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n1",
     "prefLabel": {
-      "en": "Humanities",
       "de": "Geisteswissenschaften",
+      "en": "Humanities",
       "uk": "Гуманітарні науки"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects",
       "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
+      "en": "Destatis classification for subject groups, study areas and study subjects",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

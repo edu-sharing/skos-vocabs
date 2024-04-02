@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn41",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn41",
   "prefLabel": {
-    "en": "Pharmacy",
     "de": "Studienbereich Pharmazie",
+    "en": "Pharmacy",
     "uk": "Фармація"
   },
   "notation": [
@@ -15,8 +15,8 @@
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n126",
       "prefLabel": {
-        "en": "Pharmacy",
         "de": "Pharmazie",
+        "en": "Pharmacy",
         "uk": "Фармація"
       }
     }
@@ -24,16 +24,16 @@
   "broader": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n4",
     "prefLabel": {
-      "en": "Mathematics, Natural Sciences",
       "de": "Mathematik, Naturwissenschaften",
+      "en": "Mathematics, Natural Sciences",
       "uk": "Математика, природничі науки"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)",
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)"
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)",
+      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)"
     }
   },
   "@context": {

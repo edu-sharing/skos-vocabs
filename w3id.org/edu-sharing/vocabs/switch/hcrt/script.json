@@ -4,22 +4,22 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Fswitch%2Fhcrt%2Fscript",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Fswitch%2Fhcrt%2Fscript",
   "prefLabel": {
-    "en": "Script",
     "de": "Skript",
+    "en": "Script",
     "nl": "Script",
     "uk": "Запис"
   },
   "scopeNote": {
-    "en": "for example lecture notes",
     "de": "zum Beispiel Vorlesungsskript",
+    "en": "for example lecture notes",
     "nl": "bijvoorbeeld collegedictaten",
     "uk": "наприклад конспект лекцій"
   },
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/switch/hcrt/scheme",
     "title": {
-      "en": "Higher Education Resource Types (SWITCH)",
-      "de": "Hochschulcampus Ressourcentypen (SWITCH)"
+      "de": "Hochschulcampus Ressourcentypen (SWITCH)",
+      "en": "Higher Education Resource Types (SWITCH)"
     }
   },
   "topConceptOf": {

@@ -4,16 +4,16 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Fswitch%2Fhcrt%2Fapplication",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Fswitch%2Fhcrt%2Fapplication",
   "prefLabel": {
-    "en": "Software Application",
     "de": "Softwareanwendung",
+    "en": "Software Application",
     "nl": "Computerprogramma",
     "uk": "Програмне забезпечення"
   },
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/switch/hcrt/scheme",
     "title": {
-      "en": "Higher Education Resource Types (SWITCH)",
-      "de": "Hochschulcampus Ressourcentypen (SWITCH)"
+      "de": "Hochschulcampus Ressourcentypen (SWITCH)",
+      "en": "Higher Education Resource Types (SWITCH)"
     }
   },
   "topConceptOf": {

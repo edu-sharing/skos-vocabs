@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn57",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn57",
   "prefLabel": {
-    "en": "Land Management Engineering, Environmental Design",
     "de": "Landespflege, Umweltgestaltung",
+    "en": "Land Management Engineering, Environmental Design",
     "uk": "Землеустрій, екологічний дизайн"
   },
   "notation": [
@@ -15,24 +15,24 @@
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n093",
       "prefLabel": {
-        "en": "Land Management Engineering/Landscape Design",
         "de": "Landespflege/Landschaftsgestaltung",
+        "en": "Land Management Engineering/Landscape Design",
         "uk": "Землеустрій/Ландшафтний дизайн"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n061",
       "prefLabel": {
-        "en": "Ground Improvement",
         "de": "Meliorationswesen",
+        "en": "Ground Improvement",
         "uk": "Меліорація"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n064",
       "prefLabel": {
-        "en": "Nature Conservation",
         "de": "Naturschutz",
+        "en": "Nature Conservation",
         "uk": "Охорона природи"
       }
     }
@@ -40,16 +40,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n7",
     "prefLabel": {
-      "en": "Agricultural, Forest and Nutritional Sciences, Veterinary medicine",
       "de": "Agrar-, Forst- und Ernährungswissenschaften, Veterinärmedizin",
+      "en": "Agricultural, Forest and Nutritional Sciences, Veterinary medicine",
       "uk": "Сільськогосподарські, лісові та харчові науки, ветеринарія"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects",
       "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
+      "en": "Destatis classification for subject groups, study areas and study subjects",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

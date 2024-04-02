@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn232",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn232",
   "prefLabel": {
-    "en": "Health Science/Health Management",
     "de": "Gesundheitswissenschaft/-management",
+    "en": "Health Science/Health Management",
     "uk": "Науки про здоров'я/Управління охороною здоров'я"
   },
   "notation": [
@@ -14,16 +14,16 @@
   "broader": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n48",
     "prefLabel": {
-      "en": "Health Sciences (general)",
       "de": "Gesundheitswissenschaften allgemein",
+      "en": "Health Sciences (general)",
       "uk": "Науки про здоров'я (в цілому)"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)",
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)"
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)",
+      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)"
     }
   },
   "@context": {

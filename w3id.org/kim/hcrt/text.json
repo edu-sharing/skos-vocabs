@@ -4,20 +4,20 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhcrt%2Ftext",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhcrt%2Ftext",
   "prefLabel": {
-    "en": "Text",
     "de": "Textdokument",
+    "en": "Text",
     "uk": "Текстовий документ"
   },
   "scopeNote": {
-    "en": "for example article, essay",
     "de": "zum Beispiel Artikel, Aufsatz, Abhandlung",
+    "en": "for example article, essay",
     "uk": "наприклад, стаття, есе, трактат"
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hcrt/scheme",
     "title": {
-      "en": "Higher Education Resource Types",
       "de": "Hochschulcampus Ressourcentypen",
+      "en": "Higher Education Resource Types",
       "uk": "Типи ресурсів вищої освіти"
     }
   },

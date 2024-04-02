@@ -7,7 +7,7 @@
   },
   "id": "https://test.skohub.iow3id.org/kim/hochschulfaechersystematik/n011",
   "type": "Service",
-  "name": "Work Studies/Business Studies",
+  "name": "Arbeitslehre/Wirtschaftslehre",
   "preferredUsername": "773369642e6f72672f6b696d2f686f6368736368756c6661656368657273797374656d6174696b2f6e303131",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn011",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn011",

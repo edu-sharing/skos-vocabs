@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn119",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn119",
   "prefLabel": {
-    "en": "Dutch",
     "de": "Niederländisch",
+    "en": "Dutch",
     "uk": "Голландська мова"
   },
   "notation": [
@@ -14,16 +14,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n09",
     "prefLabel": {
-      "en": "German Studies (German, Germanic Languages excl. English)",
       "de": "Germanistik (Deutsch, germanische Sprachen ohne Anglistik)",
+      "en": "German Studies (German, Germanic Languages excl. English)",
       "uk": "Німецькі студії (німецька мова, германські мови без англійської мови)"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects",
       "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
+      "en": "Destatis classification for subject groups, study areas and study subjects",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

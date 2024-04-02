@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn24",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn24",
   "prefLabel": {
-    "en": "Regional Studies",
     "de": "Regionalwissenschaften",
+    "en": "Regional Studies",
     "uk": "Регіональні студії"
   },
   "notation": [
@@ -15,24 +15,24 @@
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n038",
       "prefLabel": {
-        "en": "Latin American Studies",
         "de": "Lateinamerika",
+        "en": "Latin American Studies",
         "uk": "Латиноамериканські студії"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n044",
       "prefLabel": {
-        "en": "East and Southeast European Studies",
         "de": "Ost- und Südosteuropa",
+        "en": "East and Southeast European Studies",
         "uk": "Дослідження Східної та Південно-Східної Європи"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n036",
       "prefLabel": {
-        "en": "Other regional studies",
         "de": "Sonstige Regionalwissenschaften",
+        "en": "Other regional studies",
         "uk": "Інші регіональні студії"
       }
     }
@@ -40,16 +40,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n3",
     "prefLabel": {
-      "en": "Law, Economics and Social Sciences",
       "de": "Rechts-, Wirtschafts- und Sozialwissenschaften",
+      "en": "Law, Economics and Social Sciences",
       "uk": "Право, економіка та суспільні науки"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects",
       "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
+      "en": "Destatis classification for subject groups, study areas and study subjects",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

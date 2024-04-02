@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn76",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn76",
   "prefLabel": {
-    "en": "Design",
     "de": "Gestaltung",
+    "en": "Design",
     "uk": "Дизайн"
   },
   "notation": [
@@ -15,48 +15,48 @@
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n007",
       "prefLabel": {
-        "en": "Applied Art",
         "de": "Angewandte Kunst",
+        "en": "Applied Art",
         "uk": "Декоративно-ужиткове мистецтво"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n159",
       "prefLabel": {
-        "en": "Gemstone and Jewellery Design",
         "de": "Edelstein- und Schmuckdesign",
+        "en": "Gemstone and Jewellery Design",
         "uk": "Дизайн дорогоцінних каменів та ювелірних виробів"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n069",
       "prefLabel": {
-        "en": "Graphic Design/Communication Design",
         "de": "Graphikdesign/Kommunikationsgestaltung",
+        "en": "Graphic Design/Communication Design",
         "uk": "Графічний дизайн/Комунікаційний дизайн"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n203",
       "prefLabel": {
-        "en": "Industrial Design/Product Design",
         "de": "Industriedesign/Produktgestaltung",
+        "en": "Industrial Design/Product Design",
         "uk": "Промисловий дизайн/Дизайн продуктів"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n116",
       "prefLabel": {
-        "en": "Textile Design",
         "de": "Textilgestaltung",
+        "en": "Textile Design",
         "uk": "Дизайн одягу"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n176",
       "prefLabel": {
-        "en": "Handicrafts Education",
         "de": "Werkerziehung",
+        "en": "Handicrafts Education",
         "uk": "Ремісництво"
       }
     }
@@ -64,16 +64,16 @@
   "broader": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n9",
     "prefLabel": {
-      "en": "Art, Art Theory",
       "de": "Kunst, Kunstwissenschaft",
+      "en": "Art, Art Theory",
       "uk": "Мистецтво, мистецтвознавство"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)",
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)"
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)",
+      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)"
     }
   },
   "@context": {

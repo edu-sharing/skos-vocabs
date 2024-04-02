@@ -7,7 +7,7 @@
   },
   "id": "https://test.skohub.iow3id.org/edu-sharing/vocabs/switch/hcrt/questionnaire",
   "type": "Service",
-  "name": "Questionnaire",
+  "name": "Fragebogen",
   "preferredUsername": "773369642e6f72672f6564752d73686172696e672f766f636162732f7377697463682f686372742f7175657374696f6e6e61697265",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Fswitch%2Fhcrt%2Fquestionnaire",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Fswitch%2Fhcrt%2Fquestionnaire",

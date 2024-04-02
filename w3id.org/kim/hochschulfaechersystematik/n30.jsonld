@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn30",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn30",
   "prefLabel": {
-    "en": "Business and Economics",
     "de": "Studienbereich Wirtschaftswissenschaften",
+    "en": "Business and Economics",
     "uk": "Бізнес та економіка"
   },
   "notation": [
@@ -15,88 +15,88 @@
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n011",
       "prefLabel": {
-        "en": "Work Studies/Business Studies",
         "de": "Arbeitslehre/Wirtschaftslehre",
+        "en": "Work Studies/Business Studies",
         "uk": "Студії у галузі організації праці/Бізнес"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n021",
       "prefLabel": {
-        "en": "Business Administration",
         "de": "Betriebswirtschaftslehre",
+        "en": "Business Administration",
         "uk": "Бізнес-адміністрування"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n167",
       "prefLabel": {
-        "en": "European Economic Studies",
         "de": "Europäische Wirtschaft",
+        "en": "European Economic Studies",
         "uk": "Європейські економічні студії"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n182",
       "prefLabel": {
-        "en": "International Business Studies/Management",
         "de": "Internationale Betriebswirtschaft/Management",
+        "en": "International Business Studies/Management",
         "uk": "Міжнародний бізнес/Менеджмент"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n304",
       "prefLabel": {
-        "en": "Media Economics/Media Management",
         "de": "Medienwirtschaft/Medienmanagement",
+        "en": "Media Economics/Media Management",
         "uk": "Медіа-економіка/Медіа-менеджмент"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n166",
       "prefLabel": {
-        "en": "Sports Management/Sports Economics",
         "de": "Sportmanagement/Sportökonomie",
+        "en": "Sports Management/Sports Economics",
         "uk": "Спортивний менеджмент/Економіка спорту"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n274",
       "prefLabel": {
-        "en": "Tourism Management",
         "de": "Tourismuswirtschaft",
+        "en": "Tourism Management",
         "uk": "Туристичний менеджмент"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n210",
       "prefLabel": {
-        "en": "Transport Economics",
         "de": "Verkehrswirtschaft",
+        "en": "Transport Economics",
         "uk": "Економіка транспорту"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n175",
       "prefLabel": {
-        "en": "Economics",
         "de": "Volkswirtschaftslehre",
+        "en": "Economics",
         "uk": "Економіка"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n181",
       "prefLabel": {
-        "en": "Business and Economics Education",
         "de": "Wirtschaftspädagogik",
+        "en": "Business and Economics Education",
         "uk": "Економічна та бізнес-освіта"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n184",
       "prefLabel": {
-        "en": "Business and Economics",
         "de": "Wirtschaftswissenschaften",
+        "en": "Business and Economics",
         "uk": "Бізнес та економіка"
       }
     }
@@ -104,16 +104,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n3",
     "prefLabel": {
-      "en": "Law, Economics and Social Sciences",
       "de": "Rechts-, Wirtschafts- und Sozialwissenschaften",
+      "en": "Law, Economics and Social Sciences",
       "uk": "Право, економіка та суспільні науки"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects",
       "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
+      "en": "Destatis classification for subject groups, study areas and study subjects",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

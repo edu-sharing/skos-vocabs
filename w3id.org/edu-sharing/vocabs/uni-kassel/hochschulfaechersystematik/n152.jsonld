@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn152",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn152",
   "prefLabel": {
-    "en": "General Linguistics/Indo-European Studies",
     "de": "Allgemeine Sprachwissenschaft/Indogermanistik",
+    "en": "General Linguistics/Indo-European Studies",
     "uk": "Загальне мовознавство/Індоєвропейські студії"
   },
   "notation": [
@@ -14,16 +14,16 @@
   "broader": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n07",
     "prefLabel": {
-      "en": "General and Comparative Literary Studies and Linguistics",
       "de": "Allgemeine und vergleichende Literatur- und Sprachwissenschaft",
+      "en": "General and Comparative Literary Studies and Linguistics",
       "uk": "Загальне та порівняльне літературознавство та мовознавство"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)",
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)"
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)",
+      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)"
     }
   },
   "@context": {

@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Fswitch%2Fhcrt%2Faudio",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Fswitch%2Fhcrt%2Faudio",
   "prefLabel": {
-    "en": "Audio Recording",
     "de": "Audio",
+    "en": "Audio Recording",
     "nl": "Audio",
     "uk": "Аудіозапис"
   },
@@ -16,8 +16,8 @@
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/switch/hcrt/scheme",
     "title": {
-      "en": "Higher Education Resource Types (SWITCH)",
-      "de": "Hochschulcampus Ressourcentypen (SWITCH)"
+      "de": "Hochschulcampus Ressourcentypen (SWITCH)",
+      "en": "Higher Education Resource Types (SWITCH)"
     }
   },
   "topConceptOf": {

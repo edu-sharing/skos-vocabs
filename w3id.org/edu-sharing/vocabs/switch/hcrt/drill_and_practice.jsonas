@@ -7,7 +7,7 @@
   },
   "id": "https://test.skohub.iow3id.org/edu-sharing/vocabs/switch/hcrt/drill_and_practice",
   "type": "Service",
-  "name": "Drill and Practice",
+  "name": "Übung",
   "preferredUsername": "773369642e6f72672f6564752d73686172696e672f766f636162732f7377697463682f686372742f6472696c6c5f616e645f7072616374696365",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Fswitch%2Fhcrt%2Fdrill_and_practice",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Fswitch%2Fhcrt%2Fdrill_and_practice",

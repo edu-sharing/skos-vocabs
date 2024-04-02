@@ -7,7 +7,7 @@
   },
   "id": "https://test.skohub.iow3id.org/edu-sharing/vocabs/dublin/interactivitytype/expositive",
   "type": "Service",
-  "name": "expositive",
+  "name": "erklärend (eher fremdgesteuert)",
   "preferredUsername": "773369642e6f72672f6564752d73686172696e672f766f636162732f6475626c696e2f696e7465726163746976697479747970652f6578706f736974697665",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Fdublin%2Finteractivitytype%2Fexpositive",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Fdublin%2Finteractivitytype%2Fexpositive",

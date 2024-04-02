@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn11",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn11",
   "prefLabel": {
-    "en": "Romance Studies",
     "de": "Romanistik",
+    "en": "Romance Studies",
     "uk": "Романістика"
   },
   "notation": [
@@ -15,40 +15,40 @@
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n059",
       "prefLabel": {
-        "en": "French",
         "de": "Französisch",
+        "en": "French",
         "uk": "Французька мова"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n084",
       "prefLabel": {
-        "en": "Italian",
         "de": "Italienisch",
+        "en": "Italian",
         "uk": "Італійська мова"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n131",
       "prefLabel": {
-        "en": "Portuguese",
         "de": "Portugiesisch",
+        "en": "Portuguese",
         "uk": "Португальська мова"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n137",
       "prefLabel": {
-        "en": "Romance Studies (Rom. Phil., indiv. lang. n.e.c.)",
         "de": "Romanistik (Roman. Philologie, Einzelsprachen a.n.g.)",
+        "en": "Romance Studies (Rom. Phil., indiv. lang. n.e.c.)",
         "uk": "Романістика"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n150",
       "prefLabel": {
-        "en": "Spanish",
         "de": "Spanisch",
+        "en": "Spanish",
         "uk": "Іспанська мова"
       }
     }
@@ -56,16 +56,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n1",
     "prefLabel": {
-      "en": "Humanities",
       "de": "Geisteswissenschaften",
+      "en": "Humanities",
       "uk": "Гуманітарні науки"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects",
       "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
+      "en": "Destatis classification for subject groups, study areas and study subjects",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

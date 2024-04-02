@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn05",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn05",
   "prefLabel": {
-    "en": "History",
     "de": "Studienbereich Geschichte",
+    "en": "History",
     "uk": "Історія"
   },
   "notation": [
@@ -15,48 +15,48 @@
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n272",
       "prefLabel": {
-        "en": "Ancient History",
         "de": "Alte Geschichte",
+        "en": "Ancient History",
         "uk": "Стародавня історія"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n012",
       "prefLabel": {
-        "en": "Archaeology",
         "de": "Archäologie",
+        "en": "Archaeology",
         "uk": "Археологія"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n068",
       "prefLabel": {
-        "en": "History",
         "de": "Geschichte",
+        "en": "History",
         "uk": "Історія"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n273",
       "prefLabel": {
-        "en": "Medieval and Modern History",
         "de": "Mittlere und neuere Geschichte",
+        "en": "Medieval and Modern History",
         "uk": "Історія середньовіччя та новітнього часу"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n548",
       "prefLabel": {
-        "en": "Prehistory and Early History",
         "de": "Ur- und Frühgeschichte",
+        "en": "Prehistory and Early History",
         "uk": "Історія первісного суспільства"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n183",
       "prefLabel": {
-        "en": "Economic/Social History",
         "de": "Wirtschafts-/Sozialgeschichte",
+        "en": "Economic/Social History",
         "uk": "Економічна/соціальна історія"
       }
     }
@@ -64,16 +64,16 @@
   "broader": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n1",
     "prefLabel": {
-      "en": "Humanities",
       "de": "Geisteswissenschaften",
+      "en": "Humanities",
       "uk": "Гуманітарні науки"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)",
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)"
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)",
+      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)"
     }
   },
   "@context": {

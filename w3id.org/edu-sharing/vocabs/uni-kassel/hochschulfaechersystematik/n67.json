@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn67",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn67",
   "prefLabel": {
-    "en": "Spatial Planning",
     "de": "Studienbereich Raumplanung",
+    "en": "Spatial Planning",
     "uk": "Містобудування та територіальне планування"
   },
   "notation": [
@@ -15,16 +15,16 @@
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n134",
       "prefLabel": {
-        "en": "Spatial Planning",
         "de": "Raumplanung",
+        "en": "Spatial Planning",
         "uk": "Територіальне планування"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n458",
       "prefLabel": {
-        "en": "Environmental Protection",
         "de": "Umweltschutz",
+        "en": "Environmental Protection",
         "uk": "Охорона навколишнього середовища"
       }
     }
@@ -32,16 +32,16 @@
   "broader": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n8",
     "prefLabel": {
-      "en": "Engineering Sciences",
       "de": "Ingenieurwissenschaften",
+      "en": "Engineering Sciences",
       "uk": "Інженерія"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)",
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)"
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)",
+      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)"
     }
   },
   "@context": {

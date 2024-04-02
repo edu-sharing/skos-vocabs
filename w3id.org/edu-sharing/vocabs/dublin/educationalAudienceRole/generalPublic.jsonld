@@ -4,18 +4,18 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Fdublin%2FeducationalAudienceRole%2FgeneralPublic",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Fdublin%2FeducationalAudienceRole%2FgeneralPublic",
   "prefLabel": {
-    "en": "general public",
-    "de": "Allgemeine Öffentlichkeit"
+    "de": "Allgemeine Öffentlichkeit",
+    "en": "general public"
   },
   "definition": {
-    "en": "The public at large.",
-    "de": "Die breite Öffentlichkeit"
+    "de": "Die breite Öffentlichkeit",
+    "en": "The public at large."
   },
   "inScheme": {
     "id": "http://w3id.org/edu-sharing/vocabs/dublin/educationalAudienceRole/",
     "title": {
-      "en": "LRMI Educational Audience Role Vocabulary",
-      "de": "LRMI Vokabular für pädagogische Zielgruppen"
+      "de": "LRMI Vokabular für pädagogische Zielgruppen",
+      "en": "LRMI Educational Audience Role Vocabulary"
     }
   },
   "@context": {

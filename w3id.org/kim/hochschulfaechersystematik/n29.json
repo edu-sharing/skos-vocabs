@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn29",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn29",
   "prefLabel": {
-    "en": "Administrative Sciences",
     "de": "Verwaltungswissenschaften",
+    "en": "Administrative Sciences",
     "uk": "Управління та адміністрування"
   },
   "notation": [
@@ -15,128 +15,128 @@
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n257",
       "prefLabel": {
-        "en": "Occupational Guidance and Career Counselling",
         "de": "Arbeits- und Berufsberatung",
+        "en": "Occupational Guidance and Career Counselling",
         "uk": "Профорієнтація та розвиток кар'єри"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n258",
       "prefLabel": {
-        "en": "Labour Administration",
         "de": "Arbeitsverwaltung",
+        "en": "Labour Administration",
         "uk": "Управління трудовими ресурсами"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n255",
       "prefLabel": {
-        "en": "Archive Studies",
         "de": "Archivwesen",
+        "en": "Archive Studies",
         "uk": "Архівна справа"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n259",
       "prefLabel": {
-        "en": "Foreign Affairs Administration",
         "de": "Auswärtige Angelegenheiten",
+        "en": "Foreign Affairs Administration",
         "uk": "Міжнародні відносини"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n265",
       "prefLabel": {
-        "en": "Banking",
         "de": "Bankwesen",
+        "en": "Banking",
         "uk": "Банківська справа"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n262",
       "prefLabel": {
-        "en": "Librarianship",
         "de": "Bibliothekswesen",
+        "en": "Librarianship",
         "uk": "Бібліотечна справа"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n260",
       "prefLabel": {
-        "en": "Armed Forces Administration",
         "de": "Bundeswehrverwaltung",
+        "en": "Armed Forces Administration",
         "uk": "Військове управління"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n266",
       "prefLabel": {
-        "en": "Financial Administration",
         "de": "Finanzverwaltung",
+        "en": "Financial Administration",
         "uk": "Управління фінансами"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n261",
       "prefLabel": {
-        "en": "Internal Administration",
         "de": "Innere Verwaltung",
+        "en": "Internal Administration",
         "uk": "Внутрішнє адміністрування"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n168",
       "prefLabel": {
-        "en": "Law Enforcement",
         "de": "Justizvollzug",
+        "en": "Law Enforcement",
         "uk": "Правоохоронна діяльність"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n263",
       "prefLabel": {
-        "en": "Police/Protection of the Constitution",
         "de": "Polizei/Verfassungsschutz",
+        "en": "Police/Protection of the Constitution",
         "uk": "Поліція/Захист Конституції"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n256",
       "prefLabel": {
-        "en": "Administration of Justice",
         "de": "Rechtspflege",
+        "en": "Administration of Justice",
         "uk": "Правосуддя"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n264",
       "prefLabel": {
-        "en": "Social Security Administration",
         "de": "Sozialversicherung",
+        "en": "Social Security Administration",
         "uk": "Управління соціальним захистом"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n268",
       "prefLabel": {
-        "en": "Transportation Systems",
         "de": "Verkehrswesen",
+        "en": "Transportation Systems",
         "uk": "Транспортні системи"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n172",
       "prefLabel": {
-        "en": "Administrative Science/Public Administration",
         "de": "Verwaltungswissenschaft/-wesen",
+        "en": "Administrative Science/Public Administration",
         "uk": "Управлінські науки/Публічне адміністрування"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n269",
       "prefLabel": {
-        "en": "Customs and Tax Administration",
         "de": "Zoll- und Steuerverwaltung",
+        "en": "Customs and Tax Administration",
         "uk": "Управління митною та податковою справою"
       }
     }
@@ -144,16 +144,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n3",
     "prefLabel": {
-      "en": "Law, Economics and Social Sciences",
       "de": "Rechts-, Wirtschafts- und Sozialwissenschaften",
+      "en": "Law, Economics and Social Sciences",
       "uk": "Право, економіка та суспільні науки"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects",
       "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
+      "en": "Destatis classification for subject groups, study areas and study subjects",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

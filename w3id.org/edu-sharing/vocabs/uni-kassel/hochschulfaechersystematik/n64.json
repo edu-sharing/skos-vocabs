@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn64",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn64",
   "prefLabel": {
-    "en": "Electrical Engineering and Information Engineering",
     "de": "Elektrotechnik und Informationstechnik",
+    "en": "Electrical Engineering and Information Engineering",
     "uk": "Електротехніка та інформаційні технології"
   },
   "notation": [
@@ -15,48 +15,48 @@
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n316",
       "prefLabel": {
-        "en": "Electrical Power Engineering",
         "de": "Elektrische Energietechnik",
+        "en": "Electrical Power Engineering",
         "uk": "Електроенергетика"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n048",
       "prefLabel": {
-        "en": "Electrical Engineering/Electronics",
         "de": "Elektrotechnik/Elektronik",
+        "en": "Electrical Engineering/Electronics",
         "uk": "Електротехніка/Електроніка"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n222",
       "prefLabel": {
-        "en": "Communication Technology, Information Engineering",
         "de": "Kommunikations- und Informationstechnik",
+        "en": "Communication Technology, Information Engineering",
         "uk": "Комунікаційні та інформаційні технології"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n157",
       "prefLabel": {
-        "en": "Microelectronics",
         "de": "Mikroelektronik",
+        "en": "Microelectronics",
         "uk": "Мікроелектроніка"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n286",
       "prefLabel": {
-        "en": "Microsystems Technology",
         "de": "Mikrosystemtechnik",
+        "en": "Microsystems Technology",
         "uk": "Мікротехнологія"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n088",
       "prefLabel": {
-        "en": "Optoelectronics",
         "de": "Optoelektronik",
+        "en": "Optoelectronics",
         "uk": "Оптоелектроніка"
       }
     }
@@ -64,16 +64,16 @@
   "broader": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n8",
     "prefLabel": {
-      "en": "Engineering Sciences",
       "de": "Ingenieurwissenschaften",
+      "en": "Engineering Sciences",
       "uk": "Інженерія"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)",
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)"
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)",
+      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)"
     }
   },
   "@context": {

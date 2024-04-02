@@ -4,15 +4,15 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhcrt%2Fweb_page",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhcrt%2Fweb_page",
   "prefLabel": {
-    "en": "Web Page",
     "de": "Webseite",
+    "en": "Web Page",
     "uk": "Веб-сайт"
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hcrt/scheme",
     "title": {
-      "en": "Higher Education Resource Types",
       "de": "Hochschulcampus Ressourcentypen",
+      "en": "Higher Education Resource Types",
       "uk": "Типи ресурсів вищої освіти"
     }
   },

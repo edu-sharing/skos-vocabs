@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn36",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn36",
   "prefLabel": {
-    "en": "Mathematics, Natural Sciences (general)",
     "de": "Mathematik, Naturwissenschaften allgemein",
+    "en": "Mathematics, Natural Sciences (general)",
     "uk": "Математика, Природничі науки (загальні)"
   },
   "notation": [
@@ -15,24 +15,24 @@
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n275",
       "prefLabel": {
-        "en": "History of Science/History of Technology",
         "de": "Geschichte der Mathematik und Naturwissenschaften",
+        "en": "History of Science/History of Technology",
         "uk": "Історія науки і техніки"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n049",
       "prefLabel": {
-        "en": "Interdisc. Studies (special. in Natural Sciences)",
         "de": "Interdisziplinäre Studien (Schwerpunkt Naturwissenschaften)",
+        "en": "Interdisc. Studies (special. in Natural Sciences)",
         "uk": "Міждисциплінірні науки (у галузі Природничих наук)"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n186",
       "prefLabel": {
-        "en": "Area of study: Natural Sciences/General Studies",
         "de": "Lernbereich Naturwissenschaften/Sachunterricht",
+        "en": "Area of study: Natural Sciences/General Studies",
         "uk": "Галузь знань: Природничі науки/Загальні науки"
       }
     }
@@ -40,16 +40,16 @@
   "broader": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n4",
     "prefLabel": {
-      "en": "Mathematics, Natural Sciences",
       "de": "Mathematik, Naturwissenschaften",
+      "en": "Mathematics, Natural Sciences",
       "uk": "Математика, природничі науки"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)",
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)"
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)",
+      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)"
     }
   },
   "@context": {

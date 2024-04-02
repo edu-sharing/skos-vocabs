@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn77",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn77",
   "prefLabel": {
-    "en": "Performing Arts, Film and Television Studies, Theatre Studies",
     "de": "Darstellende Kunst, Film und Fernsehen, Theaterwissenschaft",
+    "en": "Performing Arts, Film and Television Studies, Theatre Studies",
     "uk": "Акторська гра/Телемистецтво/Театральне мистецтво"
   },
   "notation": [
@@ -15,40 +15,40 @@
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n035",
       "prefLabel": {
-        "en": "Performing Arts/Stagecraft/Directing",
         "de": "Darstellende Kunst/Bühnenkunst/Regie",
+        "en": "Performing Arts/Stagecraft/Directing",
         "uk": "Акторська гра/Сценічне мистецтво/Режисерська діяльність"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n054",
       "prefLabel": {
-        "en": "Film and Television Studies",
         "de": "Film und Fernsehen",
+        "en": "Film and Television Studies",
         "uk": "Телемистецтво"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n102",
       "prefLabel": {
-        "en": "Drama Studies",
         "de": "Schauspiel",
+        "en": "Drama Studies",
         "uk": "Сценічне мистецтво"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n106",
       "prefLabel": {
-        "en": "Dance Education",
         "de": "Tanzpädagogik",
+        "en": "Dance Education",
         "uk": "Хореографічне мистецтво"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n155",
       "prefLabel": {
-        "en": "Theatre Studies",
         "de": "Theaterwissenschaft",
+        "en": "Theatre Studies",
         "uk": "Театральне мистецтво"
       }
     }
@@ -56,16 +56,16 @@
   "broader": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n9",
     "prefLabel": {
-      "en": "Art, Art Theory",
       "de": "Kunst, Kunstwissenschaft",
+      "en": "Art, Art Theory",
       "uk": "Мистецтво, мистецтвознавство"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)",
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)"
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)",
+      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)"
     }
   },
   "@context": {

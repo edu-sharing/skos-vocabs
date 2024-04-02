@@ -4,15 +4,15 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhcrt%2Fsheet_music",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhcrt%2Fsheet_music",
   "prefLabel": {
-    "en": "Sheet Music",
     "de": "Musiknoten",
+    "en": "Sheet Music",
     "uk": "Ноти"
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hcrt/scheme",
     "title": {
-      "en": "Higher Education Resource Types",
       "de": "Hochschulcampus Ressourcentypen",
+      "en": "Higher Education Resource Types",
       "uk": "Типи ресурсів вищої освіти"
     }
   },

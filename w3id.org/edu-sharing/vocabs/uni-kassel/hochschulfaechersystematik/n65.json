@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn65",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn65",
   "prefLabel": {
-    "en": "Traffic Engineering, Nautical Science",
     "de": "Verkehrstechnik, Nautik",
+    "en": "Traffic Engineering, Nautical Science",
     "uk": "Транспортні технології/Мореплавство"
   },
   "notation": [
@@ -15,40 +15,40 @@
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n235",
       "prefLabel": {
-        "en": "Automotive Technology",
         "de": "Fahrzeugtechnik",
+        "en": "Automotive Technology",
         "uk": "Автомобільний транспорт"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n057",
       "prefLabel": {
-        "en": "Aeronautical and Aerospace Engineering",
         "de": "Luft- und Raumfahrttechnik",
+        "en": "Aeronautical and Aerospace Engineering",
         "uk": "Авіаційна та ракетно-космічна техніка"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n223",
       "prefLabel": {
-        "en": "Nautical Science/Maritime Studies",
         "de": "Nautik/Seefahrt",
+        "en": "Nautical Science/Maritime Studies",
         "uk": "Морські науки"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n142",
       "prefLabel": {
-        "en": "Naval Architecture/Ship Technology",
         "de": "Schiffbau/Schiffstechnik",
+        "en": "Naval Architecture/Ship Technology",
         "uk": "Морський транспорт/Суднобудування"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n089",
       "prefLabel": {
-        "en": "Transport Engineering",
         "de": "Verkehrsingenieurwesen",
+        "en": "Transport Engineering",
         "uk": "Транспортна інженерія"
       }
     }
@@ -56,16 +56,16 @@
   "broader": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n8",
     "prefLabel": {
-      "en": "Engineering Sciences",
       "de": "Ingenieurwissenschaften",
+      "en": "Engineering Sciences",
       "uk": "Інженерія"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)",
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)"
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)",
+      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)"
     }
   },
   "@context": {

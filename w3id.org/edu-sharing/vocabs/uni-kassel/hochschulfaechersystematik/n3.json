@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn3",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn3",
   "prefLabel": {
-    "en": "Law, Economics and Social Sciences",
     "de": "Rechts-, Wirtschafts- und Sozialwissenschaften",
+    "en": "Law, Economics and Social Sciences",
     "uk": "Право, економіка та суспільні науки"
   },
   "notation": [
@@ -15,80 +15,80 @@
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n23",
       "prefLabel": {
-        "en": "Law, Economics and Social Sciences (general)",
         "de": "Rechts-, Wirtschafts- und Sozialwissenschaften allgemein",
+        "en": "Law, Economics and Social Sciences (general)",
         "uk": "Право, економіка та суспільні науки"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n24",
       "prefLabel": {
-        "en": "Regional Studies",
         "de": "Regionalwissenschaften",
+        "en": "Regional Studies",
         "uk": "Регіональні студії"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n25",
       "prefLabel": {
-        "en": "Political Science",
         "de": "Politikwissenschaften",
+        "en": "Political Science",
         "uk": "Політологія"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n26",
       "prefLabel": {
-        "en": "Social Sciences/Sociology",
         "de": "Sozialwissenschaften",
+        "en": "Social Sciences/Sociology",
         "uk": "Суспільні науки та соціологія"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n27",
       "prefLabel": {
-        "en": "Applied Social Science",
         "de": "Studienbereich Sozialwesen",
+        "en": "Applied Social Science",
         "uk": "Прикладні суспільні науки"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n28",
       "prefLabel": {
-        "en": "Law",
         "de": "Rechtswissenschaften",
+        "en": "Law",
         "uk": "Правознавство"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n29",
       "prefLabel": {
-        "en": "Administrative Sciences",
         "de": "Verwaltungswissenschaften",
+        "en": "Administrative Sciences",
         "uk": "Управління та адміністрування"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n30",
       "prefLabel": {
-        "en": "Business and Economics",
         "de": "Studienbereich Wirtschaftswissenschaften",
+        "en": "Business and Economics",
         "uk": "Бізнес та економіка"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n31",
       "prefLabel": {
-        "en": "Business Engineering specialising in Economics",
         "de": "Studienbereich Wirtschaftsingenieurwesen mit wirtschaftswissenschaftlichem Schwerpunkt",
+        "en": "Business Engineering specialising in Economics",
         "uk": "Бізнес інженерія у галузі економіки"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n32",
       "prefLabel": {
-        "en": "Psychology",
         "de": "Studienbereich Psychologie",
+        "en": "Psychology",
         "uk": "Психологія"
       }
     }
@@ -96,8 +96,8 @@
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)",
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)"
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)",
+      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)"
     }
   },
   "topConceptOf": {

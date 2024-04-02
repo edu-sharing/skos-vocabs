@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn544",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn544",
   "prefLabel": {
-    "en": "Protestant Religious Pedagogy, Church Educational Work",
     "de": "Evang. Religionspädagogik, kirchliche Bildungsarbeit",
+    "en": "Protestant Religious Pedagogy, Church Educational Work",
     "uk": "Протестантська релігійна педагогіка, церковно-виховна робота"
   },
   "notation": [
@@ -14,16 +14,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n02",
     "prefLabel": {
-      "en": "Protestant Theology, Protestant Religious Education",
       "de": "Evang. Theologie, -Religionslehre",
+      "en": "Protestant Theology, Protestant Religious Education",
       "uk": "Протестантська теологія, протестантська релігійна освіта"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects",
       "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
+      "en": "Destatis classification for subject groups, study areas and study subjects",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

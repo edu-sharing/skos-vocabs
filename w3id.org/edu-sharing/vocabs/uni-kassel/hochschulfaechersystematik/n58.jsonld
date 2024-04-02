@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn58",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn58",
   "prefLabel": {
-    "en": "Agricultural Science, Food- and Beverage Technology",
     "de": "Agrarwissenschaften, Lebensmittel- und Getränketechnologie",
+    "en": "Agricultural Science, Food- and Beverage Technology",
     "uk": "Сільськогосподарська наука, харчові технології"
   },
   "notation": [
@@ -15,80 +15,80 @@
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n138",
       "prefLabel": {
-        "en": "Agricultural Biology",
         "de": "Agrarbiologie",
+        "en": "Agricultural Biology",
         "uk": "Агробіологія"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n125",
       "prefLabel": {
-        "en": "Agricultural Economics",
         "de": "Agrarökonomie",
+        "en": "Agricultural Economics",
         "uk": "Економіка сільського господарства"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n003",
       "prefLabel": {
-        "en": "Agricultural Science/Agriculture",
         "de": "Agrarwissenschaft/Landwirtschaft",
+        "en": "Agricultural Science/Agriculture",
         "uk": "Аграрні науки/Сільське господарство"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n028",
       "prefLabel": {
-        "en": "Brewing Science/Beverage Technology",
         "de": "Brauwesen/Getränketechnologie",
+        "en": "Brewing Science/Beverage Technology",
         "uk": "Пивоваріння/Технологія напоїв"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n060",
       "prefLabel": {
-        "en": "Horticulture",
         "de": "Gartenbau",
+        "en": "Horticulture",
         "uk": "Садово-паркове господарство"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n097",
       "prefLabel": {
-        "en": "Food Technology",
         "de": "Lebensmitteltechnologie",
+        "en": "Food Technology",
         "uk": "Харчові технології"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n220",
       "prefLabel": {
-        "en": "Dairy Farming",
         "de": "Milch- und Molkereiwirtschaft",
+        "en": "Dairy Farming",
         "uk": "Молочне тваринництво"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n353",
       "prefLabel": {
-        "en": "Plant Production",
         "de": "Pflanzenproduktion",
+        "en": "Plant Production",
         "uk": "Рослинництво"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n371",
       "prefLabel": {
-        "en": "Animal Production",
         "de": "Tierproduktion",
+        "en": "Animal Production",
         "uk": "Тваринництво"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n227",
       "prefLabel": {
-        "en": "Viticulture and Oenology",
         "de": "Weinbau und Kellerwirtschaft",
+        "en": "Viticulture and Oenology",
         "uk": "Виноградарство і виноробство"
       }
     }
@@ -96,16 +96,16 @@
   "broader": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n7",
     "prefLabel": {
-      "en": "Agricultural, Forest and Nutritional Sciences, Veterinary medicine",
       "de": "Agrar-, Forst- und Ernährungswissenschaften, Veterinärmedizin",
+      "en": "Agricultural, Forest and Nutritional Sciences, Veterinary medicine",
       "uk": "Сільськогосподарські, лісові та харчові науки, ветеринарія"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)",
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)"
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)",
+      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)"
     }
   },
   "@context": {

@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn08",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn08",
   "prefLabel": {
-    "en": "Classical Philology, Modern Greek",
     "de": "Altphilologie (klass. Philologie), Neugriechisch",
+    "en": "Classical Philology, Modern Greek",
     "uk": "Класична філологія, новогрецька мова"
   },
   "notation": [
@@ -15,40 +15,40 @@
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n031",
       "prefLabel": {
-        "en": "Byzantine Studies",
         "de": "Byzantinistik",
+        "en": "Byzantine Studies",
         "uk": "Комп'ютерна лінгвістика"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n070",
       "prefLabel": {
-        "en": "Greek",
         "de": "Griechisch",
+        "en": "Greek",
         "uk": "Грецька мова"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n005",
       "prefLabel": {
-        "en": "Classical Philology",
         "de": "Klassische Philologie",
+        "en": "Classical Philology",
         "uk": "Класична філологія"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n095",
       "prefLabel": {
-        "en": "Latin",
         "de": "Latein",
+        "en": "Latin",
         "uk": "Латинська мова"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n043",
       "prefLabel": {
-        "en": "Modern Greek",
         "de": "Neugriechisch",
+        "en": "Modern Greek",
         "uk": "Новогрецька мова"
       }
     }
@@ -56,16 +56,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n1",
     "prefLabel": {
-      "en": "Humanities",
       "de": "Geisteswissenschaften",
+      "en": "Humanities",
       "uk": "Гуманітарні науки"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects",
       "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
+      "en": "Destatis classification for subject groups, study areas and study subjects",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

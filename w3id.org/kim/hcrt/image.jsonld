@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhcrt%2Fimage",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhcrt%2Fimage",
   "prefLabel": {
-    "en": "Image",
     "de": "Abbildung",
+    "en": "Image",
     "uk": "Ілюстрація"
   },
   "altLabel": {
@@ -13,15 +13,15 @@
     "uk": "Зображення"
   },
   "scopeNote": {
-    "en": "photos, graphics, and other images",
     "de": "Fotos, Grafiken und sonstige Bilder",
+    "en": "photos, graphics, and other images",
     "uk": "Фотографії, графіки та інші зображення"
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hcrt/scheme",
     "title": {
-      "en": "Higher Education Resource Types",
       "de": "Hochschulcampus Ressourcentypen",
+      "en": "Higher Education Resource Types",
       "uk": "Типи ресурсів вищої освіти"
     }
   },

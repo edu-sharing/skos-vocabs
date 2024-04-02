@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn22",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn22",
   "prefLabel": {
-    "en": "Sports, Sports Science",
     "de": "Sport, Sportwissenschaft",
+    "en": "Sports, Sports Science",
     "uk": "Фізична культура та спорт"
   },
   "notation": [
@@ -15,16 +15,16 @@
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n098",
       "prefLabel": {
-        "en": "Sports Education/Sports Psychology",
         "de": "Sportpädagogik/Sportpsychologie",
+        "en": "Sports Education/Sports Psychology",
         "uk": "Спортивне виховання/Психологія спорту"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n029",
       "prefLabel": {
-        "en": "Sports Science",
         "de": "Sportwissenschaft",
+        "en": "Sports Science",
         "uk": "Науки про спорт"
       }
     }
@@ -32,16 +32,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n2",
     "prefLabel": {
-      "en": "Sports",
       "de": "Sport",
+      "en": "Sports",
       "uk": "Спорт"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects",
       "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
+      "en": "Destatis classification for subject groups, study areas and study subjects",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

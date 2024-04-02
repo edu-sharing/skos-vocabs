@@ -4,18 +4,18 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Fdublin%2FeducationalAudienceRole%2Fmentor",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Fdublin%2FeducationalAudienceRole%2Fmentor",
   "prefLabel": {
-    "en": "mentor",
-    "de": "Mentor"
+    "de": "Mentor",
+    "en": "mentor"
   },
   "definition": {
-    "en": "Someone who advises, trains, supports, and/or guides.",
-    "de": "Jemand der berät, trainiert, unterstÃ¼tzt und/oder anleitet."
+    "de": "Jemand der berät, trainiert, unterstÃ¼tzt und/oder anleitet.",
+    "en": "Someone who advises, trains, supports, and/or guides."
   },
   "inScheme": {
     "id": "http://w3id.org/edu-sharing/vocabs/dublin/educationalAudienceRole/",
     "title": {
-      "en": "LRMI Educational Audience Role Vocabulary",
-      "de": "LRMI Vokabular für pädagogische Zielgruppen"
+      "de": "LRMI Vokabular für pädagogische Zielgruppen",
+      "en": "LRMI Educational Audience Role Vocabulary"
     }
   },
   "@context": {

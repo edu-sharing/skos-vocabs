@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn39",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn39",
   "prefLabel": {
-    "en": "Physics, Astronomy",
     "de": "Physik, Astronomie",
+    "en": "Physics, Astronomy",
     "uk": "Фізика, Астрономія"
   },
   "notation": [
@@ -15,16 +15,16 @@
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n014",
       "prefLabel": {
-        "en": "Astrophysics, Astronomy",
         "de": "Astronomie, Astrophysik",
+        "en": "Astrophysics, Astronomy",
         "uk": "Астрофізика, Астрономія"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n0128",
       "prefLabel": {
-        "en": "Physics",
         "de": "Physik",
+        "en": "Physics",
         "uk": "Фізика"
       }
     }
@@ -32,16 +32,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n4",
     "prefLabel": {
-      "en": "Mathematics, Natural Sciences",
       "de": "Mathematik, Naturwissenschaften",
+      "en": "Mathematics, Natural Sciences",
       "uk": "Математика, природничі науки"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects",
       "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
+      "en": "Destatis classification for subject groups, study areas and study subjects",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

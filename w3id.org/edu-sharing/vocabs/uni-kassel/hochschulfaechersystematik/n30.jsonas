@@ -7,7 +7,7 @@
   },
   "id": "https://test.skohub.iow3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n30",
   "type": "Service",
-  "name": "Business and Economics",
+  "name": "Studienbereich Wirtschaftswissenschaften",
   "preferredUsername": "773369642e6f72672f6564752d73686172696e672f766f636162732f756e692d6b617373656c2f686f6368736368756c6661656368657273797374656d6174696b2f6e3330",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn30",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn30",

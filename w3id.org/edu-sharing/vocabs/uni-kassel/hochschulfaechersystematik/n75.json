@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn75",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn75",
   "prefLabel": {
-    "en": "Fine Arts",
     "de": "Studienbereich Bildende Kunst",
+    "en": "Fine Arts",
     "uk": "Образотворче мистецтво"
   },
   "notation": [
@@ -15,32 +15,32 @@
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n023",
       "prefLabel": {
-        "en": "Fine Arts/Graphics",
         "de": "Bildende Kunst/Graphik",
+        "en": "Fine Arts/Graphics",
         "uk": "Образотворче мистецтво/Графіка"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n205",
       "prefLabel": {
-        "en": "Sculpting/Statuary Art",
         "de": "Bildhauerei/Plastik",
+        "en": "Sculpting/Statuary Art",
         "uk": "Скульптурне мистецтво"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n204",
       "prefLabel": {
-        "en": "Painting",
         "de": "Malerei",
+        "en": "Painting",
         "uk": "Живопис"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n287",
       "prefLabel": {
-        "en": "New Media",
         "de": "Neue Medien",
+        "en": "New Media",
         "uk": "Нові засоби масової інформації"
       }
     }
@@ -48,16 +48,16 @@
   "broader": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n9",
     "prefLabel": {
-      "en": "Art, Art Theory",
       "de": "Kunst, Kunstwissenschaft",
+      "en": "Art, Art Theory",
       "uk": "Мистецтво, мистецтвознавство"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)",
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)"
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)",
+      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)"
     }
   },
   "@context": {

@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn28",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn28",
   "prefLabel": {
-    "en": "Law",
     "de": "Rechtswissenschaften",
+    "en": "Law",
     "uk": "Правознавство"
   },
   "notation": [
@@ -15,16 +15,16 @@
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n135",
       "prefLabel": {
-        "en": "Law",
         "de": "Rechtswissenschaft",
+        "en": "Law",
         "uk": "Правознавство"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n042",
       "prefLabel": {
-        "en": "Business Law",
         "de": "Wirtschaftsrecht",
+        "en": "Business Law",
         "uk": "Господарське право"
       }
     }
@@ -32,16 +32,16 @@
   "broader": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n3",
     "prefLabel": {
-      "en": "Law, Economics and Social Sciences",
       "de": "Rechts-, Wirtschafts- und Sozialwissenschaften",
+      "en": "Law, Economics and Social Sciences",
       "uk": "Право, економіка та суспільні науки"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)",
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)"
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)",
+      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)"
     }
   },
   "@context": {

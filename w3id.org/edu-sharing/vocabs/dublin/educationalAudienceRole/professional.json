@@ -4,18 +4,18 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Fdublin%2FeducationalAudienceRole%2Fprofessional",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Fdublin%2FeducationalAudienceRole%2Fprofessional",
   "prefLabel": {
-    "en": "professional",
-    "de": "Fachkraft"
+    "de": "Fachkraft",
+    "en": "professional"
   },
   "definition": {
-    "en": "Someone already practicing a profession; an industry partner, or professional development trainer.",
-    "de": "Eine Person mit Erfahrung in einem Fach; Branchenpartner*in oder Trainer*in für berufliche Weiterbildung"
+    "de": "Eine Person mit Erfahrung in einem Fach; Branchenpartner*in oder Trainer*in für berufliche Weiterbildung",
+    "en": "Someone already practicing a profession; an industry partner, or professional development trainer."
   },
   "inScheme": {
     "id": "http://w3id.org/edu-sharing/vocabs/dublin/educationalAudienceRole/",
     "title": {
-      "en": "LRMI Educational Audience Role Vocabulary",
-      "de": "LRMI Vokabular für pädagogische Zielgruppen"
+      "de": "LRMI Vokabular für pädagogische Zielgruppen",
+      "en": "LRMI Educational Audience Role Vocabulary"
     }
   },
   "@context": {

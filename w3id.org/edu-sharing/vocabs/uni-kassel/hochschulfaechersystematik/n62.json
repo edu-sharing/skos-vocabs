@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn62",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn62",
   "prefLabel": {
-    "en": "Mining, Metallurgy",
     "de": "Bergbau, Hüttenwesen",
+    "en": "Mining, Metallurgy",
     "uk": "Гірнича справа, металургія"
   },
   "notation": [
@@ -15,32 +15,32 @@
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n390",
       "prefLabel": {
-        "en": "Archaeometry (Archaeological Engineering)",
         "de": "Archäometrie (Ingenieurarchäologie)",
+        "en": "Archaeometry (Archaeological Engineering)",
         "uk": "Археометрія (Археологічна інженерія)"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n020",
       "prefLabel": {
-        "en": "Mining/Mine Engineering",
         "de": "Bergbau/Bergtechnik",
+        "en": "Mining/Mine Engineering",
         "uk": "Гірнича справа/Гірнича технологія"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n076",
       "prefLabel": {
-        "en": "Metallurgy and Foundry",
         "de": "Hütten- und Gießereiwesen",
+        "en": "Metallurgy and Foundry",
         "uk": "Металургія та ливарна промисловість"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n103",
       "prefLabel": {
-        "en": "Mine Surveying",
         "de": "Markscheidewesen",
+        "en": "Mine Surveying",
         "uk": "Маркшейдерія"
       }
     }
@@ -48,16 +48,16 @@
   "broader": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n8",
     "prefLabel": {
-      "en": "Engineering Sciences",
       "de": "Ingenieurwissenschaften",
+      "en": "Engineering Sciences",
       "uk": "Інженерія"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)",
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)"
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)",
+      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)"
     }
   },
   "@context": {

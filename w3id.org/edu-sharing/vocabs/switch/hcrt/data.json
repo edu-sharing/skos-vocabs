@@ -4,22 +4,22 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Fswitch%2Fhcrt%2Fdata",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Fswitch%2Fhcrt%2Fdata",
   "prefLabel": {
-    "en": "Data",
     "de": "Daten",
+    "en": "Data",
     "nl": "Gegevens",
     "uk": "Дані"
   },
   "scopeNote": {
-    "en": "amongst others raw and example data",
     "de": "unter anderem Roh- oder Beispieldaten",
+    "en": "amongst others raw and example data",
     "nl": "onder andere ruwe gegevens en voorbeeldgegevens",
     "uk": "включно з необробленими даними та зразками"
   },
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/switch/hcrt/scheme",
     "title": {
-      "en": "Higher Education Resource Types (SWITCH)",
-      "de": "Hochschulcampus Ressourcentypen (SWITCH)"
+      "de": "Hochschulcampus Ressourcentypen (SWITCH)",
+      "en": "Higher Education Resource Types (SWITCH)"
     }
   },
   "topConceptOf": {

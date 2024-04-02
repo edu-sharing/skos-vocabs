@@ -7,7 +7,7 @@
   },
   "id": "https://test.skohub.iow3id.org/edu-sharing/vocabs/dublin/educationalAudienceRole/generalPublic",
   "type": "Service",
-  "name": "general public",
+  "name": "Allgemeine Öffentlichkeit",
   "preferredUsername": "773369642e6f72672f6564752d73686172696e672f766f636162732f6475626c696e2f656475636174696f6e616c41756469656e6365526f6c652f67656e6572616c5075626c6963",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Fdublin%2FeducationalAudienceRole%2FgeneralPublic",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Fdublin%2FeducationalAudienceRole%2FgeneralPublic",

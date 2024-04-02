@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn13",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn13",
   "prefLabel": {
-    "en": "Other linguistic and cultural studies",
     "de": "Außereuropäische Sprach- und Kulturwissenschaften",
+    "en": "Other linguistic and cultural studies",
     "uk": "Інші лінгвокультурологічні дослідження"
   },
   "notation": [
@@ -15,112 +15,112 @@
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n002",
       "prefLabel": {
-        "en": "African Studies",
         "de": "Afrikanistik",
+        "en": "African Studies",
         "uk": "Африканські студії"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n001",
       "prefLabel": {
-        "en": "Egyptology",
         "de": "Ägyptologie",
+        "en": "Egyptology",
         "uk": "Єгиптологія"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n010",
       "prefLabel": {
-        "en": "Arabic/Arabic Studies",
         "de": "Arabisch/Arabistik",
+        "en": "Arabic/Arabic Studies",
         "uk": "Арабістика"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n187",
       "prefLabel": {
-        "en": "Asian Languages and Cultures/Asian Studies",
         "de": "Asiatische Sprachen und Kulturen/Asienwissenschaften",
+        "en": "Asian Languages and Cultures/Asian Studies",
         "uk": "Азійські мови та культури/Азіатські студії"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n015",
       "prefLabel": {
-        "en": "Non-European Languages and Cultures in Oceania and America",
         "de": "Außereuropäische Sprachen und Kulturen in Ozeanien und Amerika",
+        "en": "Non-European Languages and Cultures in Oceania and America",
         "uk": "Неєвропейські мови та культури в Океанії та Америці"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n073",
       "prefLabel": {
-        "en": "Judaic Studies/Hebrew",
         "de": "Hebräisch/Judaistik",
+        "en": "Judaic Studies/Hebrew",
         "uk": "Юдаїка"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n078",
       "prefLabel": {
-        "en": "Indology",
         "de": "Indologie",
+        "en": "Indology",
         "uk": "Індологія"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n081",
       "prefLabel": {
-        "en": "Iranian Studies",
         "de": "Iranistik",
+        "en": "Iranian Studies",
         "uk": "Іраністика"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n083",
       "prefLabel": {
-        "en": "Islamic Studies",
         "de": "Islamwissenschaft",
+        "en": "Islamic Studies",
         "uk": "Ісламознавство"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n085",
       "prefLabel": {
-        "en": "Japanese Studies",
         "de": "Japanologie",
+        "en": "Japanese Studies",
         "uk": "Японознавство"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n180",
       "prefLabel": {
-        "en": "Caucasian Studies",
         "de": "Kaukasistik",
+        "en": "Caucasian Studies",
         "uk": "Кавказознавство"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n122",
       "prefLabel": {
-        "en": "Oriental Studies, Ancient Oriental Studies",
         "de": "Orientalistik/Altorientalistik",
+        "en": "Oriental Studies, Ancient Oriental Studies",
         "uk": "Сходознавство, Стародавнє сходознавство"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n145",
       "prefLabel": {
-        "en": "Sinology/Korean Studies",
         "de": "Sinologie/Koreanistik",
+        "en": "Sinology/Korean Studies",
         "uk": "Китаєзнавство/Кореєзнавство"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n158",
       "prefLabel": {
-        "en": "Turkish Studies",
         "de": "Turkologie",
+        "en": "Turkish Studies",
         "uk": "Тюркологія"
       }
     }
@@ -128,16 +128,16 @@
   "broader": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n1",
     "prefLabel": {
-      "en": "Humanities",
       "de": "Geisteswissenschaften",
+      "en": "Humanities",
       "uk": "Гуманітарні науки"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)",
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)"
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)",
+      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)"
     }
   },
   "@context": {

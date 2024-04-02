@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn082",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn082",
   "prefLabel": {
-    "en": "Wood and Fibre Technology",
     "de": "Holz-/Fasertechnik",
+    "en": "Wood and Fibre Technology",
     "uk": "Технологія деревини та волокна"
   },
   "notation": [
@@ -14,16 +14,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n63",
     "prefLabel": {
-      "en": "Mechanical Engineering / Process Engineering",
       "de": "Maschinenbau/Verfahrenstechnik",
+      "en": "Mechanical Engineering / Process Engineering",
       "uk": "Машинобудування/Технологія"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects",
       "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
+      "en": "Destatis classification for subject groups, study areas and study subjects",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

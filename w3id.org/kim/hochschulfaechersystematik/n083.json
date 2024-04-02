@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn083",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn083",
   "prefLabel": {
-    "en": "Islamic Studies",
     "de": "Islamwissenschaft",
+    "en": "Islamic Studies",
     "uk": "Ісламознавство"
   },
   "notation": [
@@ -14,16 +14,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n13",
     "prefLabel": {
-      "en": "Other linguistic and cultural studies",
       "de": "Außereuropäische Sprach- und Kulturwissenschaften",
+      "en": "Other linguistic and cultural studies",
       "uk": "Інші лінгвокультурологічні дослідження"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects",
       "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
+      "en": "Destatis classification for subject groups, study areas and study subjects",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

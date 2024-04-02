@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn31",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn31",
   "prefLabel": {
-    "en": "Business Engineering specialising in Economics",
     "de": "Studienbereich Wirtschaftsingenieurwesen mit wirtschaftswissenschaftlichem Schwerpunkt",
+    "en": "Business Engineering specialising in Economics",
     "uk": "Бізнес інженерія у галузі економіки"
   },
   "notation": [
@@ -15,16 +15,16 @@
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n464",
       "prefLabel": {
-        "en": "Facility Management",
         "de": "Facility Management",
+        "en": "Facility Management",
         "uk": "Організація управління підприємством"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n179",
       "prefLabel": {
-        "en": "Business Engineering specialising in Economics",
         "de": "Wirtschaftsingenieurwesen mit wirtschaftswissenschaftlichem Schwerpunkt",
+        "en": "Business Engineering specialising in Economics",
         "uk": "Бізнес інженерія у галузі економіки"
       }
     }
@@ -32,16 +32,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n3",
     "prefLabel": {
-      "en": "Law, Economics and Social Sciences",
       "de": "Rechts-, Wirtschafts- und Sozialwissenschaften",
+      "en": "Law, Economics and Social Sciences",
       "uk": "Право, економіка та суспільні науки"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects",
       "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
+      "en": "Destatis classification for subject groups, study areas and study subjects",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

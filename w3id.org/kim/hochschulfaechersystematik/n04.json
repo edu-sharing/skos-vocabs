@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn04",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn04",
   "prefLabel": {
-    "en": "Philosophy",
     "de": "Studienbereich Philosophie",
+    "en": "Philosophy",
     "uk": "Філософія"
   },
   "notation": [
@@ -15,24 +15,24 @@
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n169",
       "prefLabel": {
-        "en": "Ethics",
         "de": "Ethik",
+        "en": "Ethics",
         "uk": "Етика"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n127",
       "prefLabel": {
-        "en": "Philosophy",
         "de": "Philosophie",
+        "en": "Philosophy",
         "uk": "Філософія"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n136",
       "prefLabel": {
-        "en": "Religious Studies",
         "de": "Religionswissenschaft",
+        "en": "Religious Studies",
         "uk": "Релігієзнавство"
       }
     }
@@ -40,16 +40,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n1",
     "prefLabel": {
-      "en": "Humanities",
       "de": "Geisteswissenschaften",
+      "en": "Humanities",
       "uk": "Гуманітарні науки"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects",
       "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
+      "en": "Destatis classification for subject groups, study areas and study subjects",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

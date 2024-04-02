@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn142",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn142",
   "prefLabel": {
-    "en": "Naval Architecture/Ship Technology",
     "de": "Schiffbau/Schiffstechnik",
+    "en": "Naval Architecture/Ship Technology",
     "uk": "Морський транспорт/Суднобудування"
   },
   "notation": [
@@ -14,16 +14,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n65",
     "prefLabel": {
-      "en": "Traffic Engineering, Nautical Science",
       "de": "Verkehrstechnik, Nautik",
+      "en": "Traffic Engineering, Nautical Science",
       "uk": "Транспортні технології/Мореплавство"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects",
       "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
+      "en": "Destatis classification for subject groups, study areas and study subjects",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },

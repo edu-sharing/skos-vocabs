@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn71",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn71",
   "prefLabel": {
-    "en": "Computer Science",
     "de": "Studienbereich Informatik",
+    "en": "Computer Science",
     "uk": "Комп'ютерні науки"
   },
   "notation": [
@@ -15,56 +15,56 @@
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n221",
       "prefLabel": {
-        "en": "Bioinformatics",
         "de": "Bioinformatik",
+        "en": "Bioinformatics",
         "uk": "Біоінформатика"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n200",
       "prefLabel": {
-        "en": "Computer and Communication Technology",
         "de": "Computer- und Kommunikationstechniken",
+        "en": "Computer and Communication Technology",
         "uk": "Інформаційно-комунікаційні технології"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n079",
       "prefLabel": {
-        "en": "Computer Science",
         "de": "Informatik",
+        "en": "Computer Science",
         "uk": "Комп'ютерні науки"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n123",
       "prefLabel": {
-        "en": "Computational Engineering/Technical Computer Science",
         "de": "Ingenieurinformatik/Technische Informatik",
+        "en": "Computational Engineering/Technical Computer Science",
         "uk": "Обчислювальна техніка/Технічна інформатика"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n121",
       "prefLabel": {
-        "en": "Media Informatics",
         "de": "Medieninformatik",
+        "en": "Media Informatics",
         "uk": "Медіаінформатика"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n247",
       "prefLabel": {
-        "en": "Medical Informatics",
         "de": "Medizinische Informatik",
+        "en": "Medical Informatics",
         "uk": "Медична інформатика"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n277",
       "prefLabel": {
-        "en": "Business Informatics",
         "de": "Wirtschaftsinformatik",
+        "en": "Business Informatics",
         "uk": "Бізнес-інформатика"
       }
     }
@@ -72,16 +72,16 @@
   "broader": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n8",
     "prefLabel": {
-      "en": "Engineering Sciences",
       "de": "Ingenieurwissenschaften",
+      "en": "Engineering Sciences",
       "uk": "Інженерія"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)",
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)"
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)",
+      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)"
     }
   },
   "@context": {

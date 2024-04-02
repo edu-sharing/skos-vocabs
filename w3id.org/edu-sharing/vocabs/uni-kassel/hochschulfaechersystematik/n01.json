@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn01",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn01",
   "prefLabel": {
-    "en": "Humanities (general)",
     "de": "Geisteswissenschaften allgemein",
+    "en": "Humanities (general)",
     "uk": "Гуманітарні науки загалом"
   },
   "notation": [
@@ -15,23 +15,23 @@
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n004",
       "prefLabel": {
-        "en": "Interdisciplinary Studies (specialising in Humanities)",
-        "de": "Interdisziplinäre Studien (Schwerpunkt Sprach- und Kulturwissenschaften)"
+        "de": "Interdisziplinäre Studien (Schwerpunkt Sprach- und Kulturwissenschaften)",
+        "en": "Interdisciplinary Studies (specialising in Humanities)"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n090",
       "prefLabel": {
-        "en": "Area of study: Humanities",
         "de": "Lernbereich Sprach- und Kulturwissenschaften",
+        "en": "Area of study: Humanities",
         "uk": "Галузь знань: гуманітарні науки"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n302",
       "prefLabel": {
-        "en": "Media Science",
         "de": "Medienwissenschaft",
+        "en": "Media Science",
         "uk": "Медіазнавство"
       }
     }
@@ -39,16 +39,16 @@
   "broader": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n1",
     "prefLabel": {
-      "en": "Humanities",
       "de": "Geisteswissenschaften",
+      "en": "Humanities",
       "uk": "Гуманітарні науки"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)",
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)"
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)",
+      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)"
     }
   },
   "@context": {

@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn5",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn5",
   "prefLabel": {
-    "en": "Human Medicine / Health Sciences",
     "de": "Humanmedizin/Gesundheitswissenschaften",
+    "en": "Human Medicine / Health Sciences",
     "uk": "Медицина / Науки про здоров'я"
   },
   "notation": [
@@ -15,24 +15,24 @@
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n48",
       "prefLabel": {
-        "en": "Health Sciences (general)",
         "de": "Gesundheitswissenschaften allgemein",
+        "en": "Health Sciences (general)",
         "uk": "Науки про здоров'я (в цілому)"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n49",
       "prefLabel": {
-        "en": "Human Medicine (excl. Dentistry)",
         "de": "Humanmedizin (ohne Zahnmedizin)",
+        "en": "Human Medicine (excl. Dentistry)",
         "uk": "Медицина людини (крім стоматології)"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n50",
       "prefLabel": {
-        "en": "Dentistry",
         "de": "Studienbereich Zahnmedizin",
+        "en": "Dentistry",
         "uk": "Стоматологія"
       }
     }
@@ -40,8 +40,8 @@
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)",
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)"
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)",
+      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)"
     }
   },
   "topConceptOf": {

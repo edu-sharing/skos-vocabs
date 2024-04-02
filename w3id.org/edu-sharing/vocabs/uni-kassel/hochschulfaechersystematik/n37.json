@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn37",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn37",
   "prefLabel": {
-    "en": "Mathematics",
     "de": "Studienbereich Mathematik",
+    "en": "Mathematics",
     "uk": "Математика"
   },
   "notation": [
@@ -15,32 +15,32 @@
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n105",
       "prefLabel": {
-        "en": "Mathematics",
         "de": "Mathematik",
+        "en": "Mathematics",
         "uk": "Математика"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n237",
       "prefLabel": {
-        "en": "Mathematical statistics/probability calculation",
         "de": "Mathematische Statistik/Wahrscheinlichkeitsrechnung",
+        "en": "Mathematical statistics/probability calculation",
         "uk": "Математична статистика/Теорія ймовірності"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n118",
       "prefLabel": {
-        "en": "Technomathematics",
         "de": "Technomathematik",
+        "en": "Technomathematics",
         "uk": "Технічна математика"
       }
     },
     {
       "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n276",
       "prefLabel": {
-        "en": "Business Mathematics",
         "de": "Wirtschaftsmathematik",
+        "en": "Business Mathematics",
         "uk": "Бізнес математика"
       }
     }
@@ -48,16 +48,16 @@
   "broader": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n4",
     "prefLabel": {
-      "en": "Mathematics, Natural Sciences",
       "de": "Mathematik, Naturwissenschaften",
+      "en": "Mathematics, Natural Sciences",
       "uk": "Математика, природничі науки"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)",
-      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)"
+      "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer (Uni-Kassel)",
+      "en": "Destatis classification for subject groups, study areas and study subjects (Uni-Kassel)"
     }
   },
   "@context": {

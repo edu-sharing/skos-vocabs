@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn43",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fkim%2Fhochschulfaechersystematik%2Fn43",
   "prefLabel": {
-    "en": "Geosciences (excl. Geography)",
     "de": "Geowissenschaften (ohne Geographie)",
+    "en": "Geosciences (excl. Geography)",
     "uk": "Науки про Землю(крім географії)"
   },
   "notation": [
@@ -15,56 +15,56 @@
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n065",
       "prefLabel": {
-        "en": "Geology/Palaeontology",
         "de": "Geologie/Paläontologie",
+        "en": "Geology/Palaeontology",
         "uk": "Геологія/Палеонтологія"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n385",
       "prefLabel": {
-        "en": "Geoecology",
         "de": "Geoökologie",
+        "en": "Geoecology",
         "uk": "Геоекологія"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n066",
       "prefLabel": {
-        "en": "Geophysics",
         "de": "Geophysik",
+        "en": "Geophysics",
         "uk": "Геофізика"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n039",
       "prefLabel": {
-        "en": "Geosciences (general)",
         "de": "Geowissenschaften",
+        "en": "Geosciences (general)",
         "uk": "Науки про Землю (загальні)"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n110",
       "prefLabel": {
-        "en": "Meteorology",
         "de": "Meteorologie",
+        "en": "Meteorology",
         "uk": "Метеорологія"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n111",
       "prefLabel": {
-        "en": "Mineralogy",
         "de": "Mineralogie",
+        "en": "Mineralogy",
         "uk": "Мінералогія"
       }
     },
     {
       "id": "https://w3id.org/kim/hochschulfaechersystematik/n124",
       "prefLabel": {
-        "en": "Oceanography",
         "de": "Ozeanographie",
+        "en": "Oceanography",
         "uk": "Океанографія"
       }
     }
@@ -72,16 +72,16 @@
   "broader": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/n4",
     "prefLabel": {
-      "en": "Mathematics, Natural Sciences",
       "de": "Mathematik, Naturwissenschaften",
+      "en": "Mathematics, Natural Sciences",
       "uk": "Математика, природничі науки"
     }
   },
   "inScheme": {
     "id": "https://w3id.org/kim/hochschulfaechersystematik/scheme",
     "title": {
-      "en": "Destatis classification for subject groups, study areas and study subjects",
       "de": "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer",
+      "en": "Destatis classification for subject groups, study areas and study subjects",
       "uk": "Destatis класифікація за предметними рубриками, спеціальностями та дисциплінами"
     }
   },
