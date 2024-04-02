@@ -1,0 +1,35 @@
+@base <https://w3id.org/edu-sharing/vocabs/switch/accessibillitySummary/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<> a skos:ConceptScheme ;
+    dct:title "Barrierefreiheit (SWITCH)"@de ;
+    dct:title "Accessibility (SWITCH)"@en ;
+    dct:description "Accessibility features of an item."@en ;
+    dct:creator "<https://wirlernenonline.de>" ;
+    dct:created "2020-11-16"^^xsd:date ;
+    dct:modified "2020-11-16"^^xsd:date ;
+    dct:issued "2020-11-16"^^xsd:date ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
+    skos:hasTopConcept <none>, <a>, <aa>, <aaa> .
+
+<none> a skos:Concept ;
+    skos:prefLabel "Nicht geprüft"@de ;
+    skos:prefLabel "Not tested"@en ;
+    skos:topConceptOf <> .
+
+<a> a skos:Concept ;
+    skos:prefLabel "A (am niedrigsten)"@de ;
+    skos:prefLabel "A (lowest)"@en ;
+    skos:topConceptOf <> .
+
+<aa> a skos:Concept ;
+    skos:prefLabel "AA (mittel)"@de ;
+    skos:prefLabel "AA (mid range)"@en ;
+    skos:topConceptOf <> .
+
+<aaa> a skos:Concept ;
+    skos:prefLabel "AAA (am höchsten)"@de ;
+    skos:prefLabel "AAA (highest)"@en ;
+    skos:topConceptOf <> .
