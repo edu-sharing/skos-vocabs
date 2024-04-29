@@ -7,7 +7,8 @@
     "de": "Musiknoten",
     "en": "Sheet Music",
     "nl": "Bladmuziek",
-    "uk": "Ноти"
+    "uk": "Ноти",
+    "fr": "Partition de musique"
   },
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/switch/hcrt/scheme",

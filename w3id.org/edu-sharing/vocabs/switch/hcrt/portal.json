@@ -7,7 +7,8 @@
     "de": "Portal",
     "en": "Web Portal",
     "nl": "Internetportaal",
-    "uk": "Портал"
+    "uk": "Портал",
+    "fr": "Portail"
   },
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/switch/hcrt/scheme",

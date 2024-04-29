@@ -7,7 +7,8 @@
     "de": "Lernspiel",
     "en": "Game",
     "nl": "Educatief Spel",
-    "uk": "Навчальна гра"
+    "uk": "Навчальна гра",
+    "fr": "Jeu éducatif"
   },
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/switch/hcrt/scheme",

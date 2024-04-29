@@ -7,7 +7,8 @@
     "de": "Webseite",
     "en": "Web Page",
     "nl": "Webpagina",
-    "uk": "Веб-сайт"
+    "uk": "Веб-сайт",
+    "fr": "Site web"
   },
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/switch/hcrt/scheme",

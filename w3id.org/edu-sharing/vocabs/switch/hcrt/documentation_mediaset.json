@@ -5,7 +5,8 @@
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Fswitch%2Fhcrt%2Fdocumentation_mediaset",
   "prefLabel": {
     "de": "Dokumentation Medienset",
-    "en": "Documentation media set"
+    "en": "Documentation media set",
+    "fr": "Documentation du kit média"
   },
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/switch/hcrt/scheme",

@@ -7,7 +7,8 @@
     "de": "Kurs",
     "en": "Course",
     "nl": "Cursus",
-    "uk": "Курс"
+    "uk": "Курс",
+    "fr": "Cours"
   },
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/switch/hcrt/scheme",

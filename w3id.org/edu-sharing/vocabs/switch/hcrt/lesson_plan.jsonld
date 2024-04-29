@@ -7,7 +7,8 @@
     "de": "Unterrichtsplanung",
     "en": "Lesson Plan",
     "nl": "Lesplan",
-    "uk": "План уроку"
+    "uk": "План уроку",
+    "fr": "Plan de cours"
   },
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/switch/hcrt/scheme",
