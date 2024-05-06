@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Fswitch%2Fhcrt%2Fassessment",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Fswitch%2Fhcrt%2Fassessment",
   "prefLabel": {
-    "de": "Lernkontrolle",
-    "en": "Assessment",
+    "de": "Kompetenznachweis",
+    "en": "Proof of competence",
     "nl": "Evaluatie",
     "uk": "Оцінювання",
     "fr": "Contrôle d’apprentissage"
