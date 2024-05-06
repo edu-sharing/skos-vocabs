@@ -23,7 +23,7 @@
 
 <assessment> a skos:Concept;
           skos:topConceptOf <scheme> ;
-          skos:prefLabel "Lernkontrolle"@de, "Assessment"@en, "Evaluatie"@nl, "Оцінювання"@uk, "Contrôle d’apprentissage"@fr ;
+          skos:prefLabel "Kompetenznachweis"@de, "Proof of competence"@en, "Evaluatie"@nl, "Оцінювання"@uk, "Contrôle d’apprentissage"@fr ;
           skos:altLabel "Assessment"@de ;
           skos:scopeNote "unter anderem (Selbst-)Tests"@de .
 
