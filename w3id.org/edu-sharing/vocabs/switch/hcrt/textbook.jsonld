@@ -10,6 +10,11 @@
     "uk": "Підручник",
     "fr": "Manuel"
   },
+  "relatedMatch": [
+    {
+      "id": "http://api.datacite.orgBook"
+    }
+  ],
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/switch/hcrt/scheme",
     "title": {

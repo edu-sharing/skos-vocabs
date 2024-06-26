@@ -16,6 +16,11 @@
     "nl": "onder andere ruwe gegevens en voorbeeldgegevens",
     "uk": "включно з необробленими даними та зразками"
   },
+  "relatedMatch": [
+    {
+      "id": "http://api.datacite.orgDataset"
+    }
+  ],
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/switch/hcrt/scheme",
     "title": {

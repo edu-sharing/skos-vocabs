@@ -20,6 +20,11 @@
     "nl": "foto's, illustraties en andere afbeeldingen",
     "uk": "Фотографії, графіки та інші зображення"
   },
+  "relatedMatch": [
+    {
+      "id": "http://api.datacite.orgImage"
+    }
+  ],
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/switch/hcrt/scheme",
     "title": {

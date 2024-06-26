@@ -10,6 +10,11 @@
     "uk": "Відео",
     "fr": "Vidéo"
   },
+  "relatedMatch": [
+    {
+      "id": "http://api.datacite.orgAudiovisual"
+    }
+  ],
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/switch/hcrt/scheme",
     "title": {

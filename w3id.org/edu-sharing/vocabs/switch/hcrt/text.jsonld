@@ -16,6 +16,11 @@
     "nl": "bijvoorbeeld artikel, opstel, verhandeling",
     "uk": "наприклад, стаття, есе, трактат"
   },
+  "relatedMatch": [
+    {
+      "id": "http://api.datacite.orgText"
+    }
+  ],
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/switch/hcrt/scheme",
     "title": {

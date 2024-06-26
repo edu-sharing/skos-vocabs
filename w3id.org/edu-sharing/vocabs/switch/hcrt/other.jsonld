@@ -10,6 +10,11 @@
     "uk": "Різне",
     "fr": "Divers"
   },
+  "relatedMatch": [
+    {
+      "id": "http://api.datacite.orgOther"
+    }
+  ],
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/switch/hcrt/scheme",
     "title": {

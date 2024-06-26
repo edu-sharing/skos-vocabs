@@ -16,6 +16,11 @@
   "scopeNote": {
     "de": "unter anderem (Selbst-)Tests"
   },
+  "relatedMatch": [
+    {
+      "id": "http://api.datacite.orgSoftware"
+    }
+  ],
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/switch/hcrt/scheme",
     "title": {
