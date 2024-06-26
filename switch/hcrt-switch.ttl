@@ -26,13 +26,13 @@
           skos:topConceptOf <scheme> ;
           skos:prefLabel "Kompetenznachweis"@de, "Proof of competence"@en, "Evaluatie"@nl, "Оцінювання"@uk, "Contrôle d’apprentissage"@fr ;
           skos:altLabel "Assessment"@de ;
-          skos:relatedMatch: doi:Software ;
+          skos:relatedMatch doi:Software ;
           skos:scopeNote "unter anderem (Selbst-)Tests"@de .
 
 <audio> a skos:Concept;
            skos:topConceptOf <scheme> ;
            skos:prefLabel "Audio"@de, "Audio Recording"@en, "Audio"@nl, "Аудіозапис"@uk, "Audio"@fr ;
-           skos:relatedMatch: doi:Audiovisual ;
+           skos:relatedMatch doi:Audiovisual ;
            skos:altLabel "Tonaufnahme"@de, "Звукозапис"@uk .
 
 <case_study> a skos:Concept;
@@ -46,7 +46,7 @@
 <data> a skos:Concept;
           skos:topConceptOf <scheme> ;
           skos:prefLabel "Daten"@de, "Data"@en, "Gegevens"@nl, "Дані"@uk, "Données"@fr ;
-          skos:relatedMatch: doi:Dataset ;
+          skos:relatedMatch doi:Dataset ;
           skos:scopeNote "unter anderem Roh- oder Beispieldaten"@de, "amongst others raw and example data"@en, "onder andere ruwe gegevens en voorbeeldgegevens"@nl, "включно з необробленими даними та зразками"@uk .
 
 <diagram> a skos:Concept;
@@ -68,7 +68,7 @@
 
 <image> a skos:Concept;
           skos:topConceptOf <scheme> ;
-          skos:relatedMatch: doi:Image ;
+          skos:relatedMatch doi:Image ;
           skos:prefLabel "Abbildung"@de, "Image"@en, "Afbeelding"@nl, "Ілюстрація"@uk, "Illustration"@fr ;
           skos:altLabel "Bild"@de, "Зображення"@uk ;
           skos:scopeNote "Fotos, Grafiken und sonstige Bilder"@de, "photos, graphics, and other images"@en, "foto's, illustraties en andere afbeeldingen"@nl, "Фотографії, графіки та інші зображення"@uk .
@@ -115,17 +115,17 @@
 <text> a skos:Concept;
           skos:topConceptOf <scheme> ;
           skos:prefLabel "Textdokument"@de, "Text"@en, "Tekst"@nl, "Текстовий документ"@uk, "Document texte"@fr ;
-          skos:relatedMatch: doi:Text ;
+          skos:relatedMatch doi:Text ;
           skos:scopeNote "zum Beispiel Artikel, Aufsatz, Abhandlung"@de, "for example article, essay"@en, "bijvoorbeeld artikel, opstel, verhandeling"@nl, "наприклад, стаття, есе, трактат"@uk .
 
 <textbook> a skos:Concept;
           skos:topConceptOf <scheme> ;
-          skos:relatedMatch: doi:Book ;
+          skos:relatedMatch doi:Book ;
           skos:prefLabel "Lehrbuch"@de, "Textbook"@en, "Studieboek"@nl, "Підручник"@uk, "Manuel"@fr .
 
 <video> a skos:Concept;
           skos:topConceptOf <scheme> ;
-          skos:relatedMatch: doi:Audiovisual ;
+          skos:relatedMatch doi:Audiovisual ;
           skos:prefLabel "Video"@de, "Video"@en, "Video"@nl, "Відео"@uk, "Vidéo"@fr .
 
 <web_page> a skos:Concept;
@@ -143,5 +143,5 @@
 
 <other> a skos:Concept;
           skos:topConceptOf <scheme> ;
-          skos:relatedMatch: doi:Other ;
+          skos:relatedMatch doi:Other ;
           skos:prefLabel "Sonstiges"@de, "Other"@en, "Overigen"@nl, "Різне"@uk, "Divers"@fr .
