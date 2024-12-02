@@ -3,6 +3,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>.
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
+
+<4dd60dfa-9f8a-4cc9-b733-0125448f77a3> a skos:Concept;
+           skos:topConceptOf <scheme> ;
+           skos:prefLabel "ChatGPT"@de .
+
+<67a64d33-4077-4a8a-be60-9c66382717e7> a skos:Concept;
+           skos:topConceptOf <scheme> ;
+           skos:prefLabel "ChatGPT"@de .
+
+
 <> a skos:ConceptScheme;
     dct:title "AI-Tools & AI-Netzwerke"@de ;
     dct:description "Sammlung von AI-Tools und AI-Netzwerken/Modellen zur Generierung von Contents."@de ;
@@ -10,4 +20,6 @@
     dct:created "2024-12-02"^^xsd:date ;
     dct:modified "2024-12-02"^^xsd:date ; 
     dct:issued "2024-12-02"^^xsd:date ;
-    dct:license <https://creativecommons.org/licenses/by/4.0/> .
+    dct:license <https://creativecommons.org/licenses/by/4.0/> ;
+    skos:hasTopConcept <4dd60dfa-9f8a-4cc9-b733-0125448f77a3>,
+      <67a64d33-4077-4a8a-be60-9c66382717e7> . 
