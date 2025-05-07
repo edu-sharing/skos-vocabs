@@ -1,8 +1,8 @@
 {
-  "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n900",
+  "id": "https://w3id.org/edu-sharing/vocabs/uni-kassel/hochschulfaechersystematik/n0",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn900",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn900",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn0",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Funi-kassel%2Fhochschulfaechersystematik%2Fn0",
   "prefLabel": {
     "de": "Fachübergreifend",
     "en": "Subject independent"
