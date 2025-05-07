@@ -13,7 +13,7 @@
   vann:preferredNamespacePrefix "hfs" ;
   vann:preferredNamespaceUri "https://w3id.org/kim/hochschulfaechersystematik/" ;
   schema:isBasedOn <http://bartoc.org/node/18919> ;
-  skos:hasTopConcept  <n1>, <n2>, <n3>, <n33>, <n4>, <n5>, <n7>, <n8>, <n9>, <n900> .
+  skos:hasTopConcept  <n1>, <n2>, <n3>, <n33>, <n4>, <n5>, <n7>, <n8>, <n9>, <n0> .
 
 <n1> a skos:Concept ;
   skos:prefLabel "Geisteswissenschaften"@de, "Humanities"@en, "Гуманітарні науки"@uk ;
@@ -63,7 +63,7 @@
   skos:notation "9" ;
   skos:topConceptOf <scheme> .
 
-<n900> a skos:Concept ;
+<n0> a skos:Concept ;
 skos:prefLabel "Fachübergreifend"@de, "Subject independent"@en ;
 skos:notation "900" ;
 skos:topConceptOf <scheme> .
