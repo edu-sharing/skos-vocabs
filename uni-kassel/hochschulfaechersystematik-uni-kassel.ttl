@@ -65,7 +65,7 @@
 
 <n0> a skos:Concept ;
 skos:prefLabel "Fachübergreifend"@de, "Subject independent"@en ;
-skos:notation "900" ;
+skos:notation "0" ;
 skos:topConceptOf <scheme> .
 
 <n01> a skos:Concept ;
