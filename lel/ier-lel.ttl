@@ -1,0 +1,23 @@
+@base <https://w3id.org/edu-sharing/vocabs/switch/hcrt/> .
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+
+
+<scheme> a skos:ConceptScheme;
+        dct:title "LEL Zielgruppen"@de ;
+        dct:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
+        skos:hasTopConcept <1e16743e-2cb3-4037-b732-549d9e99d1e3> ,
+        <df02e308-0630-40f3-9533-337af21b22de> ,
+        <0c4049f6-ee55-4ba7-8d2a-f72a259d6f06> .
+
+<1e16743e-2cb3-4037-b732-549d9e99d1e3> a skos:Concept;
+           skos:topConceptOf <scheme> ;
+           skos:prefLabel "Ergänzungsangebot Landbau "@de .
+
+<df02e308-0630-40f3-9533-337af21b22de> a skos:Concept;
+           skos:topConceptOf <scheme> ;
+           skos:prefLabel "Ergänzungsangebot Landbau "@de .
+
+<0c4049f6-ee55-4ba7-8d2a-f72a259d6f06> a skos:Concept;
+           skos:topConceptOf <scheme> ;
+           skos:prefLabel "Ergänzungsangebot Landbau "@de .
