@@ -4,7 +4,7 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Flel%2Fier%2F0c4049f6-ee55-4ba7-8d2a-f72a259d6f06",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Flel%2Fier%2F0c4049f6-ee55-4ba7-8d2a-f72a259d6f06",
   "prefLabel": {
-    "de": "Ergänzungsangebot Landbau "
+    "de": "Technikerin/Techniker Landbau"
   },
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/lel/ier/scheme",

@@ -7,7 +7,7 @@
   },
   "id": "https://test.skohub.iow3id.org/edu-sharing/vocabs/lel/ier/0c4049f6-ee55-4ba7-8d2a-f72a259d6f06",
   "type": "Service",
-  "name": "Ergänzungsangebot Landbau ",
+  "name": "Technikerin/Techniker Landbau",
   "preferredUsername": "773369642e6f72672f6564752d73686172696e672f766f636162732f6c656c2f6965722f30633430343966362d656535352d346261372d386432612d663732613235396436663036",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Flel%2Fier%2F0c4049f6-ee55-4ba7-8d2a-f72a259d6f06",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Flel%2Fier%2F0c4049f6-ee55-4ba7-8d2a-f72a259d6f06",

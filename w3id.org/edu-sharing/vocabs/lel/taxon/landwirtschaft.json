@@ -1,19 +1,39 @@
 {
-  "id": "https://w3id.org/edu-sharing/vocabs/lel/ier/0c4049f6-ee55-4ba7-8d2a-f72a259d6f06",
+  "id": "https://w3id.org/edu-sharing/vocabs/lel/taxon/landwirtschaft",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Flel%2Fier%2F0c4049f6-ee55-4ba7-8d2a-f72a259d6f06",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Flel%2Fier%2F0c4049f6-ee55-4ba7-8d2a-f72a259d6f06",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Flel%2Ftaxon%2Flandwirtschaft",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Flel%2Ftaxon%2Flandwirtschaft",
   "prefLabel": {
-    "de": "Technikerin/Techniker Landbau"
+    "de": "Landwirtschaft"
   },
+  "narrower": [
+    {
+      "id": "https://w3id.org/edu-sharing/vocabs/lel/taxon/tierische-erzeugung",
+      "prefLabel": {
+        "de": "Tierische Erzeugung"
+      }
+    },
+    {
+      "id": "https://w3id.org/edu-sharing/vocabs/lel/taxon/pflanzliche-erzeugung",
+      "prefLabel": {
+        "de": "Pflanzliche Erzeugung"
+      }
+    },
+    {
+      "id": "https://w3id.org/edu-sharing/vocabs/lel/taxon/betriebswirtschaft-unternehmensfuehrung",
+      "prefLabel": {
+        "de": "Betriebswirtschaft und Unternehmensführung"
+      }
+    }
+  ],
   "inScheme": {
-    "id": "https://w3id.org/edu-sharing/vocabs/lel/ier/scheme",
+    "id": "https://w3id.org/edu-sharing/vocabs/lel/taxon/scheme",
     "title": {
-      "de": "LEL Zielgruppen"
+      "de": "Landwirtschaft – Themenstruktur"
     }
   },
   "topConceptOf": {
-    "id": "https://w3id.org/edu-sharing/vocabs/lel/ier/scheme"
+    "id": "https://w3id.org/edu-sharing/vocabs/lel/taxon/scheme"
   },
   "@context": {
     "id": "@id",
