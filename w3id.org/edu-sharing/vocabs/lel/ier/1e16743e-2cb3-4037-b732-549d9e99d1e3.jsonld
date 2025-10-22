@@ -1,19 +1,19 @@
 {
-  "id": "https://w3id.org/edu-sharing/vocabs/switch/hcrt/1e16743e-2cb3-4037-b732-549d9e99d1e3",
+  "id": "https://w3id.org/edu-sharing/vocabs/lel/ier/1e16743e-2cb3-4037-b732-549d9e99d1e3",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Fswitch%2Fhcrt%2F1e16743e-2cb3-4037-b732-549d9e99d1e3",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Fswitch%2Fhcrt%2F1e16743e-2cb3-4037-b732-549d9e99d1e3",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fedu-sharing%2Fvocabs%2Flel%2Fier%2F1e16743e-2cb3-4037-b732-549d9e99d1e3",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Flel%2Fier%2F1e16743e-2cb3-4037-b732-549d9e99d1e3",
   "prefLabel": {
     "de": "Ergänzungsangebot Landbau "
   },
   "inScheme": {
-    "id": "https://w3id.org/edu-sharing/vocabs/switch/hcrt/scheme",
+    "id": "https://w3id.org/edu-sharing/vocabs/lel/ier/scheme",
     "title": {
-      "en": "Higher Education Resource Types (SWITCH)"
+      "de": "LEL Zielgruppen"
     }
   },
   "topConceptOf": {
-    "id": "https://w3id.org/edu-sharing/vocabs/switch/hcrt/scheme"
+    "id": "https://w3id.org/edu-sharing/vocabs/lel/ier/scheme"
   },
   "@context": {
     "id": "@id",
