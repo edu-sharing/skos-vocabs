@@ -12,12 +12,12 @@
 
 <1e16743e-2cb3-4037-b732-549d9e99d1e3> a skos:Concept;
            skos:topConceptOf <scheme> ;
-           skos:prefLabel "Ergänzungsangebot Landbau "@de .
+           skos:prefLabel "Ergänzungsangebot Landbau"@de .
 
 <df02e308-0630-40f3-9533-337af21b22de> a skos:Concept;
            skos:topConceptOf <scheme> ;
-           skos:prefLabel "Ergänzungsangebot Landbau "@de .
+           skos:prefLabel "Wirtschafterin/Wirtschafter Landbau"@de .
 
 <0c4049f6-ee55-4ba7-8d2a-f72a259d6f06> a skos:Concept;
            skos:topConceptOf <scheme> ;
-           skos:prefLabel "Ergänzungsangebot Landbau "@de .
+           skos:prefLabel "Technikerin/Techniker Landbau"@de .

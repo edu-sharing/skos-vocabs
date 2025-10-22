@@ -1,0 +1,157 @@
+@base <https://w3id.org/edu-sharing/vocabs/lel/taxon/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<scheme> a skos:ConceptScheme ;
+    dct:title "Landwirtschaft – Themenstruktur"@de ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
+    skos:hasTopConcept <landwirtschaft> .
+
+<landwirtschaft> a skos:Concept ;
+    skos:prefLabel "Landwirtschaft"@de ;
+    skos:topConceptOf <scheme> ;
+    skos:narrower <tierische-erzeugung>, <pflanzliche-erzeugung>, <betriebswirtschaft-unternehmensfuehrung> .
+
+### --- TIERISCHE ERZEUGUNG ---
+<tierische-erzeugung> a skos:Concept ;
+    skos:prefLabel "Tierische Erzeugung"@de ;
+    skos:broader <landwirtschaft> ;
+    skos:narrower <rinderhaltung>, <schweinehaltung>, <andere-tierhaltungsverfahren> .
+
+#### RINDERHALTUNG ####
+<rinderhaltung> a skos:Concept ;
+    skos:prefLabel "Rinderhaltung"@de ;
+    skos:broader <tierische-erzeugung> ;
+    skos:narrower 
+        <rind-betriebserkundung>,
+        <rind-qualitaetsmilch>,
+        <rind-fruchtbarkeit>,
+        <rind-fuetterung>,
+        <rind-jungtiere>,
+        <rind-marktanforderungen>,
+        <rind-oeko-milchvieh>,
+        <rind-fleischerzeugung>,
+        <rind-stallbau>,
+        <rind-tiergesundheit>,
+        <rind-zielkonflikte>,
+        <rind-weidehaltung>,
+        <rind-wirtschaftlichkeit>,
+        <rind-zuchtmanagement> .
+
+<rind-betriebserkundung> a skos:Concept ; skos:prefLabel "Betriebserkundung & Analysen"@de ; skos:broader <rinderhaltung> .
+<rind-qualitaetsmilch> a skos:Concept ; skos:prefLabel "Erzeugung von Qualitätsmilch"@de ; skos:broader <rinderhaltung> .
+<rind-fruchtbarkeit> a skos:Concept ; skos:prefLabel "Fruchtbarkeits- und Herdenmanagement"@de ; skos:broader <rinderhaltung> .
+<rind-fuetterung> a skos:Concept ; skos:prefLabel "Fütterung und Futtermitteleinsatz"@de ; skos:broader <rinderhaltung> .
+<rind-jungtiere> a skos:Concept ; skos:prefLabel "Jungtieraufzucht/Bestandsergänzung"@de ; skos:broader <rinderhaltung> .
+<rind-marktanforderungen> a skos:Concept ; skos:prefLabel "Marktanforderungen tierische Produkte"@de ; skos:broader <rinderhaltung> .
+<rind-oeko-milchvieh> a skos:Concept ; skos:prefLabel "Öko-Milchvieh"@de ; skos:broader <rinderhaltung> .
+<rind-fleischerzeugung> a skos:Concept ; skos:prefLabel "Rindfleischerzeugung"@de ; skos:broader <rinderhaltung> .
+<rind-stallbau> a skos:Concept ; skos:prefLabel "Planung von Rinderstallbauten"@de ; skos:broader <rinderhaltung> .
+<rind-tiergesundheit> a skos:Concept ; skos:prefLabel "Tiergesundheit & Tierschutz"@de ; skos:broader <rinderhaltung> .
+<rind-zielkonflikte> a skos:Concept ; skos:prefLabel "Wechselwirkungen/Zielkonflikte zwischen Leistung und Tierwohl, Umwelt- und Klimaschutz"@de ; skos:broader <rinderhaltung> .
+<rind-weidehaltung> a skos:Concept ; skos:prefLabel "Weidetierhaltung"@de ; skos:broader <rinderhaltung> .
+<rind-wirtschaftlichkeit> a skos:Concept ; skos:prefLabel "Wirtschaftlichkeitsanalysen von Tierhaltungsverfahren"@de ; skos:broader <rinderhaltung> .
+<rind-zuchtmanagement> a skos:Concept ; skos:prefLabel "Zuchtverfahren & Zuchtmanagement"@de ; skos:broader <rinderhaltung> .
+
+#### SCHWEINEHALTUNG ####
+<schweinehaltung> a skos:Concept ;
+    skos:prefLabel "Schweinehaltung"@de ;
+    skos:broader <tierische-erzeugung> ;
+    skos:narrower 
+        <schwein-betriebserkundung>,
+        <schwein-ferkelerzeugung>,
+        <schwein-fruchtbarkeit>,
+        <schwein-fuetterung>,
+        <schwein-marktanforderungen>,
+        <schwein-stallbau>,
+        <schwein-mast>,
+        <schwein-tiergesundheit>,
+        <schwein-vermarktung>,
+        <schwein-zielkonflikte>,
+        <schwein-wirtschaftlichkeit>,
+        <schwein-zuchtmanagement> .
+
+<schwein-betriebserkundung> a skos:Concept ; skos:prefLabel "Betriebserkundung & Analysen"@de ; skos:broader <schweinehaltung> .
+<schwein-ferkelerzeugung> a skos:Concept ; skos:prefLabel "Ferkelerzeugung & Ferkelhaltung"@de ; skos:broader <schweinehaltung> .
+<schwein-fruchtbarkeit> a skos:Concept ; skos:prefLabel "Fruchtbarkeits- und Herdenmanagement"@de ; skos:broader <schweinehaltung> .
+<schwein-fuetterung> a skos:Concept ; skos:prefLabel "Fütterung und Futtermitteleinsatz"@de ; skos:broader <schweinehaltung> .
+<schwein-marktanforderungen> a skos:Concept ; skos:prefLabel "Marktanforderungen tierische Produkte & Schweinefleisch"@de ; skos:broader <schweinehaltung> .
+<schwein-stallbau> a skos:Concept ; skos:prefLabel "Planung von Schweinestallbauten"@de ; skos:broader <schweinehaltung> .
+<schwein-mast> a skos:Concept ; skos:prefLabel "Schweinemast"@de ; skos:broader <schweinehaltung> .
+<schwein-tiergesundheit> a skos:Concept ; skos:prefLabel "Tiergesundheit & Tierschutz"@de ; skos:broader <schweinehaltung> .
+<schwein-vermarktung> a skos:Concept ; skos:prefLabel "Vermarktung Ferkel"@de ; skos:broader <schweinehaltung> .
+<schwein-zielkonflikte> a skos:Concept ; skos:prefLabel "Wechselwirkungen/Zielkonflikte zwischen Leistung und Tierwohl, Umwelt- und Klimaschutz"@de ; skos:broader <schweinehaltung> .
+<schwein-wirtschaftlichkeit> a skos:Concept ; skos:prefLabel "Wirtschaftlichkeitsanalysen von Tierhaltungsverfahren"@de ; skos:broader <schweinehaltung> .
+<schwein-zuchtmanagement> a skos:Concept ; skos:prefLabel "Zuchtverfahren & Zuchtmanagement"@de ; skos:broader <schweinehaltung> .
+
+#### ANDERE TIERHALTUNGSVERFAHREN ####
+<andere-tierhaltungsverfahren> a skos:Concept ;
+    skos:prefLabel "Andere Tierhaltungsverfahren"@de ;
+    skos:broader <tierische-erzeugung> ;
+    skos:narrower 
+        <alpakas>, <bienen>, <enten>, <fische>, <gaense>, <haehnchen>, 
+        <kaninchen>, <lamas>, <legehennen>, <mutterkuehe>, <pferde>, 
+        <puten>, <schafe>, <strausse>, <wachteln>, <ziegen> .
+
+<alpakas> a skos:Concept ; skos:prefLabel "Alpakas"@de ; skos:broader <andere-tierhaltungsverfahren> .
+<bienen> a skos:Concept ; skos:prefLabel "Bienen"@de ; skos:broader <andere-tierhaltungsverfahren> .
+<enten> a skos:Concept ; skos:prefLabel "Enten"@de ; skos:broader <andere-tierhaltungsverfahren> .
+<fische> a skos:Concept ; skos:prefLabel "Fische"@de ; skos:broader <andere-tierhaltungsverfahren> .
+<gaense> a skos:Concept ; skos:prefLabel "Gänse"@de ; skos:broader <andere-tierhaltungsverfahren> .
+<haehnchen> a skos:Concept ; skos:prefLabel "Hähnchen"@de ; skos:broader <andere-tierhaltungsverfahren> .
+<kaninchen> a skos:Concept ; skos:prefLabel "Kaninchen"@de ; skos:broader <andere-tierhaltungsverfahren> .
+<lamas> a skos:Concept ; skos:prefLabel "Lamas"@de ; skos:broader <andere-tierhaltungsverfahren> .
+<legehennen> a skos:Concept ; skos:prefLabel "Legehennen"@de ; skos:broader <andere-tierhaltungsverfahren> .
+<mutterkuehe> a skos:Concept ; skos:prefLabel "Mutterkühe"@de ; skos:broader <andere-tierhaltungsverfahren> .
+<pferde> a skos:Concept ; skos:prefLabel "Pferde"@de ; skos:broader <andere-tierhaltungsverfahren> .
+<puten> a skos:Concept ; skos:prefLabel "Puten"@de ; skos:broader <andere-tierhaltungsverfahren> .
+<schafe> a skos:Concept ; skos:prefLabel "Schafe"@de ; skos:broader <andere-tierhaltungsverfahren> .
+<strausse> a skos:Concept ; skos:prefLabel "Strauße"@de ; skos:broader <andere-tierhaltungsverfahren> .
+<wachteln> a skos:Concept ; skos:prefLabel "Wachteln"@de ; skos:broader <andere-tierhaltungsverfahren> .
+<ziegen> a skos:Concept ; skos:prefLabel "Ziegen"@de ; skos:broader <andere-tierhaltungsverfahren> .
+
+### --- PFLANZLICHE ERZEUGUNG ---
+<pflanzliche-erzeugung> a skos:Concept ;
+    skos:prefLabel "Pflanzliche Erzeugung"@de ;
+    skos:broader <landwirtschaft> ;
+    skos:narrower 
+        <agrartechnik>, <ackerkulturen>, <biodiversitaet>, <bodenkunde>, 
+        <bodenschutz>, <botanik>, <duengung>, <energiepflanzen>, <fruchtfolgen>, 
+        <futterbau>, <gruenland>, <pflanzenschutz>, <klimaanpassung>, 
+        <klimaschutz>, <naturschutz>, <oekolandbau>, <pflanzenzuechtung>, 
+        <recht>, <sonderkulturen>, <umweltschutz>, <versuchswesen>, <wasserschutz>, <zwischenfruechte> .
+
+<agrartechnik> a skos:Concept ; skos:prefLabel "Agrartechnik"@de ; skos:broader <pflanzliche-erzeugung> .
+<ackerkulturen> a skos:Concept ; skos:prefLabel "Ackerkulturen"@de ; skos:broader <pflanzliche-erzeugung> .
+<biodiversitaet> a skos:Concept ; skos:prefLabel "Biodiversität"@de ; skos:broader <pflanzliche-erzeugung> .
+<bodenkunde> a skos:Concept ; skos:prefLabel "Bodenkunde"@de ; skos:broader <pflanzliche-erzeugung> .
+<bodenschutz> a skos:Concept ; skos:prefLabel "Bodenschutz"@de ; skos:broader <pflanzliche-erzeugung> .
+<botanik> a skos:Concept ; skos:prefLabel "Botanik"@de ; skos:broader <pflanzliche-erzeugung> .
+<duengung> a skos:Concept ; skos:prefLabel "Düngung/Pflanzenernährung"@de ; skos:broader <pflanzliche-erzeugung> .
+<energiepflanzen> a skos:Concept ; skos:prefLabel "Energiepflanzen"@de ; skos:broader <pflanzliche-erzeugung> .
+<fruchtfolgen> a skos:Concept ; skos:prefLabel "Fruchtfolgen"@de ; skos:broader <pflanzliche-erzeugung> .
+<futterbau> a skos:Concept ; skos:prefLabel "Futterbau"@de ; skos:broader <pflanzliche-erzeugung> .
+<gruenland> a skos:Concept ; skos:prefLabel "Grünland"@de ; skos:broader <pflanzliche-erzeugung> .
+<pflanzenschutz> a skos:Concept ; skos:prefLabel "Integrierter Pflanzenschutz"@de ; skos:broader <pflanzliche-erzeugung> .
+<klimaanpassung> a skos:Concept ; skos:prefLabel "Klimaanpassung in der Landwirtschaft"@de ; skos:broader <pflanzliche-erzeugung> .
+<klimaschutz> a skos:Concept ; skos:prefLabel "Klimaschutz"@de ; skos:broader <pflanzliche-erzeugung> .
+<naturschutz> a skos:Concept ; skos:prefLabel "Naturschutz"@de ; skos:broader <pflanzliche-erzeugung> .
+<oekolandbau> a skos:Concept ; skos:prefLabel "Ökologischer Landbau"@de ; skos:broader <pflanzliche-erzeugung> .
+<pflanzenzuechtung> a skos:Concept ; skos:prefLabel "Pflanzenzüchtung/Sorten/Saatgutwesen"@de ; skos:broader <pflanzliche-erzeugung> .
+<recht> a skos:Concept ; skos:prefLabel "rechtl. Rahmenbedingungen"@de ; skos:broader <pflanzliche-erzeugung> .
+<sonderkulturen> a skos:Concept ; skos:prefLabel "Sonderkulturen"@de ; skos:broader <pflanzliche-erzeugung> .
+<umweltschutz> a skos:Concept ; skos:prefLabel "Umweltschutz"@de ; skos:broader <pflanzliche-erzeugung> .
+<versuchswesen> a skos:Concept ; skos:prefLabel "Versuchswesen"@de ; skos:broader <pflanzliche-erzeugung> .
+<wasserschutz> a skos:Concept ; skos:prefLabel "Wasserschutz"@de ; skos:broader <pflanzliche-erzeugung> .
+<zwischenfruechte> a skos:Concept ; skos:prefLabel "Zwischenfrüchte"@de ; skos:broader <pflanzliche-erzeugung> .
+
+### --- BETRIEBSWIRTSCHAFT UND UNTERNEHMENSFÜHRUNG ---
+<betriebswirtschaft-unternehmensfuehrung> a skos:Concept ;
+    skos:prefLabel "Betriebswirtschaft und Unternehmensführung"@de ;
+    skos:broader <landwirtschaft> ;
+    skos:narrower <unternehmensfuehrung>, <betriebswirtschaft>, <agrarpolitik>, <recht-steuern> .
+
+<unternehmensfuehrung> a skos:Concept ; skos:prefLabel "Unternehmensführung"@de ; skos:broader <betriebswirtschaft-unternehmensfuehrung> .
+<betriebswirtschaft> a skos:Concept ; skos:prefLabel "Betriebswirtschaft"@de ; skos:broader <betriebswirtschaft-unternehmensfuehrung> .
+<agrarpolitik> a skos:Concept ; skos:prefLabel "Agrarpolitik, Agrarmärkte & Marketing"@de ; skos:broader <betriebswirtschaft-unternehmensfuehrung> .
+<recht-steuern> a skos:Concept ; skos:prefLabel "Recht, Steuern und Versicherung"@de ; skos:broader <betriebswirtschaft-unternehmensfuehrung> .
