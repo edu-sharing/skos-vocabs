@@ -28,7 +28,6 @@
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/switch/hcrt/scheme",
     "title": {
-      "de": "Hochschulcampus Ressourcentypen (SWITCH)",
       "en": "Higher Education Resource Types (SWITCH)"
     }
   },
