@@ -1,0 +1,101 @@
+@base <https://w3id.org/edu-sharing/vocabs/lel/taxon/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<scheme> a skos:ConceptScheme ;
+    dct:title "LEL Hochschulcampus Ressourcentypen"@de ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
+    skos:hasTopConcept
+        <andere_materialart>, <abbildung>, <arbeitsblatt>, <arbeitstext>, <audio>,
+        <gruppenarbeit>, <kurs>, <lehrbuch>, <lernspiel>, <literatur>,
+        <merkblatt>, <poster>, <praesentation_tafelbild>, <programm>,
+        <pruefungsvorbereitung>, <quiz>, <stationenlernen>, <test>,
+        <unterrichtsentwurf>, <versuchsergebnis>, <video>, <webseite> .
+
+<andere_materialart> a skos:Concept ;
+    skos:topConceptOf <scheme> ;
+    skos:prefLabel "Andere Materialart"@de .
+
+<abbildung> a skos:Concept ;
+    skos:topConceptOf <scheme> ;
+    skos:prefLabel "Abbildung"@de .
+
+<arbeitsblatt> a skos:Concept ;
+    skos:topConceptOf <scheme> ;
+    skos:prefLabel "Arbeitsblatt"@de .
+
+<arbeitstext> a skos:Concept ;
+    skos:topConceptOf <scheme> ;
+    skos:prefLabel "Arbeitstext"@de .
+
+<audio> a skos:Concept ;
+    skos:topConceptOf <scheme> ;
+    skos:prefLabel "Audio"@de .
+
+<gruppenarbeit> a skos:Concept ;
+    skos:topConceptOf <scheme> ;
+    skos:prefLabel "Gruppenarbeit"@de .
+
+<kurs> a skos:Concept ;
+    skos:topConceptOf <scheme> ;
+    skos:prefLabel "Kurs"@de .
+
+<lehrbuch> a skos:Concept ;
+    skos:topConceptOf <scheme> ;
+    skos:prefLabel "Lehrbuch"@de .
+
+<lernspiel> a skos:Concept ;
+    skos:topConceptOf <scheme> ;
+    skos:prefLabel "Lernspiel"@de .
+
+<literatur> a skos:Concept ;
+    skos:topConceptOf <scheme> ;
+    skos:prefLabel "Literatur"@de .
+
+<merkblatt> a skos:Concept ;
+    skos:topConceptOf <scheme> ;
+    skos:prefLabel "Merkblatt"@de .
+
+<poster> a skos:Concept ;
+    skos:topConceptOf <scheme> ;
+    skos:prefLabel "Poster"@de .
+
+<praesentation_tafelbild> a skos:Concept ;
+    skos:topConceptOf <scheme> ;
+    skos:prefLabel "Präsentation/Tafelbild"@de .
+
+<programm> a skos:Concept ;
+    skos:topConceptOf <scheme> ;
+    skos:prefLabel "Programm"@de .
+
+<pruefungsvorbereitung> a skos:Concept ;
+    skos:topConceptOf <scheme> ;
+    skos:prefLabel "Prüfungsvorbereitung"@de .
+
+<quiz> a skos:Concept ;
+    skos:topConceptOf <scheme> ;
+    skos:prefLabel "Quiz"@de .
+
+<stationenlernen> a skos:Concept ;
+    skos:topConceptOf <scheme> ;
+    skos:prefLabel "Stationenlernen"@de .
+
+<test> a skos:Concept ;
+    skos:topConceptOf <scheme> ;
+    skos:prefLabel "Test"@de .
+
+<unterrichtsentwurf> a skos:Concept ;
+    skos:topConceptOf <scheme> ;
+    skos:prefLabel "Unterrichtsentwurf"@de .
+
+<versuchsergebnis> a skos:Concept ;
+    skos:topConceptOf <scheme> ;
+    skos:prefLabel "Versuchsergebnis"@de .
+
+<video> a skos:Concept ;
+    skos:topConceptOf <scheme> ;
+    skos:prefLabel "Video"@de .
+
+<webseite> a skos:Concept ;
+    skos:topConceptOf <scheme> ;
+    skos:prefLabel "Webseite"@de .
