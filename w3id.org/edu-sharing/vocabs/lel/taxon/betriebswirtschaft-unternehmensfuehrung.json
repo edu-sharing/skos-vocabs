@@ -39,10 +39,7 @@
     }
   },
   "inScheme": {
-    "id": "https://w3id.org/edu-sharing/vocabs/lel/taxon/scheme",
-    "title": {
-      "de": "Landwirtschaft – Themenstruktur"
-    }
+    "id": "https://w3id.org/edu-sharing/vocabs/lel/taxon/scheme"
   },
   "@context": {
     "id": "@id",
