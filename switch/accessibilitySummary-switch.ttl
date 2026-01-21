@@ -17,19 +17,23 @@
 <none> a skos:Concept ;
     skos:prefLabel "Nicht geprüft"@de ;
     skos:prefLabel "Not tested"@en ;
+    skos:prefLabel "Non verificato"@it ;
     skos:topConceptOf <> .
 
 <a> a skos:Concept ;
     skos:prefLabel "A (am niedrigsten)"@de ;
     skos:prefLabel "A (lowest)"@en ;
+    skos:prefLabel "A (livello minimo)"@it ;
     skos:topConceptOf <> .
 
 <aa> a skos:Concept ;
     skos:prefLabel "AA (mittel)"@de ;
     skos:prefLabel "AA (mid range)"@en ;
+    skos:prefLabel "AA (livello medio)"@it ;
     skos:topConceptOf <> .
 
 <aaa> a skos:Concept ;
     skos:prefLabel "AAA (am höchsten)"@de ;
     skos:prefLabel "AAA (highest)"@en ;
+    skos:prefLabel "AAA (livello massimo)"@it ;
     skos:topConceptOf <> .
