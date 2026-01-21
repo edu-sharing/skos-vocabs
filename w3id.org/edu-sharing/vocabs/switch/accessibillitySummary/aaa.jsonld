@@ -5,7 +5,8 @@
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Fswitch%2FaccessibillitySummary%2Faaa",
   "prefLabel": {
     "de": "AAA (am höchsten)",
-    "en": "AAA (highest)"
+    "en": "AAA (highest)",
+    "it": "AAA (livello massimo)"
   },
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/switch/accessibillitySummary/",

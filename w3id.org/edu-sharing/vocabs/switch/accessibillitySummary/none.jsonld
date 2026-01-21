@@ -5,7 +5,8 @@
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Fswitch%2FaccessibillitySummary%2Fnone",
   "prefLabel": {
     "de": "Nicht geprüft",
-    "en": "Not tested"
+    "en": "Not tested",
+    "it": "Non verificato"
   },
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/switch/accessibillitySummary/",

@@ -5,7 +5,8 @@
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fedu-sharing%2Fvocabs%2Fswitch%2FaccessibillitySummary%2Faa",
   "prefLabel": {
     "de": "AA (mittel)",
-    "en": "AA (mid range)"
+    "en": "AA (mid range)",
+    "it": "AA (livello medio)"
   },
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/switch/accessibillitySummary/",
