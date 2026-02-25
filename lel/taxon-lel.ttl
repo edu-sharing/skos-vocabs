@@ -5,7 +5,7 @@
 <scheme> a skos:ConceptScheme ;
     dct:title "Landwirtschaft – Themenstruktur"@de ;
     dct:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
-    skos:hasTopConcept <landwirtschaft> .
+    skos:hasTopConcept <landwirtschaft>, <hauswirtschaft> .
 
 <landwirtschaft> a skos:Concept ;
     skos:prefLabel "Landwirtschaft"@de ;
@@ -161,3 +161,180 @@
 <betriebswirtschaft> a skos:Concept ; skos:prefLabel "Betriebswirtschaft"@de ; skos:broader <betriebswirtschaft-unternehmensfuehrung> ; skos:inScheme <scheme> .
 <agrarpolitik> a skos:Concept ; skos:prefLabel "Agrarpolitik, Agrarmärkte & Marketing"@de ; skos:broader <betriebswirtschaft-unternehmensfuehrung> ; skos:inScheme <scheme> .
 <recht-steuern> a skos:Concept ; skos:prefLabel "Recht, Steuern und Versicherung"@de ; skos:broader <betriebswirtschaft-unternehmensfuehrung> ; skos:inScheme <scheme> .
+
+### --- HAUSWIRTSCHAFT ---
+<hauswirtschaft> a skos:Concept ;
+    skos:prefLabel "Hauswirtschaft"@de ;
+    skos:topConceptOf <scheme> ;
+    skos:narrower 
+        <berufsausbildung>, <betreuungsleistungen>, <betriebliche-kommunikation>,
+        <edv-it>, <englisch>, <ernaehrung>, <fachrechnen>, <gartenbau>, 
+        <haustechnik>, <hygiene>, <nahrungszubereitung>, <projekte>, 
+        <reinigung>, <textil-waeschepflege>, <unternehmensfuehrung-bwl> ;
+    skos:inScheme <scheme> .
+
+#### BERUFSAUSBILDUNG ####
+<berufsausbildung> a skos:Concept ;
+    skos:prefLabel "Berufsausbildung"@de ;
+    skos:broader <hauswirtschaft> ;
+    skos:narrower <bap>, <ausbildung-hauswirtschaft> ;
+    skos:inScheme <scheme> .
+
+<bap> a skos:Concept ;
+    skos:prefLabel "BAP (Berufs- und Arbeitspädagogik)"@de ;
+    skos:broader <berufsausbildung> ;
+    skos:inScheme <scheme> .
+
+<ausbildung-hauswirtschaft> a skos:Concept ;
+    skos:prefLabel "Ausbildung in der Hauswirtschaft"@de ;
+    skos:broader <berufsausbildung> ;
+    skos:inScheme <scheme> .
+
+#### BETREUUNGSLEISTUNGEN ####
+<betreuungsleistungen> a skos:Concept ;
+    skos:prefLabel "Betreuungsleistungen"@de ;
+    skos:broader <hauswirtschaft> ;
+    skos:inScheme <scheme> .
+
+#### BETRIEBLICHE KOMMUNIKATION ####
+<betriebliche-kommunikation> a skos:Concept ;
+    skos:prefLabel "Betriebliche Kommunikation"@de ;
+    skos:broader <hauswirtschaft> ;
+    skos:inScheme <scheme> .
+
+#### EDV/IT ####
+<edv-it> a skos:Concept ;
+    skos:prefLabel "EDV/IT"@de ;
+    skos:broader <hauswirtschaft> ;
+    skos:inScheme <scheme> .
+
+#### ENGLISCH ####
+<englisch> a skos:Concept ;
+    skos:prefLabel "Englisch"@de ;
+    skos:broader <hauswirtschaft> ;
+    skos:inScheme <scheme> .
+
+#### ERNÄHRUNG ####
+<ernaehrung> a skos:Concept ;
+    skos:prefLabel "Ernährung"@de ;
+    skos:broader <hauswirtschaft> ;
+    skos:inScheme <scheme> .
+
+#### FACHRECHNEN ####
+<fachrechnen> a skos:Concept ;
+    skos:prefLabel "Fachrechnen"@de ;
+    skos:broader <hauswirtschaft> ;
+    skos:inScheme <scheme> .
+
+#### GARTENBAU ####
+<gartenbau> a skos:Concept ;
+    skos:prefLabel "Gartenbau"@de ;
+    skos:broader <hauswirtschaft> ;
+    skos:inScheme <scheme> .
+
+#### HAUSTECHNIK ####
+<haustechnik> a skos:Concept ;
+    skos:prefLabel "Haustechnik"@de ;
+    skos:broader <hauswirtschaft> ;
+    skos:inScheme <scheme> .
+
+#### HYGIENE ####
+<hygiene> a skos:Concept ;
+    skos:prefLabel "Hygiene"@de ;
+    skos:broader <hauswirtschaft> ;
+    skos:inScheme <scheme> .
+
+#### NAHRUNGSZUBEREITUNG ####
+<nahrungszubereitung> a skos:Concept ;
+    skos:prefLabel "Nahrungszubereitung"@de ;
+    skos:broader <hauswirtschaft> ;
+    skos:inScheme <scheme> .
+
+#### PROJEKTE ####
+<projekte> a skos:Concept ;
+    skos:prefLabel "Projekte"@de ;
+    skos:broader <hauswirtschaft> ;
+    skos:inScheme <scheme> .
+
+#### REINIGUNG ####
+<reinigung> a skos:Concept ;
+    skos:prefLabel "Reinigung"@de ;
+    skos:broader <hauswirtschaft> ;
+    skos:inScheme <scheme> .
+
+#### TEXTIL- UND WÄSCHEPFLEGE ####
+<textil-waeschepflege> a skos:Concept ;
+    skos:prefLabel "Textil- und Wäschepflege"@de ;
+    skos:broader <hauswirtschaft> ;
+    skos:inScheme <scheme> .
+
+#### UNTERNEHMENSFÜHRUNG/BWL ####
+<unternehmensfuehrung-bwl> a skos:Concept ;
+    skos:prefLabel "Unternehmensführung/BWL"@de ;
+    skos:broader <hauswirtschaft> ;
+    skos:narrower 
+        <betriebs-arbeitsorganisation>, <einkommenskombinationen>, <marketing-bwl>,
+        <personal>, <rechnungswesen-buchfuehrung>, <recht-bwl>, <steuern-bwl>,
+        <vermarktung-bwl>, <verbraucherkunde>, <versicherungen-bwl> ;
+    skos:inScheme <scheme> .
+
+<betriebs-arbeitsorganisation> a skos:Concept ;
+    skos:prefLabel "Betriebs- und Arbeitsorganisation"@de ;
+    skos:broader <unternehmensfuehrung-bwl> ;
+    skos:inScheme <scheme> .
+
+<einkommenskombinationen> a skos:Concept ;
+    skos:prefLabel "Einkommenskombinationen"@de ;
+    skos:broader <unternehmensfuehrung-bwl> ;
+    skos:inScheme <scheme> .
+
+<marketing-bwl> a skos:Concept ;
+    skos:prefLabel "Marketing"@de ;
+    skos:broader <unternehmensfuehrung-bwl> ;
+    skos:inScheme <scheme> .
+
+<personal> a skos:Concept ;
+    skos:prefLabel "Personal"@de ;
+    skos:broader <unternehmensfuehrung-bwl> ;
+    skos:inScheme <scheme> .
+
+<rechnungswesen-buchfuehrung> a skos:Concept ;
+    skos:prefLabel "Rechnungswesen und Buchführung"@de ;
+    skos:broader <unternehmensfuehrung-bwl> ;
+    skos:inScheme <scheme> .
+
+<recht-bwl> a skos:Concept ;
+    skos:prefLabel "Recht"@de ;
+    skos:broader <unternehmensfuehrung-bwl> ;
+    skos:inScheme <scheme> .
+
+<steuern-bwl> a skos:Concept ;
+    skos:prefLabel "Steuern"@de ;
+    skos:broader <unternehmensfuehrung-bwl> ;
+    skos:inScheme <scheme> .
+
+<vermarktung-bwl> a skos:Concept ;
+    skos:prefLabel "Vermarktung"@de ;
+    skos:broader <unternehmensfuehrung-bwl> ;
+    skos:inScheme <scheme> .
+
+<verbraucherkunde> a skos:Concept ;
+    skos:prefLabel "Verbraucherkunde"@de ;
+    skos:broader <unternehmensfuehrung-bwl> ;
+    skos:narrower <grundlagen-wirtschaftlichen-handelns>, <qualitaetsmanagement> ;
+    skos:inScheme <scheme> .
+
+<grundlagen-wirtschaftlichen-handelns> a skos:Concept ;
+    skos:prefLabel "Grundlagen wirtschaftlichen Handelns"@de ;
+    skos:broader <verbraucherkunde> ;
+    skos:inScheme <scheme> .
+
+<qualitaetsmanagement> a skos:Concept ;
+    skos:prefLabel "Qualitätsmanagement"@de ;
+    skos:broader <verbraucherkunde> ;
+    skos:inScheme <scheme> .
+
+<versicherungen-bwl> a skos:Concept ;
+    skos:prefLabel "Versicherungen"@de ;
+    skos:broader <unternehmensfuehrung-bwl> ;
+    skos:inScheme <scheme> .
