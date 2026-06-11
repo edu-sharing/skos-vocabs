@@ -6,18 +6,55 @@
 <scheme> a skos:ConceptScheme;
         dct:title "LEL Zielgruppen"@de ;
         dct:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
-        skos:hasTopConcept <1e16743e-2cb3-4037-b732-549d9e99d1e3> ,
-        <df02e308-0630-40f3-9533-337af21b22de> ,
-        <0c4049f6-ee55-4ba7-8d2a-f72a259d6f06> .
+        skos:hasTopConcept <133b3214-ed89-46a2-bcd0-34189bfea690> ,
+        <7043408c-53c5-4461-81a0-0bdc91dbf8c7> .
 
-<1e16743e-2cb3-4037-b732-549d9e99d1e3> a skos:Concept;
+<133b3214-ed89-46a2-bcd0-34189bfea690> a skos:Concept;
            skos:topConceptOf <scheme> ;
-           skos:prefLabel "Ergänzungsangebot Landbau"@de .
+           skos:prefLabel "Landbau"@de ;
+           skos:narrower <df02e308-0630-40f3-9533-337af21b22de> ,
+                         <0c4049f6-ee55-4ba7-8d2a-f72a259d6f06> ,
+                         <1e16743e-2cb3-4037-b732-549d9e99d1e3> .
 
 <df02e308-0630-40f3-9533-337af21b22de> a skos:Concept;
-           skos:topConceptOf <scheme> ;
+           skos:inScheme <scheme> ;
+           skos:broader <133b3214-ed89-46a2-bcd0-34189bfea690> ;
            skos:prefLabel "Wirtschafterin/Wirtschafter Landbau"@de .
 
 <0c4049f6-ee55-4ba7-8d2a-f72a259d6f06> a skos:Concept;
-           skos:topConceptOf <scheme> ;
+           skos:inScheme <scheme> ;
+           skos:broader <133b3214-ed89-46a2-bcd0-34189bfea690> ;
            skos:prefLabel "Technikerin/Techniker Landbau"@de .
+
+<1e16743e-2cb3-4037-b732-549d9e99d1e3> a skos:Concept;
+           skos:inScheme <scheme> ;
+           skos:broader <133b3214-ed89-46a2-bcd0-34189bfea690> ;
+           skos:prefLabel "Ergänzungsangebot Landbau"@de .
+
+<7043408c-53c5-4461-81a0-0bdc91dbf8c7> a skos:Concept;
+           skos:topConceptOf <scheme> ;
+           skos:prefLabel "Hauswirtschaft"@de ;
+           skos:narrower <dbeac349-d158-43c2-b771-da736f99477b> ,
+                         <60e31ed0-acba-4ee2-8129-a1ed80dd50bc> ,
+                         <f8ed4919-cb18-4e9b-b4da-720a6ff8e009> ,
+                         <fe73097f-9859-44ae-8320-959cb400f575> .
+
+<dbeac349-d158-43c2-b771-da736f99477b> a skos:Concept;
+           skos:inScheme <scheme> ;
+           skos:broader <7043408c-53c5-4461-81a0-0bdc91dbf8c7> ;
+           skos:prefLabel "Ausbildung nach § 2 FSL-VO + Ergänzungsangebot § 45 (2) BBiG"@de .
+
+<60e31ed0-acba-4ee2-8129-a1ed80dd50bc> a skos:Concept;
+           skos:inScheme <scheme> ;
+           skos:broader <7043408c-53c5-4461-81a0-0bdc91dbf8c7> ;
+           skos:prefLabel "Hauswirtschaftliche Betriebsleiterin"@de .
+
+<f8ed4919-cb18-4e9b-b4da-720a6ff8e009> a skos:Concept;
+           skos:inScheme <scheme> ;
+           skos:broader <7043408c-53c5-4461-81a0-0bdc91dbf8c7> ;
+           skos:prefLabel "Meisterin"@de .
+
+<fe73097f-9859-44ae-8320-959cb400f575> a skos:Concept;
+           skos:inScheme <scheme> ;
+           skos:broader <7043408c-53c5-4461-81a0-0bdc91dbf8c7> ;
+           skos:prefLabel "Wirtschafterin"@de .
