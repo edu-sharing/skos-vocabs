@@ -6,14 +6,17 @@
   "prefLabel": {
     "de": "Technikerin/Techniker Landbau"
   },
+  "broader": {
+    "id": "https://w3id.org/edu-sharing/vocabs/lel/ier/133b3214-ed89-46a2-bcd0-34189bfea690",
+    "prefLabel": {
+      "de": "Landbau"
+    }
+  },
   "inScheme": {
     "id": "https://w3id.org/edu-sharing/vocabs/lel/ier/scheme",
     "title": {
       "de": "LEL Zielgruppen"
     }
-  },
-  "topConceptOf": {
-    "id": "https://w3id.org/edu-sharing/vocabs/lel/ier/scheme"
   },
   "@context": {
     "id": "@id",
